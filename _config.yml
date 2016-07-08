@@ -70,7 +70,6 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/hanscholem/hanscholem.github.io.git
-  branch: master
   message: hexo deploy
 
 
