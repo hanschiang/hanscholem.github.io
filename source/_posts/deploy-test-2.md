@@ -4,5 +4,6 @@ date: 2016-07-09 02:01:07
 tags: hexo_test
 ---
 
-- 測試 2 。
+- Mac ，branch 測試 2 。
 - 還是有狀況。
+- Ubuntu 測試。
