@@ -1,7 +1,7 @@
 ---
 title: deploy test 2
 date: 2016-07-09 02:01:07
-tags: hexo_test
+tags: blog_mana
 ---
 
 - Mac ，branch 測試 2 。
