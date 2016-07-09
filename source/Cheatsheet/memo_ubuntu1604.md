@@ -101,14 +101,14 @@ sudo apt-get install gimp
 
 https://github.com/Anthony25/gnome-terminal-colors-solarized
 
-> Gnome 3.8 or higher
+```
+Gnome 3.8 or higher
+Be sure to have the dconf-cli package installed and do:
 
-> Be sure to have the dconf-cli package installed and do:
+$ dconf reset -f /org/gnome/terminal/legacy/profiles:/PROFILE_ID"
 
-> $ dconf reset -f /org/gnome/terminal/legacy/profiles:/PROFILE_ID"
-
-> Replace PROFILE_ID by your profile ID (you can get it in your profile configuration in gnome-terminal).
-
+Replace PROFILE_ID by your profile ID (you can get it in your profile configuration in gnome-terminal).
+```
 
 ## Ubuntu gnome-terminal working directory at start
 

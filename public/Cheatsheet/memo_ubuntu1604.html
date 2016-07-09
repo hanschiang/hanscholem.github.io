@@ -21,7 +21,7 @@ ASUS N82JQ
 設定 NVIDIA Driver找 Additional Driver
 安裝 ruby1sudo apt-get install ruby
 安裝 git12345sudo apt-get install git-coregit config --global user.name &amp;quot;Your Name&amp;quot;git con">
-<meta property="og:updated_time" content="2016-07-09T14:38:15.782Z">
+<meta property="og:updated_time" content="2016-07-09T14:44:07.282Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hans the Golem">
 <meta name="twitter:description" content="Ubuntu 16.04 安裝筆記設備
@@ -85,7 +85,7 @@ ASUS N82JQ
         <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/Cheatsheet/memo_ubuntu1604.html" class="article-date">
-  <time datetime="2016-07-09T14:38:15.782Z" itemprop="datePublished">2016-07-09</time>
+  <time datetime="2016-07-09T14:44:07.282Z" itemprop="datePublished">2016-07-09</time>
 </a>
     
   </div>
@@ -119,12 +119,7 @@ ASUS N82JQ
 <p>deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。這裡的安裝能用 script 一起完成執行？</p>
 <h2 id="安裝-gimp-繪圖，修圖用"><a href="#安裝-gimp-繪圖，修圖用" class="headerlink" title="安裝 gimp 繪圖，修圖用"></a>安裝 gimp 繪圖，修圖用</h2><p>sudo apt-get install gimp</p>
 <h2 id="Ubuntu-gnome-terminal-Profile-Reset"><a href="#Ubuntu-gnome-terminal-Profile-Reset" class="headerlink" title="Ubuntu gnome-terminal Profile Reset"></a>Ubuntu gnome-terminal Profile Reset</h2><p><a href="https://github.com/Anthony25/gnome-terminal-colors-solarized" target="_blank" rel="external">https://github.com/Anthony25/gnome-terminal-colors-solarized</a></p>
-<blockquote>
-<p>Gnome 3.8 or higher</p>
-<p>Be sure to have the dconf-cli package installed and do:</p>
-<p>$ dconf reset -f /org/gnome/terminal/legacy/profiles:/PROFILE_ID”</p>
-<p>Replace PROFILE_ID by your profile ID (you can get it in your profile configuration in gnome-terminal).</p>
-</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">Gnome 3.8 or higher</div><div class="line">Be sure to have the dconf-cli package installed and do:</div><div class="line"></div><div class="line">$ dconf reset -f /org/gnome/terminal/legacy/profiles:/PROFILE_ID&quot;</div><div class="line"></div><div class="line">Replace PROFILE_ID by your profile ID (you can get it in your profile configuration in gnome-terminal).</div></pre></td></tr></table></figure>
 <h2 id="Ubuntu-gnome-terminal-working-directory-at-start"><a href="#Ubuntu-gnome-terminal-working-directory-at-start" class="headerlink" title="Ubuntu gnome-terminal working directory at start"></a>Ubuntu gnome-terminal working directory at start</h2><p>Modify the ~/.bashrc file and add:</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cd /directory/of/your/choice</div></pre></td></tr></table></figure>
 <h2 id="Chrome-hotkey"><a href="#Chrome-hotkey" class="headerlink" title="Chrome hotkey"></a>Chrome hotkey</h2><p><a href="https://support.google.com/chrome/answer/157179?hl=en" target="_blank" rel="external">https://support.google.com/chrome/answer/157179?hl=en</a></p>
@@ -134,7 +129,7 @@ ASUS N82JQ
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/memo_ubuntu1604.html" data-id="ciqfa2s8800070j54ljxdzprv" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/memo_ubuntu1604.html" data-id="ciqfa7x2j00017054ebngp5k4" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/memo_ubuntu1604.html#disqus_thread" class="article-comment-link">留言</a>
       
