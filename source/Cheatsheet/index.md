@@ -49,6 +49,7 @@ ctrl-shift-P | Search-driven menu. It will show command and keybinding.
 - sql
 - [ubuntu 16.04](/Cheatsheet/memo_ubuntu1604.html)
 - [ASUS N82JQ](http://hanscholem.tw/Cheatsheet/asus_n82jq_setting.html)
+- 以上兩行的寫法有差別。要注意。
 
 ## hexo memo
 
