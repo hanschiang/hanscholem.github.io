@@ -5,32 +5,38 @@ date: 2016-07-09 16:20:26
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Some Topics](#some-topics)
-	- [Ubuntu](#ubuntu)
-		- [Atom](#atom)
-	- [Others](#others)
+	- [atom in Ubuntu](#atom-in-ubuntu)
+		- [packages](#packages)
+		- [hot key](#hot-key)
+	- [others](#others)
 	- [hexo memo](#hexo-memo)
 		- [hexo deploy git](#hexo-deploy-git)
 		- [hexo feed](#hexo-feed)
-	- [BBS application](#bbs-application)
-		- [PcMan](#pcman)
-		- [GeMan](#geman)
+	- [bbs application](#bbs-application)
+		- [pcman](#pcman)
+		- [geman](#geman)
 		- [terminal](#terminal)
-	- [python2.7 memo](#python27-memo)
+	- [python27 memo](#python27-memo)
+	- [測試中文標題](#測試中文標題)
+		- [測試中文標題2](#測試中文標題2)
 
 <!-- /TOC -->
 
-# Some Topics
+## atom in Ubuntu
 
-## Ubuntu
-### Atom
+### packages
 
+Package Name | Description
+-------------|-------------
+markdown-toc | Create table of content for a markdown document
+
+### hot key
 Hot Key | Description
 --------|-------------
 ctrl-shift-P | Search-driven menu. It will show command and keybinding.
 
 
-## Others
+## others
 - Windows
 - html
 - css
@@ -62,12 +68,12 @@ https://github.com/hexojs/hexo-generator-feed
 npm install hexo-generator-feed --save
 
 
-## BBS application
+## bbs application
 
-### PcMan
+### pcman
 大概是台灣人最常用的 BBS Client ？ Ubuntu 16.04 之前因為在預設套件庫裡沒有，所以比較少用。
 
-### GeMan
+### geman
 PRC人做的 PCMan 的 Clone？也蠻好用的。
 
 ### terminal
@@ -76,9 +82,15 @@ PRC人做的 PCMan 的 Clone？也蠻好用的。
 luit -encoding big5 telnet ptt.cc
 ```
 
-## python2.7 memo
+## python27 memo
 ```
 sudo apt install python-pip
 pip install --upgrade pip
 pip install virtualenv
 ```
+
+## 測試中文標題
+
+### 測試中文標題2
+
+純粹測試
