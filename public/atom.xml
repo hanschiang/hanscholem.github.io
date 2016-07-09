@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-07-09T04:40:55.224Z</updated>
+  <updated>2016-07-09T08:15:01.925Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>atom sync test</title>
+    <link href="http://hanscholem.github.io/2016/07/09/atom-sync-test/"/>
+    <id>http://hanscholem.github.io/2016/07/09/atom-sync-test/</id>
+    <published>2016-07-09T08:08:20.000Z</published>
+    <updated>2016-07-09T08:15:01.925Z</updated>
+    
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;atom 同步測試。&lt;/li&gt;
+&lt;li&gt;安裝的筆記還是要做一下……每次都會忘東西。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;atom 同步測試。&lt;/li&gt;
+&lt;li&gt;安裝的筆記還是要做一下……每次都會忘東西。&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+    </summary>
+    
+      <category term="blog management" scheme="http://hanscholem.github.io/categories/blog-management/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20160708 Fri</title>
@@ -138,34 +166,6 @@
       &lt;ul&gt;
 &lt;li&gt;前幾天老闆同意把招募員工的廣告，一改原本慣例的「面議」放上公司規定的薪資內容，這幾天陸續著手把徵才廣告放上 ptt ， facebook 等等社群媒體。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.104.com.tw/jobbank/custj
-    
-    </summary>
-    
-      <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Domain Name</title>
-    <link href="http://hanscholem.github.io/2016/07/07/Domain-Name/"/>
-    <id>http://hanscholem.github.io/2016/07/07/Domain-Name/</id>
-    <published>2016-07-07T07:25:49.000Z</published>
-    <updated>2016-07-08T18:53:59.089Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;昨晚&lt;a href=&quot;http://wayneh.tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; Wayneh &lt;/a&gt;建議我去弄個網域名稱，深夜覺得人生沒有前途，來做點沒做過的事情，於是信用卡刷了八百塊買了一個網域一年。&lt;/li&gt;
-&lt;li&gt;我也不知道申請個網域對人生有什麼幫助，而且我一直沒辦法定下一個覺得自己滿意的英文id。evilchiang用最久最習慣，小時候不懂事不覺的怎麼樣，長大之後不時被爸爸說這個名字不適當，講著講著，我也覺得不適當起來。自我認同被重要的人摧毀之後，也就無所謂自我認同的狀態。&lt;/li&gt;
-&lt;li&gt;所以很假仙地申請了 &lt;a href=&quot;http://hanscholem.tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hanscholem.tw&lt;/a&gt; ，其實也不是什麼好話， blog 標題「 Hans the Golem 」， hanscholem 是我自以為諧音亂取的，找一些我喜歡的字的字首亂湊硬凹。 Golem 對於常在玩奇幻遊戲譬如 Diablo 之類的人大概很熟悉，泥人或者是石頭人甚至是火人，總之是人造的生命體，但又不是人類，通常是某種元素或者無生命物（包括屍體）拼湊組合起來然後用魔法賦予基本的生物行動能力的被造物，典出&lt;a href=&quot;https://en.wikipedia.org/wiki/Golem&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;猶太人的民間故事或者神話&lt;/a&gt;，是一則人類關於「神造人」這件事情的探討的寓言故事，那個製造 Golem 的猶太教祭司讓泥人「活動起來」的關鍵據說是神的名字刻在泥人頭上，又一說是寫著神的名字塞入泥人口中的紙片。總之在故事裡定義讓泥人「獲得類似生命的東西」是被塞進去的東西。但從傳說的描述又可以明顯看出 Golem 跟人類比起來明顯在智能上是不及人類的，只能在會堂裡做一些打掃的工作。我大概是在 Borges 的小說裡看到這個傳說。&lt;/li&gt;
-&lt;li&gt;總而言之，慶祝一下 hanscholem.tw 成立。恭喜恭喜。&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;昨晚&lt;a href=&quot;http://wayneh.tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; Wayneh &lt;/a&gt;建議我去弄個網域名稱，深夜覺得人生沒有前途，來做點沒做過的事情，於是信用卡刷了八百塊買了一個網域一年。&lt;/li&gt;
-&lt;
     
     </summary>
     
