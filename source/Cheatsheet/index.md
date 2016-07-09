@@ -47,7 +47,8 @@ ctrl-shift-P | Search-driven menu. It will show command and keybinding.
 - css
 - Ruby on Rails
 - sql
-
+- [ubuntu 16.04](/Cheatsheet/memo_ubuntu1604.html)
+- [ASUS N82JQ](http://hanscholem.tw/Cheatsheet/asus_n82jq_setting.html)
 
 ## hexo memo
 
