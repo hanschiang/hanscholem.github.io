@@ -3,24 +3,9 @@ title: Cheatsheet
 date: 2016-07-09 16:20:26
 ---
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [atom in Ubuntu](#atom-in-ubuntu)
-		- [packages](#packages)
-		- [hot key](#hot-key)
-	- [others](#others)
-	- [hexo memo](#hexo-memo)
-		- [hexo deploy git](#hexo-deploy-git)
-		- [hexo feed](#hexo-feed)
-	- [bbs application](#bbs-application)
-		- [pcman](#pcman)
-		- [geman](#geman)
-		- [terminal](#terminal)
-	- [python27 memo](#python27-memo)
-	- [測試中文標題](#測試中文標題)
-		- [測試中文標題2](#測試中文標題2)
 
-<!-- /TOC -->
+# cheatsheets
 
 ## atom in Ubuntu
 
@@ -28,7 +13,7 @@ date: 2016-07-09 16:20:26
 
 Package Name | Description
 -------------|-------------
-markdown-toc | Create table of content for a markdown document
+markdown-toc | Create table of content for a markdown document. 測試，標題英文單字大寫連結會失效，中文標題連結正常。
 
 ### hot key
 Hot Key | Description
@@ -93,4 +78,4 @@ pip install virtualenv
 
 ### 測試中文標題2
 
-純粹測試
+測試
