@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  Cheatsheet: /Cheatsheet
 rss: /atom.xml
 
 # Content
