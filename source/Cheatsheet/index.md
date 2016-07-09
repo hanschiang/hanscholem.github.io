@@ -18,6 +18,8 @@ date: 2016-07-09 16:20:26
 		- [geman](#geman)
 		- [terminal](#terminal)
 	- [python27 memo](#python27-memo)
+	- [macbook Air](#macbook-air)
+		- [Chrome hotkey](#chrome-hotkey)
 	- [測試中文標題](#測試中文標題)
 		- [測試中文標題2](#測試中文標題2)
 
@@ -91,6 +93,16 @@ sudo apt install python-pip
 pip install --upgrade pip
 pip install virtualenv
 ```
+
+
+## macbook Air
+
+### Chrome hotkey
+
+Function | hotkey
+-------- | ------
+Full Screen | Ctrl + Cmd + F
+
 
 ## 測試中文標題
 
