@@ -6,19 +6,20 @@ date: 2016-07-09 16:20:26
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [cheatsheets](#cheatsheets)
-	- [atom in Ubuntu](#atom-in-ubuntu)
+	- [atom in ubuntu](#atom-in-ubuntu)
 		- [packages](#packages)
 		- [hot key](#hot-key)
 	- [others](#others)
 	- [hexo memo](#hexo-memo)
 		- [hexo deploy git](#hexo-deploy-git)
 		- [hexo feed](#hexo-feed)
+		- [landscape theme 調整](#landscape-theme-調整)
 	- [bbs application](#bbs-application)
 		- [pcman](#pcman)
 		- [geman](#geman)
 		- [terminal](#terminal)
 	- [python27 memo](#python27-memo)
-	- [macbook Air](#macbook-air)
+	- [macbook air](#macbook-air)
 		- [Chrome hotkey](#chrome-hotkey)
 	- [測試中文標題](#測試中文標題)
 		- [測試中文標題2](#測試中文標題2)
@@ -27,7 +28,7 @@ date: 2016-07-09 16:20:26
 
 # cheatsheets
 
-## atom in Ubuntu
+## atom in ubuntu
 
 ### packages
 
@@ -145,7 +146,7 @@ pip install virtualenv
 ```
 
 
-## macbook Air
+## macbook air
 
 ### Chrome hotkey
 
