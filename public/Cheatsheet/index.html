@@ -73,7 +73,7 @@ Chrome hotkey
 
 
 cheat">
-<meta property="og:updated_time" content="2016-07-09T14:50:12.009Z">
+<meta property="og:updated_time" content="2016-07-10T03:37:43.228Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Cheatsheet">
 <meta name="twitter:description" content="cheatsheets
@@ -263,6 +263,32 @@ cheat">
 <p>npm install hexo-deployer-git –save</p>
 <h3 id="hexo-feed"><a href="#hexo-feed" class="headerlink" title="hexo feed"></a>hexo feed</h3><p><a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="external">https://github.com/hexojs/hexo-generator-feed</a></p>
 <p>npm install hexo-generator-feed –save</p>
+<h3 id="landscape-theme-調整"><a href="#landscape-theme-調整" class="headerlink" title="landscape theme 調整"></a>landscape theme 調整</h3><ul>
+<li>引用句子，預設置中，改成向左對齊。</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">修改：/themes/landscape/source/css/_partial/article.styl</div><div class="line"></div><div class="line">blockquote</div><div class="line">	font-family: font-serif</div><div class="line">	font-size: 1.2em</div><div class="line">	margin: line-height 20px</div><div class="line">	text-align: left</div><div class="line">	background: color-background</div><div class="line">	padding: 1px 25px</div><div class="line">	footer</div><div class="line">		font-size: font-size</div><div class="line">		margin: line-height 0</div><div class="line">		font-family: font-sans</div><div class="line">		cite</div><div class="line">			&amp;:before</div><div class="line">				content: &quot;—&quot;</div><div class="line">				padding: 0 0.5em</div></pre></td></tr></table></figure>
+<ul>
+<li>單行引用測試。</li>
+</ul>
+<blockquote>
+<p>引用測試。</p>
+</blockquote>
+<ul>
+<li>多行引用測試1。</li>
+</ul>
+<blockquote>
+<p>今天天氣不錯<br>來去吃個東西<br>結果突然下大雨<br>淋得一身溼<br>好爛的例子</p>
+</blockquote>
+<ul>
+<li>多行引用測試2。</li>
+</ul>
+<blockquote>
+<p>今天天氣不錯</p>
+<p>來去吃個東西</p>
+<p>結果突然下大雨</p>
+<p>淋得一身溼</p>
+<p>好爛的例子</p>
+</blockquote>
 <h2 id="bbs-application"><a href="#bbs-application" class="headerlink" title="bbs application"></a>bbs application</h2><h3 id="pcman"><a href="#pcman" class="headerlink" title="pcman"></a>pcman</h3><p>大概是台灣人最常用的 BBS Client ？ Ubuntu 16.04 之前因為在預設套件庫裡沒有，所以比較少用。</p>
 <h3 id="geman"><a href="#geman" class="headerlink" title="geman"></a>geman</h3><p>PRC人做的 PCMan 的 Clone？也蠻好用的。</p>
 <h3 id="terminal"><a href="#terminal" class="headerlink" title="terminal"></a>terminal</h3><p>如果不想手動調整任何語系的設定，直接用 Terminal 連線到 ptt 之類使用 big5 的 bbs 站的指令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">luit -encoding big5 telnet ptt.cc</div></pre></td></tr></table></figure></p>
@@ -286,7 +312,7 @@ cheat">
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/index.html" data-id="ciqfafuj20005hm54yhkov5cc" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/index.html" data-id="ciqg12tyb0005w5547krnxvj7" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/index.html#disqus_thread" class="article-comment-link">留言</a>
       
