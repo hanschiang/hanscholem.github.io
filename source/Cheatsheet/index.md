@@ -14,6 +14,7 @@ date: 2016-07-09 16:20:26
 		- [hexo deploy git](#hexo-deploy-git)
 		- [hexo feed](#hexo-feed)
 		- [landscape theme 調整](#landscape-theme-調整)
+		- [下一頁的按鈕錯誤('next')](#下一頁的按鈕錯誤next)
 	- [bbs application](#bbs-application)
 		- [pcman](#pcman)
 		- [geman](#geman)
@@ -122,6 +123,21 @@ blockquote
 > 淋得一身溼
 
 > 好爛的例子
+
+### 下一頁的按鈕錯誤('next')
+
+https://github.com/hexojs/hexo-theme-landscape/issues/57
+
+```
+修改：landscape/layout/_partial/archive.ejs
+
+<%- paginator({
+	prev_text: "&laquo;" + __('prev'),
+	next_text: __('next') + "&raquo;"
+}) %>
+```
+
+### 更換 banner 圖片 
 
 
 ## bbs application

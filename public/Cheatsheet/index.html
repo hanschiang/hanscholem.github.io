@@ -16,6 +16,7 @@ hexo memo
 hexo deploy git
 hexo feed
 landscape theme 調整
+下一頁的按鈕錯誤(‘next’)
 
 
 bbs application
@@ -26,10 +27,7 @@ terminal
 
 python27 memo
 macbook air
-Chrome hotkey
-
-
-測試中文標題">
+Chrome">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Cheatsheet">
 <meta property="og:url" content="http://hanscholem.github.io/Cheatsheet/index.html">
@@ -45,6 +43,7 @@ hexo memo
 hexo deploy git
 hexo feed
 landscape theme 調整
+下一頁的按鈕錯誤(‘next’)
 
 
 bbs application
@@ -55,11 +54,8 @@ terminal
 
 python27 memo
 macbook air
-Chrome hotkey
-
-
-測試中文標題">
-<meta property="og:updated_time" content="2016-07-10T08:07:38.280Z">
+Chrome">
+<meta property="og:updated_time" content="2016-07-10T09:05:56.631Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Cheatsheet">
 <meta name="twitter:description" content="cheatsheets
@@ -73,6 +69,7 @@ hexo memo
 hexo deploy git
 hexo feed
 landscape theme 調整
+下一頁的按鈕錯誤(‘next’)
 
 
 bbs application
@@ -83,10 +80,7 @@ terminal
 
 python27 memo
 macbook air
-Chrome hotkey
-
-
-測試中文標題">
+Chrome">
 <meta name="twitter:creator" content="@evilchiang">
   
     <link rel="alternate" href="/atom.xml" title="Hans the Golem" type="application/atom+xml">
@@ -188,6 +182,7 @@ ga('send', 'pageview');
 <li><a href="#hexo-deploy-git">hexo deploy git</a></li>
 <li><a href="#hexo-feed">hexo feed</a></li>
 <li><a href="#landscape-theme-調整">landscape theme 調整</a></li>
+<li><a href="#下一頁的按鈕錯誤next">下一頁的按鈕錯誤(‘next’)</a></li>
 </ul>
 </li>
 <li><a href="#bbs-application">bbs application</a><ul>
@@ -283,7 +278,9 @@ ga('send', 'pageview');
 <p>淋得一身溼</p>
 <p>好爛的例子</p>
 </blockquote>
-<h2 id="bbs-application"><a href="#bbs-application" class="headerlink" title="bbs application"></a>bbs application</h2><h3 id="pcman"><a href="#pcman" class="headerlink" title="pcman"></a>pcman</h3><p>大概是台灣人最常用的 BBS Client ？ Ubuntu 16.04 之前因為在預設套件庫裡沒有，所以比較少用。</p>
+<h3 id="下一頁的按鈕錯誤-‘next’"><a href="#下一頁的按鈕錯誤-‘next’" class="headerlink" title="下一頁的按鈕錯誤(‘next’)"></a>下一頁的按鈕錯誤(‘next’)</h3><p><a href="https://github.com/hexojs/hexo-theme-landscape/issues/57" target="_blank" rel="external">https://github.com/hexojs/hexo-theme-landscape/issues/57</a></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">修改：landscape/layout/_partial/archive.ejs</div><div class="line"></div><div class="line">&lt;%- paginator(&#123;</div><div class="line">	prev_text: &quot;&amp;laquo;&quot; + __(&apos;prev&apos;),</div><div class="line">	next_text: __(&apos;next&apos;) + &quot;&amp;raquo;&quot;</div><div class="line">&#125;) %&gt;</div></pre></td></tr></table></figure>
+<h3 id="更換-banner-圖片"><a href="#更換-banner-圖片" class="headerlink" title="更換 banner 圖片"></a>更換 banner 圖片</h3><h2 id="bbs-application"><a href="#bbs-application" class="headerlink" title="bbs application"></a>bbs application</h2><h3 id="pcman"><a href="#pcman" class="headerlink" title="pcman"></a>pcman</h3><p>大概是台灣人最常用的 BBS Client ？ Ubuntu 16.04 之前因為在預設套件庫裡沒有，所以比較少用。</p>
 <h3 id="geman"><a href="#geman" class="headerlink" title="geman"></a>geman</h3><p>PRC人做的 PCMan 的 Clone？也蠻好用的。</p>
 <h3 id="terminal"><a href="#terminal" class="headerlink" title="terminal"></a>terminal</h3><p>如果不想手動調整任何語系的設定，直接用 Terminal 連線到 ptt 之類使用 big5 的 bbs 站的指令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">luit -encoding big5 telnet ptt.cc</div></pre></td></tr></table></figure></p>
 <h2 id="python27-memo"><a href="#python27-memo" class="headerlink" title="python27 memo"></a>python27 memo</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">sudo apt install python-pip</div><div class="line">pip install --upgrade pip</div><div class="line">pip install virtualenv</div></pre></td></tr></table></figure>
@@ -306,7 +303,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/index.html" data-id="ciqgcc6ar00057t54bgl909ve" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/index.html" data-id="ciqgcx1rk0005ww54cjsufa5o" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/index.html#disqus_thread" class="article-comment-link">留言</a>
       
