@@ -30,9 +30,9 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-79725140-1
 favicon: /favicon.png
-twitter:
+twitter: evilchiang
 google_plus:
 fb_admins:
 fb_app_id:
