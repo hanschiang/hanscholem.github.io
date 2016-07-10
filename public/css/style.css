@@ -554,6 +554,7 @@ a.article-title:hover {
   color: #258fb8;
 }
 .article-entry {
+  font-size: 1.2em;
   color: #555;
   padding: 0 20px;
 }
@@ -626,9 +627,11 @@ a.article-title:hover {
 }
 .article-entry blockquote {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   margin: 1.6em 20px;
   text-align: left;
+  background: #333;
+  padding: 1px 25px;
 }
 .article-entry blockquote footer {
   font-size: 14px;
