@@ -9,6 +9,9 @@
 
 找 Additional Driver
 
+## 安裝 vlc player
+
+sudo apt install vlc
 
 ## 安裝 ruby
 

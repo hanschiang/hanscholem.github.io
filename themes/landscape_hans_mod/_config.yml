@@ -1,9 +1,10 @@
 # Header
 menu:
+  About-Me: /About-Me
   Home: /
   Archives: /archives
   Cheatsheet: /Cheatsheet
-  About-Me: /About-Me
+  Projects: /projects
 rss: /atom.xml
 
 # Content

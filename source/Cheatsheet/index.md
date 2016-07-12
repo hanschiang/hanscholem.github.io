@@ -35,7 +35,9 @@ date: 2016-07-09 16:20:26
 
 Package Name | Description
 -------------|-------------
-markdown-toc | Create table of content for a markdown document. 測試，標題英文單字大寫連結會失效，中文標題連結正常。
+markdown-toc | Create table of content for a markdown document.
+
+note: 測試，標題英文單字大寫連結會失效，中文標題連結正常。
 
 ### hot key
 Hot Key | Description
@@ -137,7 +139,7 @@ https://github.com/hexojs/hexo-theme-landscape/issues/57
 }) %>
 ```
 
-### 更換 banner 圖片 
+### 更換 banner 圖片ch
 
 
 ## bbs application
