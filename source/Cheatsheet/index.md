@@ -31,11 +31,14 @@ date: 2016-07-09 16:20:26
 
 ## atom in ubuntu
 
+[note page](/Cheatsheet/atom-in-ubuntu.html)
+
 ### packages
 
 Package Name | Description
 -------------|-------------
 markdown-toc | Create table of content for a markdown document.
+
 
 note: 測試，標題英文單字大寫連結會失效，中文標題連結正常。
 
@@ -43,7 +46,10 @@ note: 測試，標題英文單字大寫連結會失效，中文標題連結正�
 Hot Key | Description
 --------|-------------
 ctrl-shift-P | Search-driven menu. It will show command and keybinding.
+ctrl-t | fuzzy-finder, a quick way to find files.
 
+### erb snippets
+reference: https://github.com/matthewrobertson/ERB-Sublime-Snippets
 
 ## others
 - Windows

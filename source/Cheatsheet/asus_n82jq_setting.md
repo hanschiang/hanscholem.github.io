@@ -42,3 +42,14 @@ Window 7 更新時間 server
 - [ ] 安裝 notepad++
 - [ ] 安裝 bitcomet
 - [ ] 常用軟體隨身碟（Windows/Linux/Mac），軟體清單
+
+## Cockatrice 安裝注意事項
+
+Cockatrice 下載
+https://cockatrice.github.io/
+
+註冊帳號
+http://www.woogerworks.com/
+
+缺少MSVCP120.dll該怎辦？
+https://www.microsoft.com/zh-TW/download/details.aspx?id=40784
