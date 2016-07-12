@@ -31,7 +31,7 @@ date: 2016-07-09 16:20:26
 
 ## atom in ubuntu
 
-[note page](/Cheatsheet/atom-in-ubuntu.html)
+[note page](/Cheatsheet/atom_in_ubuntu1604.html)
 
 ### packages
 
