@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-07-12T18:18:01.395Z</updated>
+  <updated>2016-07-13T18:18:28.413Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20160713 Wed Pokemon No Go</title>
+    <link href="http://hanscholem.github.io/2016/07/14/20160713-Wed-Pokemon-No-Go/"/>
+    <id>http://hanscholem.github.io/2016/07/14/20160713-Wed-Pokemon-No-Go/</id>
+    <published>2016-07-13T18:11:20.000Z</published>
+    <updated>2016-07-13T18:18:28.413Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8762/28007322670_652fe6edce.jpg&quot; alt=&quot;Pokemon Go still not working in Taiwan&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;半夜，用 android 平板抓了網路上找的 apk 檔（冒著問題軟體的風險），體驗一下 Pokemon Go 。果然如其他一般台灣朋友的狀況，路上除了開場的御三家（小火龍，妙蛙種子，傑尼龜）之外，地圖上空蕩蕩完全沒東西。因為有台灣人 po 出如何在開場抓到皮卡秋，所以就稍微走了點路，把皮卡秋弄出來，抓了當第一隻。這還真的很古典的彩蛋，就類似以前電動一開始要打密碼可以使用隱藏角色的概念。希望台灣早日能正常玩。&lt;/li&gt;
+&lt;li&gt;Rails 5 Guide 看到 5.12。&lt;/li&gt;
+&lt;li&gt;前幾日 po 在 ptt Nurse 板的徵才文，雖然一直被嫌薪水給得很少，但是我試著跟板友對話，今天有個人來面試，說是覺得看到我那篇文，覺得很有趣，來看看。但果然外面的薪資行情還是比我家給得好許多，尤其是大醫院。只能繼續研究了。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8762/28007322670_652fe6edce.jpg&quot; alt=&quot;Pokemon Go still not working in Taiwan&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;半夜，用 
+    
+    </summary>
+    
+      <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20160712 Tue Walk and Fly</title>
@@ -124,34 +152,6 @@
     </summary>
     
       <category term="blog management" scheme="http://hanscholem.github.io/categories/blog-management/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20160708 Fri</title>
-    <link href="http://hanscholem.github.io/2016/07/09/20160708-Fri/"/>
-    <id>http://hanscholem.github.io/2016/07/09/20160708-Fri/</id>
-    <published>2016-07-09T04:40:47.000Z</published>
-    <updated>2016-07-09T04:40:55.224Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;中午吃咖哩飯，自製絞肉咖哩，忘了放蘋果，但是似乎還是很不錯，一人一碗，還可以帶便當，甚至我晚餐也吃（這樣講好像有點可怕）。晚點應該寫一下紀錄，以後可以重現實驗。&lt;/li&gt;
-&lt;li&gt;昨天看 netflix 上的《黑骸》。很不錯的新的機器人卡通。商業上的行銷考慮和目標觀眾的選擇做得很好。萌系女主角但是還沒有賣萌賣得很誇張。電腦動畫的機器人，車輛，雲景雪景等背景處理已經整合得相當自然。雖然還是有點懷念全手繪的卡通的質感，但是成本上大概已經是不可能的事情。即使已經如此多電腦動畫協助，在工作人員名單上仍可看到許多中國人名，想來是外包廠商吧。日本人對於電視節目的態度是「工商業」。還是比較健康。&lt;/li&gt;
-&lt;li&gt;晚上花了點時間弄清楚 hexo 的 blog 怎麼在不同電腦間同步，我覺得 git 我還是很不熟。總之先弄好可以在不同電腦間更新。&lt;/li&gt;
-&lt;li&gt;test, test2&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;中午吃咖哩飯，自製絞肉咖哩，忘了放蘋果，但是似乎還是很不錯，一人一碗，還可以帶便當，甚至我晚餐也吃（這樣講好像有點可怕）。晚點應該寫一下紀錄，以後可以重現實驗。&lt;/li&gt;
-&lt;li&gt;昨天看 netflix 上的《黑骸》。很不錯的新的機器人卡通。商業上的行銷考慮和目
-    
-    </summary>
-    
-      <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
     
     
   </entry>
