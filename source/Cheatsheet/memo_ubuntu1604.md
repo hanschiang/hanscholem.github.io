@@ -121,6 +121,13 @@ Modify the ~/.bashrc file and add:
 cd /directory/of/your/choice
 ```
 
+## add alias in .bashrc
+
+open .bashrc file and add code like following:
+
+```
+alias new_name='old command'
+```
 
 ## Chrome hotkey
 
