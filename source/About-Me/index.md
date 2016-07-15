@@ -12,4 +12,6 @@ To be continued...
 
 ## Memos To Be Reviewed
 
-- rails 5 的 guide 看到 7 。
+### 20160715 Fri
+
+- 

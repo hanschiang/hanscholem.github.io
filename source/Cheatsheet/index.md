@@ -55,7 +55,7 @@ reference: https://github.com/matthewrobertson/ERB-Sublime-Snippets
 - Windows
 - html
 - css
-- Ruby on Rails
+- [rails5](/Cheatsheet/rails5.html)
 - sql
 - [ubuntu 16.04](/Cheatsheet/memo_ubuntu1604.html)
 - [ASUS N82JQ](http://hanscholem.tw/Cheatsheet/asus_n82jq_setting.html)

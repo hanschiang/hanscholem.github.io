@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-07-14T03:47:42.870Z</updated>
+  <updated>2016-07-14T17:05:42.955Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20160714 Thur</title>
+    <link href="http://hanscholem.github.io/2016/07/15/20160714-Thur/"/>
+    <id>http://hanscholem.github.io/2016/07/15/20160714-Thur/</id>
+    <published>2016-07-14T16:24:45.000Z</published>
+    <updated>2016-07-14T17:05:42.955Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;自學-Rails&quot;&gt;&lt;a href=&quot;#自學-Rails&quot; class=&quot;headerlink&quot; title=&quot;自學 Rails&quot;&gt;&lt;/a&gt;自學 Rails&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;看（做）完 Rails 5 的 Guide 的 &lt;a href=&quot;http://guides.rubyonrails.org/getting_started.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Getting Started&lt;/a&gt; 。&lt;/li&gt;
+&lt;li&gt;覺得 rails 有點太神奇，不知道對我來說是好事情還是壞事情……。壞事居多吧？我對於網路其實什麼都不懂。只是愛亂搞。&lt;/li&gt;
+&lt;li&gt;一點心得， xdite 的 Rails 101 大概就是這個 Getting Started 的內容，但是多了把 Bootstrap 掛上去的部份。&lt;/li&gt;
+&lt;li&gt;接下來重作一次，然後 push 到 heroku 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Amazon-cn-買書&quot;&gt;&lt;a href=&quot;#Amazon-cn-買書&quot; class=&quot;headerlink&quot; title=&quot;Amazon.cn 買書&quot;&gt;&lt;/a&gt;Amazon.cn 買書&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;聽完羅輯思維 178 集，覺得今天代班講者提到社會心理學，有點興趣，但也有可能買了也不會看完？……買書成癖有點需要檢討。&lt;/li&gt;
+&lt;li&gt;第一次從 amazon.cn 買東西，運費有點貴，書 92.6 RMB，運送 46 RMB。大概是國際運費的算法，但因為嘗試通路使用，所以就這樣買。之後如果要買可能一次多買幾本比較合算？訂購了&lt;a href=&quot;https://www.amazon.cn/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6-%E6%88%B4%E7%BB%B4%C2%B7%E8%BF%88%E5%B0%94%E6%96%AF/dp/B01AJJ6QOK/ref=sr_1_3?s=books&amp;amp;ie=UTF8&amp;amp;qid=1468504384&amp;amp;sr=1-3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《社会心理学(第11版)》，戴维·迈尔斯 (David G.Myers)著，譯者侯玉波。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;傳說明天 Pokemon Go 會能夠玩，但後又說只是謠言。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;自學-Rails&quot;&gt;&lt;a href=&quot;#自學-Rails&quot; class=&quot;headerlink&quot; title=&quot;自學 Rails&quot;&gt;&lt;/a&gt;自學 Rails&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;看（做）完 Rails 5 的 Guide 的 &lt;a href=&quot;http://
+    
+    </summary>
+    
+      <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20160713 Wed Pokemon No Go</title>
@@ -126,34 +158,6 @@
     </summary>
     
       <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>atom sync test</title>
-    <link href="http://hanscholem.github.io/2016/07/09/atom-sync-test/"/>
-    <id>http://hanscholem.github.io/2016/07/09/atom-sync-test/</id>
-    <published>2016-07-09T08:08:20.000Z</published>
-    <updated>2016-07-09T08:15:01.925Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;atom 同步測試。&lt;/li&gt;
-&lt;li&gt;安裝的筆記還是要做一下……每次都會忘東西。&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;atom 同步測試。&lt;/li&gt;
-&lt;li&gt;安裝的筆記還是要做一下……每次都會忘東西。&lt;/li&gt;
-&lt;/ul&gt;
-
-    
-    </summary>
-    
-      <category term="blog management" scheme="http://hanscholem.github.io/categories/blog-management/"/>
     
     
   </entry>
