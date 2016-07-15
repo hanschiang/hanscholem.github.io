@@ -14,4 +14,42 @@ To be continued...
 
 ### 20160715 Fri
 
-- 
+### a rails 5 project push to heroku
+
+參考：https://devcenter.heroku.com/articles/getting-started-with-rails4
+
+修改 Gemfile
+
+```
+group :development do
+  ...
+  gem 'sqlite3'
+end
+
+group :production do
+  # Heroku integration
+  gem 'rails_12factor'
+  # Use PostgreSQL as the database for Active Record
+  gem 'pg'
+end
+
+# Ruby version
+ruby "2.3.1"
+
+```
+
+git init
+
+```
+git init
+git add .
+git commit -m "init"
+```
+
+Heroku Create app and push
+
+```
+heroku create
+git push heroku master
+```
+
