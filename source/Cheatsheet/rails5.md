@@ -38,14 +38,41 @@ Rails 5.0.0
 
 ## heroku
 
-reference: https://devcenter.heroku.com/articles/getting-started-with-rails4
+### a rails 5 project push to heroku
 
-### create new app
+參考：https://devcenter.heroku.com/articles/getting-started-with-rails4
 
-heroku 使用 postgresql ，所以要建立預設 database 是 postgresql 需先安裝 libpq-dev 否則 gem 'pg' 會裝不起來。
+修改 Gemfile
 
 ```
-sudo apt install libpq-dev
+group :development do
+  ...
+  gem 'sqlite3'
+end
 
-rails new reblog --database=postgresql
+group :production do
+  # Heroku integration
+  gem 'rails_12factor'
+  # Use PostgreSQL as the database for Active Record
+  gem 'pg'
+end
+
+# Ruby version
+ruby "2.3.1"
+
+```
+
+git init
+
+```
+git init
+git add .
+git commit -m "init"
+```
+
+Heroku Create app and push
+
+```
+heroku create
+git push heroku master
 ```

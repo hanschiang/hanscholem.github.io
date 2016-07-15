@@ -15,7 +15,7 @@ sqlite3123456# check sqlite3 version:sqlite">
 <meta property="og:description" content="getting Startedhttp://guides.rubyonrails.org/getting_started.html
 ruby1234567# Check ruby version:ruby -v# if ruby is not installedsudo apt-get install ruby
 sqlite3123456# check sqlite3 version:sqlite">
-<meta property="og:updated_time" content="2016-07-14T17:21:28.750Z">
+<meta property="og:updated_time" content="2016-07-15T16:24:29.028Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hans the Golem">
 <meta name="twitter:description" content="getting Startedhttp://guides.rubyonrails.org/getting_started.html
@@ -92,7 +92,7 @@ ga('send', 'pageview');
         <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/Cheatsheet/rails5.html" class="article-date">
-  <time datetime="2016-07-14T17:21:28.750Z" itemprop="datePublished">2016-07-15</time>
+  <time datetime="2016-07-15T16:24:29.028Z" itemprop="datePublished">2016-07-16</time>
 </a>
     
   </div>
@@ -105,14 +105,18 @@ ga('send', 'pageview');
 <h3 id="ruby"><a href="#ruby" class="headerlink" title="ruby"></a>ruby</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"># Check ruby version:</div><div class="line"></div><div class="line">ruby -v</div><div class="line"></div><div class="line"># if ruby is not installed</div><div class="line"></div><div class="line">sudo apt-get install ruby</div></pre></td></tr></table></figure>
 <h3 id="sqlite3"><a href="#sqlite3" class="headerlink" title="sqlite3"></a>sqlite3</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># check sqlite3 version:</div><div class="line">sqlite3 --version</div><div class="line"></div><div class="line"># if sqlite3 is not installed</div><div class="line"></div><div class="line">sudo apt install sqlite3</div></pre></td></tr></table></figure>
 <h3 id="rails-5"><a href="#rails-5" class="headerlink" title="rails 5"></a>rails 5</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">gem install rails</div><div class="line">rails --version</div><div class="line">Rails 5.0.0</div></pre></td></tr></table></figure>
-<h2 id="heroku"><a href="#heroku" class="headerlink" title="heroku"></a>heroku</h2><p>reference: <a href="https://devcenter.heroku.com/articles/getting-started-with-rails4" target="_blank" rel="external">https://devcenter.heroku.com/articles/getting-started-with-rails4</a></p>
-<h3 id="create-new-app"><a href="#create-new-app" class="headerlink" title="create new app"></a>create new app</h3><p>heroku 使用 postgresql ，所以要建立預設 database 是 postgresql 需先安裝 libpq-dev 否則 gem ‘pg’ 會裝不起來。</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">sudo apt install libpq-dev</div><div class="line"></div><div class="line">rails new reblog --database=postgresql</div></pre></td></tr></table></figure>
+<h2 id="heroku"><a href="#heroku" class="headerlink" title="heroku"></a>heroku</h2><h3 id="a-rails-5-project-push-to-heroku"><a href="#a-rails-5-project-push-to-heroku" class="headerlink" title="a rails 5 project push to heroku"></a>a rails 5 project push to heroku</h3><p>參考：<a href="https://devcenter.heroku.com/articles/getting-started-with-rails4" target="_blank" rel="external">https://devcenter.heroku.com/articles/getting-started-with-rails4</a></p>
+<p>修改 Gemfile</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">group :development do</div><div class="line">  ...</div><div class="line">  gem &apos;sqlite3&apos;</div><div class="line">end</div><div class="line"></div><div class="line">group :production do</div><div class="line">  # Heroku integration</div><div class="line">  gem &apos;rails_12factor&apos;</div><div class="line">  # Use PostgreSQL as the database for Active Record</div><div class="line">  gem &apos;pg&apos;</div><div class="line">end</div><div class="line"></div><div class="line"># Ruby version</div><div class="line">ruby &quot;2.3.1&quot;</div></pre></td></tr></table></figure>
+<p>git init</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">git init</div><div class="line">git add .</div><div class="line">git commit -m &quot;init&quot;</div></pre></td></tr></table></figure>
+<p>Heroku Create app and push</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">heroku create</div><div class="line">git push heroku master</div></pre></td></tr></table></figure>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/rails5.html" data-id="ciqnbr17x0009ex54mao2rf5h" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/rails5.html" data-id="ciqo08ju10005m254fkg3uxvk" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/rails5.html#disqus_thread" class="article-comment-link">留言</a>
       

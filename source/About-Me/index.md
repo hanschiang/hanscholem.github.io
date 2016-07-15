@@ -14,6 +14,11 @@ To be continued...
 
 ### 20160715 Fri
 
+- 用 Rails 做，放在 heroku，有必要的話再去申請一個網域。
+- 目標1：做出一個簡單的線上人事系統。
+- 目標2：做出 Kickpresent 。
+
+
 ### a rails 5 project push to heroku
 
 參考：https://devcenter.heroku.com/articles/getting-started-with-rails4
