@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-07-20T15:36:02.693Z</updated>
+  <updated>2016-07-20T15:51:21.130Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20160720 Wed</title>
+    <link href="http://hanscholem.github.io/2016/07/20/20160720-Wed/"/>
+    <id>http://hanscholem.github.io/2016/07/20/20160720-Wed/</id>
+    <published>2016-07-20T15:44:25.000Z</published>
+    <updated>2016-07-20T15:51:21.130Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;20160715-Fri&quot;&gt;&lt;a href=&quot;#20160715-Fri&quot; class=&quot;headerlink&quot; title=&quot;20160715 Fri&quot;&gt;&lt;/a&gt;20160715 Fri&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;用 Rails 做，放在 heroku，有必要的話再去申請一個網域。&lt;/li&gt;
+&lt;li&gt;目標1：做出一個簡單的線上人事系統。&lt;/li&gt;
+&lt;li&gt;目標2：做出 Kickpresent 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;20160719-Wed&quot;&gt;&lt;a href=&quot;#20160719-Wed&quot; class=&quot;headerlink&quot; title=&quot;20160719 Wed&quot;&gt;&lt;/a&gt;20160719 Wed&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;hexo 建立的 post，日期如果落後，會 deploy 不出去，要手動把日期改成今日。所以草稿可能寫在 page 比較好。&lt;/li&gt;
+&lt;li&gt;Rails 5 Guide / Heroku, Getting Started, 7.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;20160720-Thur&quot;&gt;&lt;a href=&quot;#20160720-Thur&quot; class=&quot;headerlink&quot; title=&quot;20160720 Thur&quot;&gt;&lt;/a&gt;20160720 Thur&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;很糟糕的一天。至少在白天，覺得什麼都不順利，很多事情，很可怕，無法寫。&lt;/li&gt;
+&lt;li&gt;晚上約了老同學見面聊天。稍稍平復一整天的惡情緒。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;20160715-Fri&quot;&gt;&lt;a href=&quot;#20160715-Fri&quot; class=&quot;headerlink&quot; title=&quot;20160715 Fri&quot;&gt;&lt;/a&gt;20160715 Fri&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;用 Rails 做，放在 heroku，有必要的
+    
+    </summary>
+    
+      <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>搭車記事01：Taipei Zombie</title>
@@ -131,33 +165,6 @@
       &lt;p&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8762/28007322670_652fe6edce.jpg&quot; alt=&quot;Pokemon Go still not working in Taiwan&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;半夜，用 
-    
-    </summary>
-    
-      <category term="log" scheme="http://hanscholem.github.io/categories/log/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20160712 Tue Walk and Fly</title>
-    <link href="http://hanscholem.github.io/2016/07/12/20160712-Tue-Walk-and-Fly/"/>
-    <id>http://hanscholem.github.io/2016/07/12/20160712-Tue-Walk-and-Fly/</id>
-    <published>2016-07-12T03:28:09.000Z</published>
-    <updated>2016-07-12T18:18:01.395Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;在 PC 的 Ubuntu 裝了 Rails 5 ，打算看官網的 Guide 玩玩看。&lt;/li&gt;
-&lt;li&gt;覺得用 atom 好像有點找自己麻煩？ sublimetext 都設定的好好的。但是 atom 免費的，就跟 ubuntu 一樣，我比較會想亂搞。&lt;/li&gt;
-&lt;li&gt;現實生活不太順，有許多事情我越來越沒興趣應付了。但是放著不管好像就會爛掉……所以還是得處理。&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;在 PC 的 Ubuntu 裝了 Rails 5 ，打算看官網的 Guide 玩玩看。&lt;/li&gt;
-&lt;li&gt;覺得用 atom 好像有點找自己麻煩？ sublimetext 都設定的好好的。但是 atom 免費的，就跟 ubuntu 一樣，我比較會想亂搞。&lt;/li&gt;
     
     </summary>
     
