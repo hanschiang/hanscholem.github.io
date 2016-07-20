@@ -12,6 +12,12 @@ To be continued...
 
 ## Memos To Be Reviewed
 
+### 20160719 Wed
+
+- hexo 建立的 post，日期如果落後，會 deploy 不出去，要手動把日期改成今日。所以草稿可能寫在 page 比較好。
+- Rails 5 Guide / Heroku, Getting Started, 7.
+
+
 ### 20160715 Fri
 
 - 用 Rails 做，放在 heroku，有必要的話再去申請一個網域。
