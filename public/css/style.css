@@ -554,6 +554,7 @@ a.article-title:hover {
   color: #258fb8;
 }
 .article-entry {
+  font-size: 1.2em;
   color: #555;
   padding: 0 20px;
 }
@@ -635,7 +636,7 @@ a.article-title:hover {
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 1.6em 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
 }
 .article-entry blockquote footer cite:before {
   content: "—";
