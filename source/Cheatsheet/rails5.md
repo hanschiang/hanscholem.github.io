@@ -57,6 +57,10 @@ group :production do
   gem 'pg'
 end
 
+
+
+
+
 # Ruby version
 ruby "2.3.1"
 
@@ -75,4 +79,11 @@ Heroku Create app and push
 ```
 heroku create
 git push heroku master
+```
+
+
+Add Bootstrap to Gemfile
+
+```
+gem 'bootstrap-sass'
 ```

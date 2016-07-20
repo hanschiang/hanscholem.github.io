@@ -51,10 +51,16 @@ git add .
 git commit -m "init"
 ```
 
-Heroku Create app and push
+### Heroku Create app and push
 
 ```
 heroku create
 git push heroku master
+```
+
+### Migrate Database
+
+```
+heroku run rake db:migrate
 ```
 
