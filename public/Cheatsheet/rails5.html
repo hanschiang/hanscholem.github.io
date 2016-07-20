@@ -15,7 +15,7 @@ sqlite3123456# check sqlite3 version:sqlite">
 <meta property="og:description" content="getting Startedhttp://guides.rubyonrails.org/getting_started.html
 ruby1234567# Check ruby version:ruby -v# if ruby is not installedsudo apt-get install ruby
 sqlite3123456# check sqlite3 version:sqlite">
-<meta property="og:updated_time" content="2016-07-20T06:53:39.304Z">
+<meta property="og:updated_time" content="2016-07-20T06:54:34.351Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hans the Golem">
 <meta name="twitter:description" content="getting Startedhttp://guides.rubyonrails.org/getting_started.html
@@ -92,7 +92,7 @@ ga('send', 'pageview');
         <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/Cheatsheet/rails5.html" class="article-date">
-  <time datetime="2016-07-20T06:53:39.340Z" itemprop="datePublished">2016-07-20</time>
+  <time datetime="2016-07-20T06:54:34.435Z" itemprop="datePublished">2016-07-20</time>
 </a>
     
   </div>
@@ -107,8 +107,7 @@ ga('send', 'pageview');
 <h3 id="rails-5"><a href="#rails-5" class="headerlink" title="rails 5"></a>rails 5</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">gem install rails</div><div class="line">rails --version</div><div class="line">Rails 5.0.0</div></pre></td></tr></table></figure>
 <h2 id="heroku"><a href="#heroku" class="headerlink" title="heroku"></a>heroku</h2><h3 id="a-rails-5-project-push-to-heroku"><a href="#a-rails-5-project-push-to-heroku" class="headerlink" title="a rails 5 project push to heroku"></a>a rails 5 project push to heroku</h3><p>參考：<a href="https://devcenter.heroku.com/articles/getting-started-with-rails4" target="_blank" rel="external">https://devcenter.heroku.com/articles/getting-started-with-rails4</a></p>
 <p>修改 Gemfile</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">group :development do</div><div class="line">  ...</div><div class="line">  gem &apos;sqlite3&apos;</div><div class="line">end</div><div class="line"></div><div class="line">group :production do</div><div class="line">  # Heroku integration</div><div class="line">  gem &apos;rails_12factor&apos;</div><div class="line">  # Use PostgreSQL as the database for Active Record</div><div class="line">  gem &apos;pg&apos;</div><div class="line">end</div><div class="line"></div><div class="line"></div><div class="line">### Migrate Database</div></pre></td></tr></table></figure>
-<p>heroku run rake db:migrate<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div><div class="line"># Ruby version</div><div class="line">ruby &quot;2.3.1&quot;</div></pre></td></tr></table></figure></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">group :development do</div><div class="line">  ...</div><div class="line">  gem &apos;sqlite3&apos;</div><div class="line">end</div><div class="line"></div><div class="line">group :production do</div><div class="line">  # Heroku integration</div><div class="line">  gem &apos;rails_12factor&apos;</div><div class="line">  # Use PostgreSQL as the database for Active Record</div><div class="line">  gem &apos;pg&apos;</div><div class="line">end</div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"># Ruby version</div><div class="line">ruby &quot;2.3.1&quot;</div></pre></td></tr></table></figure>
 <p>git init</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">git init</div><div class="line">git add .</div><div class="line">git commit -m &quot;init&quot;</div></pre></td></tr></table></figure>
 <p>Heroku Create app and push</p>
@@ -119,7 +118,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/rails5.html" data-id="ciquj9fyj0007hq54hns60d9x" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/rails5.html" data-id="ciqujbatb000cna54ofjtf7yv" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/rails5.html#disqus_thread" class="article-comment-link">留言</a>
       

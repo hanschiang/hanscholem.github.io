@@ -27,7 +27,7 @@ Memos To Be Reviewed20160715 Fri
 用 Rails 做，放在 heroku，有必要的話再去申請一個網域。
 目標1：做出一個簡單的線上人事系統。
 目標2：做出 Ki">
-<meta property="og:updated_time" content="2016-07-15T06:16:32.020Z">
+<meta property="og:updated_time" content="2016-07-20T06:54:46.734Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="About Me">
 <meta name="twitter:description" content="Basic Properties
@@ -144,13 +144,13 @@ ga('send', 'pageview');
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">group :development do</div><div class="line">  ...</div><div class="line">  gem &apos;sqlite3&apos;</div><div class="line">end</div><div class="line"></div><div class="line">group :production do</div><div class="line">  # Heroku integration</div><div class="line">  gem &apos;rails_12factor&apos;</div><div class="line">  # Use PostgreSQL as the database for Active Record</div><div class="line">  gem &apos;pg&apos;</div><div class="line">end</div><div class="line"></div><div class="line"># Ruby version</div><div class="line">ruby &quot;2.3.1&quot;</div></pre></td></tr></table></figure>
 <p>git init</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">git init</div><div class="line">git add .</div><div class="line">git commit -m &quot;init&quot;</div></pre></td></tr></table></figure>
-<p>Heroku Create app and push</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">heroku create</div><div class="line">git push heroku master</div></pre></td></tr></table></figure>
+<h3 id="Heroku-Create-app-and-push"><a href="#Heroku-Create-app-and-push" class="headerlink" title="Heroku Create app and push"></a>Heroku Create app and push</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">heroku create</div><div class="line">git push heroku master</div></pre></td></tr></table></figure>
+<h3 id="Migrate-Database"><a href="#Migrate-Database" class="headerlink" title="Migrate Database"></a>Migrate Database</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">heroku run rake db:migrate</div></pre></td></tr></table></figure>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/About-Me/index.html" data-id="ciquj9fxk0000hq54h59ype79" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/About-Me/index.html" data-id="ciqujbasd0002na54ep3evqrz" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/About-Me/index.html#disqus_thread" class="article-comment-link">留言</a>
       
