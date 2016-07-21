@@ -1,7 +1,7 @@
 ---
 title: 20160712 Tue Walk and Fly
 date: 2016-07-12 11:28:09
-categories: log
+categories: 雜記
 tags:
 ---
 

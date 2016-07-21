@@ -1,7 +1,7 @@
 ---
 title: 搭車記事01：Taipei Zombie
 date: 2016-07-20 23:35:41
-categories: log
+categories: 雜記
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: bus note 02
+title: 搭車記事02
 date: 2016-07-21 22:43:18
-categories: log
+categories: 雜記
 tags:
 ---
 

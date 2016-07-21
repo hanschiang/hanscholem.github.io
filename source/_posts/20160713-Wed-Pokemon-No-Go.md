@@ -1,7 +1,7 @@
 ---
 title: 20160713 Wed Pokemon No Go
 date: 2016-07-14 02:11:20
-categories: log
+categories: 雜記
 tags:
 ---
 

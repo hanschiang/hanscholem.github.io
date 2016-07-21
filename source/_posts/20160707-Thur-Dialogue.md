@@ -1,7 +1,7 @@
 ---
 title: 20160707 Thur Dialogue
 date: 2016-07-08 00:18:32
-categories: log
+categories: 雜記
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Domain Name
 date: 2016-07-07 15:25:49
-categories: log
+categories: 雜記
 tags:
 ---
 

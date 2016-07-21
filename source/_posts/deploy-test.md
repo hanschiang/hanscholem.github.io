@@ -1,7 +1,7 @@
 ---
 title: deploy test
 date: 2016-07-08 23:39:07
-categories: blog management
+categories: 雜記
 tags:
 ---
 

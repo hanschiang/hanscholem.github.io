@@ -1,7 +1,7 @@
 ---
 title: atom sync test
 date: 2016-07-09 16:08:20
-categories: blog management
+categories: 雜記
 tags:
 ---
 

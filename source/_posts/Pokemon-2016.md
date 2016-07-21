@@ -1,7 +1,7 @@
 ---
 title: 精靈寶可夢
 date: 2016-07-19 01:48:55
-categories: Thoughts
+categories: 雜記
 tags:
 ---
 
