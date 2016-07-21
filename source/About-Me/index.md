@@ -15,9 +15,4 @@ To be continued...
 20160721 Thur.
 
 - [罗辑思维 179 李善友 跨越不连续性](http://v.youku.com/v_show/id_XMTY1MjM2NjM4NA==.html?from=y1.2-2.4.1)
-- 書目：[世界觀：現代年輕人必懂的科學哲學和科學史](http://www.books.com.tw/products/0010680119)	你要做就要做厲害一點
-
-
-
-
-
+- 書目：[世界觀：現代年輕人必懂的科學哲學和科學史](http://www.books.com.tw/products/0010680119)
