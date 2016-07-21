@@ -15,7 +15,7 @@ sqlite3123456# check sqlite3 version:sqlite">
 <meta property="og:description" content="getting Startedhttp://guides.rubyonrails.org/getting_started.html
 ruby1234567# Check ruby version:ruby -v# if ruby is not installedsudo apt-get install ruby
 sqlite3123456# check sqlite3 version:sqlite">
-<meta property="og:updated_time" content="2016-07-20T06:54:34.351Z">
+<meta property="og:updated_time" content="2016-07-21T07:45:43.129Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hans the Golem">
 <meta name="twitter:description" content="getting Startedhttp://guides.rubyonrails.org/getting_started.html
@@ -92,7 +92,7 @@ ga('send', 'pageview');
         <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/Cheatsheet/rails5.html" class="article-date">
-  <time datetime="2016-07-20T06:54:34.435Z" itemprop="datePublished">2016-07-20</time>
+  <time datetime="2016-07-21T07:45:43.169Z" itemprop="datePublished">2016-07-21</time>
 </a>
     
   </div>
@@ -114,11 +114,18 @@ ga('send', 'pageview');
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">heroku create</div><div class="line">git push heroku master</div></pre></td></tr></table></figure>
 <p>Add Bootstrap to Gemfile</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">gem &apos;bootstrap-sass&apos;</div></pre></td></tr></table></figure>
+<h3 id="a-rails-5-project-push-to-heroku-1"><a href="#a-rails-5-project-push-to-heroku-1" class="headerlink" title="a rails 5 project push to heroku"></a>a rails 5 project push to heroku</h3><p>參考：<a href="https://devcenter.heroku.com/articles/getting-started-with-rails4" target="_blank" rel="external">https://devcenter.heroku.com/articles/getting-started-with-rails4</a></p>
+<p>修改 Gemfile</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">group :development do</div><div class="line">  ...</div><div class="line">  gem &apos;sqlite3&apos;</div><div class="line">end</div><div class="line"></div><div class="line">group :production do</div><div class="line">  # Heroku integration</div><div class="line">  gem &apos;rails_12factor&apos;</div><div class="line">  # Use PostgreSQL as the database for Active Record</div><div class="line">  gem &apos;pg&apos;</div><div class="line">end</div><div class="line"></div><div class="line"># Ruby version</div><div class="line">ruby &quot;2.3.1&quot;</div></pre></td></tr></table></figure>
+<p>git init</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">git init</div><div class="line">git add .</div><div class="line">git commit -m &quot;init&quot;</div></pre></td></tr></table></figure>
+<h3 id="Heroku-Create-app-and-push"><a href="#Heroku-Create-app-and-push" class="headerlink" title="Heroku Create app and push"></a>Heroku Create app and push</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">heroku create</div><div class="line">git push heroku master</div></pre></td></tr></table></figure>
+<h3 id="Migrate-Database"><a href="#Migrate-Database" class="headerlink" title="Migrate Database"></a>Migrate Database</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">heroku run rake db:migrate</div></pre></td></tr></table></figure>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/rails5.html" data-id="ciqv637l30009oj543v602209" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/rails5.html" data-id="ciqw0kukz0007bg54925486jh" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/rails5.html#disqus_thread" class="article-comment-link">留言</a>
       
