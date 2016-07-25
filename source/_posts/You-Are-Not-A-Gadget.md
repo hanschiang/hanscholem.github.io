@@ -5,7 +5,9 @@ categories: motto
 tags:
 ---
 
-by [Jaron Lanier](http://www.jaronlanier.com/)
+![齒輪，其實 Gadget 不是這個意思](https://c7.staticflickr.com/9/8738/28511854126_7bb51d0f4f.jpg)
+
+我知所以會實踐網路實名制，是因為看了這本書。
 
 ## p.26
 
@@ -16,5 +18,6 @@ by [Jaron Lanier](http://www.jaronlanier.com/)
 > - 寫一篇部落格貼文，表達你經歷數個星期省思後所聽到不吐不快的內在聲音。
 > - 如果你用Twitter，請發揮創意，找個方法描述你的內心世界，而不是雞毛蒜皮的外部事件，以免自己漸漸相信客觀陳述的事件能定義你，一如定義一部機器。
 
+by [Jaron Lanier](http://www.jaronlanier.com/)
 
 摘錄自天下出版社的[繁體中文譯本](http://www.books.com.tw/products/0010568895)。譯名一如往常的台灣式糟糕：「別讓科技統治你：一個矽谷鬼才的告白」真的是爛翻譯，但是也許就是在台灣這樣的翻譯有市場，多年前我也是被「別讓科技統治你」吸引到目光，所以從行銷角度來說，這個翻譯是成功的。
