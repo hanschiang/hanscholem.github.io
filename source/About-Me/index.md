@@ -7,8 +7,11 @@ date: 2016-07-09 16:30:44
 
 - Hans_Chiang = 江承翰
 - recently_self_learning = ["python", "html", "css"]
+- 最近想把蓋亞出版的[台灣漫畫](http://www.books.com.tw/web/sys_puballb/books/16/?pubid=gaea)一一找來看。
 
 To be continued...
+
+
 
 ## Memos To Be Reviewed
 
@@ -37,4 +40,4 @@ To be continued...
 ### 李天田
 
 - 羅輯思維的唯一心得：作時間的朋友。
-- 
+-
