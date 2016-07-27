@@ -36,7 +36,8 @@ sudo apt install vlc
 sudo apt-get install ruby
 
 # 安裝 ibus 裡的新酷音
-# 目前（2016/07/09）新酷音在ibus似乎會有些符號沒辦法選到（譬如雙尖括弧書名號），所以後來還是切回 fcitx 了，目前使用順暢。
+# 目前（2016/07/09）新酷音在ibus似乎會有些符號沒辦法選到，
+# 譬如雙尖括弧書名號，所以後來還是切回 fcitx 了，目前使用順暢。
 
 sudo apt-get install ibus-chewing
 
