@@ -1,3 +1,8 @@
+### 20160727 Wed
+
+- 做完了一次 Rails101 ，懶得調整虛擬環境，所以是照著課本，但是用 Rails5 把它做完，沒遇到什麼大問題。 push 上 heroku 會動真是有點感動。
+
+
 ### 可用的 banner
 https://c5.staticflickr.com/9/8896/28544627836_93411dbfe7_z.jpg
 https://c7.staticflickr.com/2/1554/25876601606_2021da6937_z.jpg
