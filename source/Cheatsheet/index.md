@@ -3,16 +3,17 @@ title: Cheatsheet
 date: 2016-07-09 16:20:26
 ---
 
-| Topic | Description
-| ----- | -----------
-| [Hexo](/Cheatsheet/hexo_note.html) | Hexo blog, Theme: landscape
-| [Atom usage in Ubuntu](/Cheatsheet/atom_in_ubuntu1604.html) | Notes
-| [BBS applications](/Cheatsheet/bbs.html) | Notes
-| [PC Win/Ubuntu Settings](/Cheatsheet/asus_n82jq_setting.html) | Notes
-| [Macbook Air Settings](/Cheatsheet/macbookair.html) | Notes
-| [python2.7](/Cheatsheet/python27.html) | Notes
-| [rails 5](/Cheatsheet/raisl5.html) | Notes
-| [Ubuntu 16.04](/Cheatsheet/ubuntu1604.html) | Notes
+ Categories | Topics
+ ----- | -----------
+Editor | [Atom usage in Ubuntu](/Cheatsheet/atom_in_ubuntu1604.html)
+Language | [python2.7](/Cheatsheet/python27.html)
+Framework | [rails 5](/Cheatsheet/raisl5.html)
+Social Media | [Hexo](/Cheatsheet/hexo_note.html)
+Social Media | [BBS applications](/Cheatsheet/bbs.html)
+OS | [PC Win/Ubuntu Settings](/Cheatsheet/asus_n82jq_setting.html)
+OS | [Macbook Air Settings](/Cheatsheet/macbookair.html)
+OS | [Ubuntu 16.04](/Cheatsheet/ubuntu1604.html)
+
 
 
 
