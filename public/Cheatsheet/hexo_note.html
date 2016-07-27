@@ -25,7 +25,7 @@ note: 測試，標題英文單字大寫連結會失效，中文標題連結正�
 
 12hexo initnpm install
 hexo deploy">
-<meta property="og:updated_time" content="2016-07-25T04:18:07.265Z">
+<meta property="og:updated_time" content="2016-07-27T03:42:41.905Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hans the Golem">
 <meta name="twitter:description" content="hexo memo
@@ -80,9 +80,9 @@ ga('send', 'pageview');
       <nav id="main-nav">
         <a id="main-nav-toggle" class="nav-icon"></a>
         
-          <a class="main-nav-link" href="/About-Me">About-Me</a>
-        
           <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/About-Me">About-Me</a>
         
           <a class="main-nav-link" href="/archives">Archives</a>
         
@@ -107,7 +107,7 @@ ga('send', 'pageview');
         <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/Cheatsheet/hexo_note.html" class="article-date">
-  <time datetime="2016-07-25T04:25:26.733Z" itemprop="datePublished">2016-07-25</time>
+  <time datetime="2016-07-27T03:42:41.905Z" itemprop="datePublished">2016-07-27</time>
 </a>
     
   </div>
@@ -155,11 +155,13 @@ ga('send', 'pageview');
 </blockquote>
 <h3 id="下一頁的按鈕錯誤-‘next’"><a href="#下一頁的按鈕錯誤-‘next’" class="headerlink" title="下一頁的按鈕錯誤(‘next’)"></a>下一頁的按鈕錯誤(‘next’)</h3><p><a href="https://github.com/hexojs/hexo-theme-landscape/issues/57" target="_blank" rel="external">https://github.com/hexojs/hexo-theme-landscape/issues/57</a></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">修改：landscape/layout/_partial/archive.ejs</div><div class="line"></div><div class="line">&lt;%- paginator(&#123;</div><div class="line">	prev_text: &quot;&amp;laquo;&quot; + __(&apos;prev&apos;),</div><div class="line">	next_text: __(&apos;next&apos;) + &quot;&amp;raquo;&quot;</div><div class="line">&#125;) %&gt;</div></pre></td></tr></table></figure>
-<h3 id="更換-banner-圖片ch"><a href="#更換-banner-圖片ch" class="headerlink" title="更換 banner 圖片ch"></a>更換 banner 圖片ch</h3>
+<h3 id="更換-banner-圖片"><a href="#更換-banner-圖片" class="headerlink" title="更換 banner 圖片"></a>更換 banner 圖片</h3><p>/themes/landscape/source/css/_partial/header.styl</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">#banner</div><div class="line">  position: absolute</div><div class="line">  top: 0</div><div class="line">  left: 0</div><div class="line">  width: 100%</div><div class="line">  height: 100%</div><div class="line">  background: url(banner-url) center #000</div><div class="line">  background-size: cover</div><div class="line">  z-index: -1</div></pre></td></tr></table></figure>
+
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheet/hexo_note.html" data-id="cir3qbaar0005e254ipt78nsv" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheet/hexo_note.html" data-id="cir4bz3ay0005kl54u54n884r" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheet/hexo_note.html#disqus_thread" class="article-comment-link">留言</a>
       
@@ -213,6 +215,10 @@ ga('send', 'pageview');
       <ul>
         
           <li>
+            <a href="/2016/07/27/20160727-Wed/">20160727 Wed</a>
+          </li>
+        
+          <li>
             <a href="/2016/07/26/20160725-Mon/">20160725 Mon</a>
           </li>
         
@@ -226,10 +232,6 @@ ga('send', 'pageview');
         
           <li>
             <a href="/2016/07/21/bus-note-02/">搭車記事02</a>
-          </li>
-        
-          <li>
-            <a href="/2016/07/20/20160720-Wed/">20160720 Wed</a>
           </li>
         
       </ul>
@@ -252,9 +254,9 @@ ga('send', 'pageview');
     </div>
     <nav id="mobile-nav">
   
-    <a href="/About-Me" class="mobile-nav-link">About-Me</a>
-  
     <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/About-Me" class="mobile-nav-link">About-Me</a>
   
     <a href="/archives" class="mobile-nav-link">Archives</a>
   

@@ -83,4 +83,18 @@ https://github.com/hexojs/hexo-theme-landscape/issues/57
 }) %>
 ```
 
-### 更換 banner 圖片ch
+### 更換 banner 圖片
+
+/themes/landscape/source/css/_partial/header.styl
+
+```
+#banner
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  background: url(banner-url) center #000
+  background-size: cover
+  z-index: -1
+```
