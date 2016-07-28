@@ -122,6 +122,11 @@ open .bashrc file and add code like following:
 
 ```
 alias new_name='old command'
+
+# 常用的 alias
+
+alias a='atom .'
+alias c='clear'
 ```
 
 ### Chrome hotkey
