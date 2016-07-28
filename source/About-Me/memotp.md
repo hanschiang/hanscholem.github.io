@@ -1,3 +1,8 @@
+### 20160728 Thur
+
+- 一個在家裡工作了十年的同事今天最後一天，下午出門前，拿了一罐我結婚時用的紅酒去給他。
+
+
 ### 可用的 banner
 https://c5.staticflickr.com/9/8896/28544627836_93411dbfe7_z.jpg
 https://c7.staticflickr.com/2/1554/25876601606_2021da6937_z.jpg
