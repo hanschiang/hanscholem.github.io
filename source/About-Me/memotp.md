@@ -3,6 +3,15 @@
 - 今天，昨天，明天。
 
 
+### 20160731 Sun
+
+Practice 2nd time. branch: new_2
+
+```
+git push heroku yourbranch:master
+```
+
+
 ### 可用的 banner
 https://c5.staticflickr.com/9/8896/28544627836_93411dbfe7_z.jpg
 https://c7.staticflickr.com/2/1554/25876601606_2021da6937_z.jpg
