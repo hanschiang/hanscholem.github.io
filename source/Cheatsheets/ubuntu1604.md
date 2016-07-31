@@ -1,4 +1,6 @@
-## Ubuntu 16.04 安裝筆記
+# Ubuntu 16.04
+
+### Ubuntu 16.04 安裝筆記
 
 - [ ] Ubuntu 安裝（語系選英文）
 - [x] Ubuntu 裡安裝 nodejs
@@ -18,7 +20,7 @@
 
 
 ```
-# 設備ASUS N82JQ
+# 設備：ASUS N82JQ
 
 # 安裝 nodejs, npm
 sudo apt-get update  

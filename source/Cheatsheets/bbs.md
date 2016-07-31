@@ -1,4 +1,4 @@
-## bbs application
+# BBS
 
 ### pcman
 大概是台灣人最常用的 BBS Client ？ Ubuntu 16.04 之前因為在預設套件庫裡沒有，所以比較少用。

@@ -1,4 +1,5 @@
-## python27 memo
+# python 2.7
+
 ```
 sudo apt install python-pip
 pip install --upgrade pip

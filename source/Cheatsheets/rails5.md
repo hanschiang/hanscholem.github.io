@@ -1,6 +1,10 @@
-## getting Started
+# Rails 5
 
-http://guides.rubyonrails.org/getting_started.html
+## 學習教材
+
+- [Rails101](http://courses.growthschool.com/courses/rails-101)
+- [Rails Guides](http://guides.rubyonrails.org/)
+- [Rails Guides: Getting Started](http://guides.rubyonrails.org/getting_started.html)
 
 ### ruby
 
@@ -133,4 +137,3 @@ git push heroku master
 ```
 heroku run rake db:migrate
 ```
-

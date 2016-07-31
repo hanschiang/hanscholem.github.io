@@ -1,6 +1,8 @@
+# Atom in Ubuntu 16.04
+
 ## scope
-https://discuss.atom.io/t/use-a-custom-snippet-over-a-builtin-one/12100/2
 https://discuss.atom.io/t/how-to-override-a-default-snippet/23105?source_topic_id=23294
+https://discuss.atom.io/t/use-a-custom-snippet-over-a-builtin-one/12100/2
 
 ## snippets
 https://github.com/MartinPeverelli/erb-snippets/blob/master/snippets/erb-snippets.cson

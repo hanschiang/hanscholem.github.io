@@ -1,4 +1,4 @@
-## macbook air
+# macbook air
 
 ### Chrome hotkey
 

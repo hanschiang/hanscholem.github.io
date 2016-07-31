@@ -1,4 +1,4 @@
-# 老電腦N82JQ重灌：
+# ASUS N82JQ 老電腦重灌：
 
 ### 2016/07/01 作業 Checklist ：
 
@@ -28,6 +28,7 @@
 
 time-nw.nist.gov
 Window 7 更新時間 server
+無法自動同步到對的時間， BIOS 電池沒電？
 
 - [ ] 安裝 7-zip
 - [ ] 安裝 steam
