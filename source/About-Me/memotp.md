@@ -11,6 +11,10 @@ Practice 2nd time. branch: new_2
 git push heroku yourbranch:master
 ```
 
+### 20160801 Mon
+
+- 放下。
+
 
 ### 可用的 banner
 https://c5.staticflickr.com/9/8896/28544627836_93411dbfe7_z.jpg
