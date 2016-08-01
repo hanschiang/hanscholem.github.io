@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-08-01T14:00:55.437Z</updated>
+  <updated>2016-08-01T14:12:52.462Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://hanscholem.github.io/2016/08/01/soundcloud-plugin-test/"/>
     <id>http://hanscholem.github.io/2016/08/01/soundcloud-plugin-test/</id>
     <published>2016-08-01T14:00:01.000Z</published>
-    <updated>2016-08-01T14:00:55.437Z</updated>
+    <updated>2016-08-01T14:12:52.462Z</updated>
     
     <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2F20160801a&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;發現了一個可以直接把 soundcloud 的錄音掛在 blog 裡的 &lt;a href=&quot;https://github.com/andrewboni/hexo-soundcloud&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hexo plugun&lt;/a&gt;。雖然一直對 soundcloud這個平台有點疑慮，但是目前對我來說看來是相對方便的選擇。用用看吧。&lt;/p&gt;
 </content>
     
     <summary type="html">
