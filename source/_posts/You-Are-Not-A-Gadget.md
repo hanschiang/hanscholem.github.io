@@ -1,7 +1,7 @@
 ---
 title: You Are Not A Gadget
 date: 2016-07-26 00:28:42
-categories: motto
+categories: 我的通往財富自由之路
 tags:
 ---
 

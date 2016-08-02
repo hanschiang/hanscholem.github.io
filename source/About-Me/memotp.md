@@ -1,20 +1,15 @@
-### 20160729 Fri
+## 20160802 Tue
 
-- 今天，昨天，明天。
+### 我的通往財富自由之路
+
+整理網誌分類
+- 把網誌上的分類「通往財富自由之路」改成「我的通往財富自由之路」。
+- 把之前開個頭的「 Book of Freedom 」的兩篇亂寫的東西也放入分類「我的通往財富自由之路」(某方面來說的確也還是 Book of Freedom ？)。 
 
 
-### 20160731 Sun
 
-Practice 2nd time. branch: new_2
-
-```
-git push heroku yourbranch:master
-```
-
-### 20160801 Mon
-
-- 放下。
-
+---
+## 待整理
 
 ### 可用的 banner
 https://c5.staticflickr.com/9/8896/28544627836_93411dbfe7_z.jpg

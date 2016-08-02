@@ -1,7 +1,7 @@
 ---
 title: 願意不自由的自由人？
 date: 2016-07-06 11:54:50
-categories: Book of Freedom
+categories: 我的通往財富自由之路
 tags:
 ---
 

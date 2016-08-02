@@ -1,7 +1,7 @@
 ---
 title: Ch1：如何一百年後成為一個駭客？
 date: 2016-07-06 11:56:44
-categories: Book of Freedom
+categories: 我的通往財富自由之路
 tags:
 ---
 

@@ -137,3 +137,10 @@ git push heroku master
 ```
 heroku run rake db:migrate
 ```
+
+
+### Practice 2nd time. branch: new_2
+
+```
+git push heroku yourbranch:master
+```
