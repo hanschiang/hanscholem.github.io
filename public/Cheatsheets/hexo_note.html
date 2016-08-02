@@ -25,7 +25,7 @@ note: 測試，標題英文單字大寫連結會失效，中文標題連結正�
 
 12hexo initnpm install
 hexo deploy">
-<meta property="og:updated_time" content="2016-08-01T18:17:23.000Z">
+<meta property="og:updated_time" content="2016-08-02T14:13:47.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hans the Golem">
 <meta name="twitter:description" content="hexo note
@@ -107,7 +107,7 @@ ga('send', 'pageview');
         <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/Cheatsheets/hexo_note.html" class="article-date">
-  <time datetime="2016-08-01T18:17:23.000Z" itemprop="datePublished">2016-08-02</time>
+  <time datetime="2016-08-02T14:13:47.000Z" itemprop="datePublished">2016-08-02</time>
 </a>
     
   </div>
@@ -155,13 +155,27 @@ ga('send', 'pageview');
 </blockquote>
 <h3 id="下一頁的按鈕錯誤-‘next’"><a href="#下一頁的按鈕錯誤-‘next’" class="headerlink" title="下一頁的按鈕錯誤(‘next’)"></a>下一頁的按鈕錯誤(‘next’)</h3><p><a href="https://github.com/hexojs/hexo-theme-landscape/issues/57" target="_blank" rel="external">https://github.com/hexojs/hexo-theme-landscape/issues/57</a></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">修改：landscape/layout/_partial/archive.ejs</div><div class="line"></div><div class="line">&lt;%- paginator(&#123;</div><div class="line">	prev_text: &quot;&amp;laquo;&quot; + __(&apos;prev&apos;),</div><div class="line">	next_text: __(&apos;next&apos;) + &quot;&amp;raquo;&quot;</div><div class="line">&#125;) %&gt;</div></pre></td></tr></table></figure>
-<h3 id="更換-banner-圖片"><a href="#更換-banner-圖片" class="headerlink" title="更換 banner 圖片"></a>更換 banner 圖片</h3><p>/themes/landscape/source/css/_partial/header.styl</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">#banner</div><div class="line">  position: absolute</div><div class="line">  top: 0</div><div class="line">  left: 0</div><div class="line">  width: 100%</div><div class="line">  height: 100%</div><div class="line">  background: url(banner-url) center #000</div><div class="line">  background-size: cover</div><div class="line">  z-index: -1</div></pre></td></tr></table></figure>
+<h3 id="更換-banner-圖片"><a href="#更換-banner-圖片" class="headerlink" title="更換 banner 圖片"></a>更換 banner 圖片</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">修改 /themes/landscape/source/css/_partial/header.styl</div><div class="line"></div><div class="line">#banner</div><div class="line">  position: absolute</div><div class="line">  top: 0</div><div class="line">  left: 0</div><div class="line">  width: 100%</div><div class="line">  height: 100%</div><div class="line">  background: url(banner-url) center #000</div><div class="line">  background-size: cover</div><div class="line">  z-index: -1</div></pre></td></tr></table></figure>
+<h3 id="hexo-階層項目測試"><a href="#hexo-階層項目測試" class="headerlink" title="hexo 階層項目測試"></a>hexo 階層項目測試</h3><ul>
+<li>What<ul>
+<li>Test1<ul>
+<li>Test11</li>
+<li>Test12</li>
+</ul>
+</li>
+<li>Test2<ul>
+<li>Test21</li>
+<li>Test22</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/Cheatsheets/hexo_note.html" data-id="cirdjhy4a00061i4a7gq3ivxn" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/Cheatsheets/hexo_note.html" data-id="cirdsbfvl0006n64ap9gvht6v" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/Cheatsheets/hexo_note.html#disqus_thread" class="article-comment-link">留言</a>
       
@@ -215,6 +229,10 @@ ga('send', 'pageview');
       <ul>
         
           <li>
+            <a href="/2016/08/02/BOF-My-Way-to-Freedom/">我的通往財富自由之路</a>
+          </li>
+        
+          <li>
             <a href="/2016/08/02/20160801-What-is-Most-Precious-for-You/">心得：你擁有的最寶貴的財富是什麼？</a>
           </li>
         
@@ -228,10 +246,6 @@ ga('send', 'pageview');
         
           <li>
             <a href="/2016/08/01/20160801-Mon/">20160801 Mon</a>
-          </li>
-        
-          <li>
-            <a href="/2016/07/29/20160729-Fri/">20160729 Fri</a>
           </li>
         
       </ul>

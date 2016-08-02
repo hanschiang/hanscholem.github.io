@@ -85,9 +85,10 @@ https://github.com/hexojs/hexo-theme-landscape/issues/57
 
 ### 更換 banner 圖片
 
-/themes/landscape/source/css/_partial/header.styl
 
 ```
+修改 /themes/landscape/source/css/_partial/header.styl
+
 #banner
   position: absolute
   top: 0
@@ -98,3 +99,13 @@ https://github.com/hexojs/hexo-theme-landscape/issues/57
   background-size: cover
   z-index: -1
 ```
+
+### hexo 階層項目測試
+
+- What
+    - Test1
+        - Test11
+        - Test12
+    - Test2
+        - Test21
+        - Test22
