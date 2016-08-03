@@ -2,8 +2,9 @@
 menu:
   Home: /
   About-Me: /About-Me
-  Archives: /archives
   Cheatsheets: /Cheatsheets
+  Freedom: /Freedom
+  Archives: /archives
   Projects: /projects
 rss: /atom.xml
 
