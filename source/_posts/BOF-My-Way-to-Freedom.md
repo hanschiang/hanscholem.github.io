@@ -5,8 +5,6 @@ categories: 我的通往財富自由之路
 tags:
 ---
 
-![李笑來專欄命名是改自這本書？](https://c5.staticflickr.com/9/8560/28620612412_7e9b393050.jpg)
-
 ### 中國內容產業的遠岸星火
 
 「最近在『得到』上訂閱了李笑來先生的專欄《通往財富自由之路》。 199 人民幣。」這句話，我覺得跟台灣朋友說，大概有一半以上看不懂，剩下那一半看得懂的人可能大多會覺得我是被騙了。覺得我去訂閱這篇專欄可能會有收穫的台灣人朋友可能不到一成。
@@ -58,7 +56,14 @@ tags:
 
 李笑來先生公開的《通往財富自由之路》專欄相關文章：
 
-> - [你需要理解什么是“财富自由”，像理解吃饭睡觉一样地透彻（專欄的第一篇文章）](https://wap.koudaitong.com/v2/showcase/feature?alias=17392khl4&spm=m1470115632799550225016353.autoreply&redirect_count=1)
-> - [没钱是一种病，病是能治的](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630089&idx=1&sn=6d7752fbadb658f64ce5f5e04e8f966c&scene=0#wechat_redirect)
-> - [我开了个“得到”专栏：《通往财富自由之路》](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056497&idx=1&sn=f7c9009a991230529d59d927e4fd9c0f&scene=0#wechat_redirect)
-> - [面对这样的盗版者我该咋办？](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630085&idx=1&sn=75a21a78b86f8f33db3371edfc08df5d#rd)
+- [你需要理解什么是“财富自由”，像理解吃饭睡觉一样地透彻（專欄的第一篇文章）](https://wap.koudaitong.com/v2/showcase/feature?alias=17392khl4&spm=m1470115632799550225016353.autoreply&redirect_count=1)
+- [没钱是一种病，病是能治的](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630089&idx=1&sn=6d7752fbadb658f64ce5f5e04e8f966c&scene=0#wechat_redirect)
+- [我开了个“得到”专栏：《通往财富自由之路》](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056497&idx=1&sn=f7c9009a991230529d59d927e4fd9c0f&scene=0#wechat_redirect)
+- [面对这样的盗版者我该咋办？](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630085&idx=1&sn=75a21a78b86f8f33db3371edfc08df5d#rd)
+
+
+### 附錄
+
+![李笑來專欄命名是改自這本書？](https://c5.staticflickr.com/9/8560/28620612412_7e9b393050.jpg)
+
+我那時看到專欄命名的時候就想到海耶克的《通往奴役之路》這本書，不知道是不是故意如此命名。覺得蠻有意思的。
