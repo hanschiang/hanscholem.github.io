@@ -22,6 +22,10 @@ tags:
 
 見面簡潔，可以設定直接點類別（ type ）的符號就開始計時，缺點是類別不能自建，預設的類別有時會覺得不太準確，找不到合適的類別，譬如陪家人的時間，這邊的分類似乎已事務為主，把陪家人的時間放在 Entertainment 好像也不太對。暫時可能會放在 Housework ，也還是有點怪。
 
+2016/08/04 更正，找到了設定類別的選項，而且還頗好看的，有許多圖示可以選擇。感覺還不錯，如果用的覺得順手，也許這週（或者這幾天後）該找時間來寫一篇簡介一下這個 app 。
+
+![新增了 Family Time 的分類。](https://c1.staticflickr.com/9/8762/28714239616_30ce355939.jpg)
+
 ![可匯出 csv 檔做一點手動分析。](https://c1.staticflickr.com/9/8065/28127355144_344117f559.jpg)
 
 匯出的效果感覺還不錯，累積兩三天乃至一週後再看看資料長什麼樣子。
@@ -33,11 +37,11 @@ tags:
 
 記錄這些的時候，讓我想到「警覺」或者聖經中的翻譯「警醒」。
 
-> 馬太福音 26:41 要警醒禱告，免得陷入試探。你們心靈雖然願意，肉體卻是軟弱的。
+> 馬太福音 26:41
 >
-> Matthew 26:41
+> 要警醒禱告，免得陷入試探。你們心靈雖然願意，肉體卻是軟弱的。
 >
-> English Revised Version
+> Matthew 26:41 English Revised Version
 >
 > Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.
 
