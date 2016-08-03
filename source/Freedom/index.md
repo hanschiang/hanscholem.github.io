@@ -1,7 +1,10 @@
 ---
-title: Freedom
+title: Book of Freedom
 date: 2016-08-03 16:34:00
 ---
+
+[檔案命名原則]()
+
 
 ### 我的通往財富自由之路
 
