@@ -46,3 +46,11 @@ tags:
 > Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.
 
 盡量記錄細節。留下可信的數據，資料。然後改善自己的時間使用效率。必須這麼做。
+
+8/2
+交通，04:05
+睡眠，07:45
+寫作，05:30
+休息，03:25
+閱讀，00:10
+做家事，00:50
