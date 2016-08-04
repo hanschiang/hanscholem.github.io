@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-08-03T17:59:17.000Z</updated>
+  <updated>2016-08-04T03:41:11.955Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -16,11 +16,78 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>BOF D 20160803</title>
+    <link href="http://hanscholem.github.io/2016/08/04/BOF-D-20160803/"/>
+    <id>http://hanscholem.github.io/2016/08/04/BOF-D-20160803/</id>
+    <published>2016-08-04T03:31:31.000Z</published>
+    <updated>2016-08-04T03:41:11.955Z</updated>
+    
+    <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;消耗時間&lt;/th&gt;
+&lt;th&gt;關注項目&lt;/th&gt;
+&lt;th&gt;備註&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;02:00&lt;/td&gt;
+&lt;td&gt;看《The Shawshank Redemption》&lt;/td&gt;
+&lt;td&gt;下次重看應該要拿個筆記本寫筆記才對。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;00:30&lt;/td&gt;
+&lt;td&gt;鍵入 8/2 的時間帳。&lt;/td&gt;
+&lt;td&gt;晚上找到一款蠻適合我的使用需求的手機 app 。可以大幅減少這個手工鍵入的工作。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;00:30&lt;/td&gt;
+&lt;td&gt;整理昨天寫的 blog 文。&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;01:20&lt;/td&gt;
+&lt;td&gt;重看笑來專欄文，寫筆記，共 4 篇。&lt;/td&gt;
+&lt;td&gt;算是相對有效率。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02:00&lt;/td&gt;
+&lt;td&gt;重看專欄文〈開始前的正式邀請〉，寫筆記。&lt;/td&gt;
+&lt;td&gt;不太專心，效率不好。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;消耗時間&lt;/th&gt;
+&lt;th&gt;關注項目&lt;/th&gt;
+&lt;th&gt;備註&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;02:00&lt;/td&gt;
+&lt;td&gt;看《The Shawshank Redemption》&lt;/td&gt;
+    
+    </summary>
+    
+      <category term="我的通往財富自由之路" scheme="http://hanscholem.github.io/categories/%E6%88%91%E7%9A%84%E9%80%9A%E5%BE%80%E8%B2%A1%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>時間使用記錄方法</title>
     <link href="http://hanscholem.github.io/2016/08/03/BOF-M001-Time-Track/"/>
     <id>http://hanscholem.github.io/2016/08/03/BOF-M001-Time-Track/</id>
     <published>2016-08-03T13:29:13.000Z</published>
-    <updated>2016-08-03T17:59:17.000Z</updated>
+    <updated>2016-08-04T02:37:30.248Z</updated>
     
     <content type="html">&lt;h3 id=&quot;用隨身的筆記本記錄經過的時間&quot;&gt;&lt;a href=&quot;#用隨身的筆記本記錄經過的時間&quot; class=&quot;headerlink&quot; title=&quot;用隨身的筆記本記錄經過的時間&quot;&gt;&lt;/a&gt;用隨身的筆記本記錄經過的時間&lt;/h3&gt;&lt;p&gt; 2016/08/02 開始試著這樣做。一開始是用筆記本，手寫。時間，事務。筆記本的好處是打開就能寫，不會沒電。但其實「計時，記事」是有點枯燥的工作，需要蠻多的耐心才能好好記錄。如圖中的記事，把一天的時間記錄鍵入電子檔以便分析本身也是花時間的事情（因為目前時間使用得零碎，條目有點多）。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8801/28457120190_c321944f77.jpg&quot; alt=&quot;用隨身的筆記本記錄經過的時間
@@ -28,8 +95,10 @@
 &lt;hr&gt;
 &lt;h3 id=&quot;用手機-app-記錄經過的時間&quot;&gt;&lt;a href=&quot;#用手機-app-記錄經過的時間&quot; class=&quot;headerlink&quot; title=&quot;用手機 app 記錄經過的時間&quot;&gt;&lt;/a&gt;用手機 app 記錄經過的時間&lt;/h3&gt;&lt;p&gt;下午試著找記錄時間使用的手機 app 。選擇不少（關鍵字：時間，記錄， Time ， Track ， log ⋯⋯），選了一個覺得比較順眼的 &lt;a href=&quot;http://timetrack.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;timetrack.io&lt;/a&gt; 先用用看。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://c5.staticflickr.com/9/8133/28457148700_583ceb6c7a.jpg&quot; alt=&quot; timetrack.io 的介面還算簡潔直覺。&quot;&gt;&lt;/p&gt;
-&lt;p&gt;見面簡潔，可以設定直接點類別（ type ）的符號就開始計時，缺點是類別不能自建，預設的類別有時會覺得不太準確，找不到合適的類別，譬如陪家人的時間，這邊的分類似乎已事務為主，把陪家人的時間放在 Entertainment 好像也不太對。暫時可能會放在 Housework ，也還是有點怪。&lt;/p&gt;
+&lt;p&gt;介面簡潔，可以設定直接點類別（ type ）的符號就開始計時，缺點是類別不能自建，預設的類別有時會覺得不太準確，找不到合適的類別，譬如陪家人的時間，這邊的分類似乎已事務為主，把陪家人的時間放在 Entertainment 好像也不太對。暫時可能會放在 Housework ，也還是有點怪。&lt;/p&gt;
 &lt;p&gt;2016/08/04 更正，找到了設定類別的選項，而且還頗好看的，有許多圖示可以選擇。感覺還不錯，如果用的覺得順手，也許這週（或者這幾天後）該找時間來寫一篇簡介一下這個 app 。&lt;/p&gt;
+&lt;p&gt;2016/08/04 補記：新增分類可以用中文命名。&lt;/p&gt;
+&lt;p&gt;2016/08/04 補記：發現除了碼表模式（計時），還是可以自己寫入自己認為花掉的時間區間，兩種模式各有其用處。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8762/28714239616_30ce355939.jpg&quot; alt=&quot;新增了 Family Time 的分類。&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8065/28127355144_344117f559.jpg&quot; alt=&quot;可匯出 csv 檔做一點手動分析。&quot;&gt;&lt;/p&gt;
 &lt;p&gt;匯出的效果感覺還不錯，累積兩三天乃至一週後再看看資料長什麼樣子。&lt;/p&gt;
@@ -62,17 +131,18 @@
     <link href="http://hanscholem.github.io/2016/08/03/BOF-M000/"/>
     <id>http://hanscholem.github.io/2016/08/03/BOF-M000/</id>
     <published>2016-08-03T12:55:41.000Z</published>
-    <updated>2016-08-03T13:24:42.000Z</updated>
+    <updated>2016-08-04T03:32:15.739Z</updated>
     
     <content type="html">&lt;h3 id=&quot;blog-檔案命名原則&quot;&gt;&lt;a href=&quot;#blog-檔案命名原則&quot; class=&quot;headerlink&quot; title=&quot;blog 檔案命名原則&quot;&gt;&lt;/a&gt;blog 檔案命名原則&lt;/h3&gt;&lt;p&gt;更新文章的部分，「我的通往財富自由之路」這個分類下的文章從這篇開始的命名規則如下&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;BOF：Book of Freedom&lt;ul&gt;
 &lt;li&gt;M：我的實踐&lt;/li&gt;
 &lt;li&gt;X：針對笑來專欄文章的心得&lt;/li&gt;
+&lt;li&gt;D：注意力使用紀錄，日記&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;例：&lt;br&gt;BOF M000 標題英譯&lt;br&gt;BOF X000 標題英譯&lt;/p&gt;
+&lt;p&gt;例：&lt;br&gt;BOF M000 標題英譯&lt;br&gt;BOF X000 標題英譯&lt;br&gt;BOF D 20160803&lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -91,7 +161,7 @@
     <link href="http://hanscholem.github.io/2016/08/02/BOF-My-Way-to-Freedom/"/>
     <id>http://hanscholem.github.io/2016/08/02/BOF-My-Way-to-Freedom/</id>
     <published>2016-08-02T14:26:02.000Z</published>
-    <updated>2016-08-03T08:43:21.000Z</updated>
+    <updated>2016-08-04T02:19:30.518Z</updated>
     
     <content type="html">&lt;h3 id=&quot;我的通往財富自由之路&quot;&gt;&lt;a href=&quot;#我的通往財富自由之路&quot; class=&quot;headerlink&quot; title=&quot;我的通往財富自由之路&quot;&gt;&lt;/a&gt;我的通往財富自由之路&lt;/h3&gt;&lt;p&gt;預計要在這裡持續寫的是：&lt;/p&gt;
 &lt;ul&gt;
@@ -162,7 +232,7 @@
     <link href="http://hanscholem.github.io/2016/08/02/20160801-What-is-Most-Precious-for-You/"/>
     <id>http://hanscholem.github.io/2016/08/02/20160801-What-is-Most-Precious-for-You/</id>
     <published>2016-08-02T02:56:31.000Z</published>
-    <updated>2016-08-02T19:55:55.000Z</updated>
+    <updated>2016-08-04T02:19:30.518Z</updated>
     
     <content type="html">&lt;p&gt;原文＠李笑來&lt;br&gt;付費內容無法轉錄&lt;br&gt;2016/08/01&lt;/p&gt;
 &lt;h3 id=&quot;三個大坑&quot;&gt;&lt;a href=&quot;#三個大坑&quot; class=&quot;headerlink&quot; title=&quot;三個大坑&quot;&gt;&lt;/a&gt;三個大坑&lt;/h3&gt;&lt;p&gt;檢查入坑狀況：我想我也是三個坑都有入一點。&lt;/p&gt;
@@ -192,42 +262,6 @@
     </summary>
     
       <category term="我的通往財富自由之路" scheme="http://hanscholem.github.io/categories/%E6%88%91%E7%9A%84%E9%80%9A%E5%BE%80%E8%B2%A1%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20160802 Tue</title>
-    <link href="http://hanscholem.github.io/2016/08/02/20160802-Tue/"/>
-    <id>http://hanscholem.github.io/2016/08/02/20160802-Tue/</id>
-    <published>2016-08-02T02:03:21.000Z</published>
-    <updated>2016-08-02T04:44:24.000Z</updated>
-    
-    <content type="html">&lt;h3 id=&quot;20160802-Tue-晨間&quot;&gt;&lt;a href=&quot;#20160802-Tue-晨間&quot; class=&quot;headerlink&quot; title=&quot;20160802 Tue 晨間&quot;&gt;&lt;/a&gt;20160802 Tue 晨間&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;晚睡晚起，需要改掉這個節奏。&lt;/li&gt;
-&lt;li&gt;Arron Sorkin 的劇本課，李笑來的互動專欄，Rails自學，邏輯學讀書會⋯⋯我覺得我好像又給自己安排了太多有趣的事情，要節制一下，否則可能又會一事無成。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;20160801-Mon-後記&quot;&gt;&lt;a href=&quot;#20160801-Mon-後記&quot; class=&quot;headerlink&quot; title=&quot;20160801 Mon 後記&quot;&gt;&lt;/a&gt;20160801 Mon 後記&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;我單方面地和爸爸老闆決裂之後（這句話邏輯明顯有問題），今天（起？）不參與診所的公務。&lt;/li&gt;
-&lt;li&gt;和老婆午飯外食。&lt;/li&gt;
-&lt;li&gt;飯後去全聯買菜。&lt;/li&gt;
-&lt;li&gt;下午玩 Mighty No. 9 打到魔王關，實在太難，查了攻略還是沒過，就先停下來。覺得有延續元祖洛克人的精神，但有些關卡實在是有點難。&lt;/li&gt;
-&lt;li&gt;傍晚，用中午買的菜做了點簡單的晚餐，也做了一點想給老婆吃。應該是還不錯吃吧，雖然調味和想像中想做出來的還是有一點點差距，可能是醬油的味道的緣故，有待研究。&lt;/li&gt;
-&lt;li&gt;李笑來先生的專欄正式出發，有點不知道要怎麼跟，於是把前幾篇都自己錄音念了一次。一字一句地念過之後，好像有稍微讀進去一點。&lt;/li&gt;
-&lt;li&gt;老婆回來，一起吃了中午做的雞里肌肉。再加熱之後比中午剛煮好的硬，口感稍差了點，但味道還不錯。囑咐了一些明天想做的菜色（咖哩），請老婆幫忙準備一些用料。&lt;/li&gt;
-&lt;li&gt;開車回羅東老家放。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://c3.staticflickr.com/9/8368/28680610266_64c51cc0c3_z.jpg&quot; alt=&quot;中午做的雞里肌&quot;&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;20160802-Tue-晨間&quot;&gt;&lt;a href=&quot;#20160802-Tue-晨間&quot; class=&quot;headerlink&quot; title=&quot;20160802 Tue 晨間&quot;&gt;&lt;/a&gt;20160802 Tue 晨間&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;晚睡晚起，需要改掉這個節
-    
-    </summary>
-    
-      <category term="日記" scheme="http://hanscholem.github.io/categories/%E6%97%A5%E8%A8%98/"/>
     
     
   </entry>

@@ -12,7 +12,9 @@ tags:
 - BOF：Book of Freedom
     - M：我的實踐
     - X：針對笑來專欄文章的心得
+    - D：注意力使用紀錄，日記
 
 例：
 BOF M000 標題英譯
 BOF X000 標題英譯
+BOF D 20160803
