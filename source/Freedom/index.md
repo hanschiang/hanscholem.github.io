@@ -3,22 +3,8 @@ title: Book of Freedom
 date: 2016-08-03 16:34:00
 ---
 
-### 羅輯思維社團 facebook 每日貼文格式
-
-日期：
-
-
-羅胖語音和選文的摘要和簡短心得：
-
-
-其他有趣的文章：
-李笑來：[今天学了个新词：“積ん読”](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630109&idx=1&sn=6f473a7d1404d27653597260aa5315e8#rd)
-
-關於怎麼搞定微信和得到付費：
-http://hanscholem.tw/2016/07/22/WeChat-Go/
-
-如果想看一些比較零碎的心得，可以 follow 我的 facebook 專頁：
-https://www.facebook.com/MenWhyHans/
+- 羅輯思維社團 facebook 每日貼文
+- 李笑來《通往財富自由之路》專欄整理中的筆記
 
 
 ## 李笑來《通往財富自由之路》專欄的作業
