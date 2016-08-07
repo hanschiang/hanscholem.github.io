@@ -1,11 +1,9 @@
 ---
-title: ljsw_luopangdaily 20160808
+title: 20160808 資料收集
 date: 2016-08-08 07:48:10
-categories: 羅輯思維
-tags:
+categories: 雜記
+tags: 羅輯思維
 ---
-
-# 羅輯思維社團 facebook 羅胖每日語音摘要
 
 ### 日期：2016/08/08 Mon
 
@@ -26,9 +24,10 @@ tags:
 ### 其他有趣的文章
 - 李笑來：[今天学了个新词：“積ん読”](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630109&idx=1&sn=6f473a7d1404d27653597260aa5315e8#rd)
 
+
 ### 我搞定微信和得到付費的方法
 http://hanscholem.tw/2016/07/22/WeChat-Go/
 
 
-### 本日語音和文章連結
+### 本日羅胖語音和文章連結
 https://wap.koudaitong.com/v2/showcase/feature?alias=4cpmjebi&spm=m1470610370945304378398855.autoreply&redirect_count=1
