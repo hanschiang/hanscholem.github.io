@@ -3,6 +3,11 @@ title: Book of Freedom
 date: 2016-08-03 16:34:00
 ---
 
+## 微信充值和手機綁定的台灣解法
+
+http://hanscholem.tw/2016/07/22/WeChat-Go/
+
+
 ## 李笑來《通往財富自由之路》專欄的作業
 
 我自己的整理方法：
