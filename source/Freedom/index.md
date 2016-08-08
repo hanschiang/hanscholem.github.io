@@ -3,8 +3,8 @@ title: Book of Freedom
 date: 2016-08-03 16:34:00
 ---
 
-- 羅輯思維社團 facebook 每日貼文
-- 李笑來《通往財富自由之路》專欄整理中的筆記
+- [羅輯思維社團 facebook 每日貼文](/Freedom/ljsw_luopangdaily)
+- [李笑來《通往財富自由之路》專欄整理中的筆記](/Freedom/column_note)
 
 
 ## 李笑來《通往財富自由之路》專欄的作業
