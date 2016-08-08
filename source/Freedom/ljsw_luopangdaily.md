@@ -19,8 +19,8 @@
 ### 其他有趣的文章
 - 李笑來：[今天学了个新词：“積ん読”](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630109&idx=1&sn=6f473a7d1404d27653597260aa5315e8#rd)
 
-### 我搞定微信和得到付費的方法
-http://hanscholem.tw/2016/07/22/WeChat-Go/
+### FAQ
+- [搞定微信和得到付費的方法](http://hanscholem.tw/2016/07/22/WeChat-Go/)
 
 
 ### 本日語音和文章連結
