@@ -1,4 +1,9 @@
-# 羅輯思維社團 facebook 羅胖每日語音摘要
+---
+title: ljsw-luopangdaily-20160809
+date: 2016-08-09 08:31:45
+categories:
+tags:
+---
 
 ### 日期：2016/08/09 Tue
 
@@ -16,7 +21,7 @@
 
 
 ### 其他有趣的文章
-
+- 未收錄。
 
 ### FAQ
 - [搞定微信和得到付費的方法](http://hanscholem.tw/2016/07/22/WeChat-Go/)
