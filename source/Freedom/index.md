@@ -29,7 +29,6 @@ date: 2016-08-03 16:34:00
 - 我的想法和實踐的紀錄
     - 想要什麼？可以怎麼做？有那些 Checkpoint （里程碑？）？
 
-
 ## 我自己的整理方法：
 
 - [自我觀察](http://hanscholem.tw/Freedom/self_observe)
