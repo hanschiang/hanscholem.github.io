@@ -23,12 +23,13 @@ date: 2016-08-03 16:34:00
 - 我的想法和實踐的紀錄
     - 想要什麼？可以怎麼做？有那些 Checkpoint （里程碑？）？
     - 待辦：
-        - 閱讀《新生——七年就是一輩子》
+        - 閱讀 [《新生——七年就是一輩子》]()
         - 閱讀《把時間當作朋友》
 
 
 ## 我自己的整理方法：
 
+- [自我觀察](http://hanscholem.tw/Freedom/self_observe)
 - [檔案命名原則](/2016/08/03/BOF-M000/)
 - [時間使用紀錄方法](/2016/08/03/BOF-M001-Time-Track/)
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
