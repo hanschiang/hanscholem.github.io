@@ -21,6 +21,7 @@ Hot Key | Description
 --------|-------------
 ctrl-shift-P | Search-driven menu. It will show command and keybinding.
 ctrl-t | fuzzy-finder, a quick way to find files.
+ctrl-cmd-g (mac) | Find and Replace: Select All
 
 ### erb snippets
 reference: https://github.com/matthewrobertson/ERB-Sublime-Snippets
