@@ -1,8 +1,8 @@
 ---
 title: ljsw-luopangdaily-20160809
 date: 2016-08-09 08:31:45
-categories:
-tags:
+categories: 雜記
+tags: 羅輯思維
 ---
 
 ### 日期：2016/08/09 Tue
