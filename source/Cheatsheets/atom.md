@@ -1,4 +1,4 @@
-# Atom in Ubuntu 16.04
+# Atom
 
 ## scope
 https://discuss.atom.io/t/how-to-override-a-default-snippet/23105?source_topic_id=23294
@@ -17,11 +17,13 @@ markdown-toc | Create table of content for a markdown document.
 
 
 ### hot key
-Hot Key | Description
---------|-------------
-ctrl-shift-P | Search-driven menu. It will show command and keybinding.
-ctrl-t | fuzzy-finder, a quick way to find files.
-ctrl-cmd-g (mac) | Find and Replace: Select All
+OS | Hot Key | Description
+-- | -------- | -------------
+Ubuntu | ctrl-shift-P | Search-driven menu. It will show command and keybinding.
+Mac | cmd-shift-P | Search-driven menu. It will show command and keybinding.
+Mac | cmd-P | File search.
+Ubuntu | ctrl-t | fuzzy-finder, a quick way to find files.
+Mac | ctrl-cmd-g (mac) | Find and Replace: Select All
 
 ### erb snippets
 reference: https://github.com/matthewrobertson/ERB-Sublime-Snippets
