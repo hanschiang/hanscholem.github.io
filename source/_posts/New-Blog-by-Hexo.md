@@ -2,7 +2,7 @@
 title: 20160622 用 Hexo 建立這個 blog
 date: 2016-06-22 18:37:13
 categories: 雜記
-tags:
+tags: 羅輯思維
 ---
 
 ## 平台遊牧民族
