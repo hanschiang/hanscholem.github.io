@@ -5,7 +5,7 @@ categories: 雜記
 tags: 羅輯思維
 ---
 
-# 羅輯思維社團 facebook 羅胖每日語音摘要
+![前幾天其實用過這張，也是想到類似的事。](https://c5.staticflickr.com/9/8623/28861798876_3423fa4a31.jpg)
 
 ### 日期：2016/08/11 Thur
 
