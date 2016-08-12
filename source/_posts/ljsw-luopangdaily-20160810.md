@@ -2,7 +2,7 @@
 title: ljsw-luopangdaily-20160810
 date: 2016-08-11 09:51:29
 categories: 雜記
-tags: 羅輯思維
+tags: 閱讀筆記
 ---
 
 ### 日期：2016/08/10 Wed
