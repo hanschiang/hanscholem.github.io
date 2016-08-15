@@ -5,9 +5,9 @@ date: 2016-08-15 10:57:30
 
 服務項目 | 金額 | 連結 | 備註
 ---- | ---- | ---- | ----
-打賞小弟 | 金額隨意 | [感謝打賞](https://qr.allpay.com.tw/XZ3iY)。 | 無。
-代訂普件 | 代訂費 100 | [可以等。](https://qr.allpay.com.tw/a6ovR) | 無。
-代訂速件 | 代訂費 200 | [馬上做。](https://qr.allpay.com.tw/buagP) | 收件即做。
+打賞小弟 | 隨意 | [感謝打賞](https://qr.allpay.com.tw/XZ3iY)。 | 無。
+代訂普件 | 100 | [可以等。](https://qr.allpay.com.tw/a6ovR) | 無。
+代訂速件 | 200 | [馬上做。](https://qr.allpay.com.tw/buagP) | 收件即做。
 
 注意事項：
 1. 圖書代訂，目前只協助訂購 [羅輯思維天貓店](https://luojisiwei.world.tmall.com/?spm=a312a.7700824.0.0.kY0qNF) 上的商品。
