@@ -2,11 +2,12 @@
 menu:
   Home: /
   作者: /About-Me
-  Cheatsheets: /Cheatsheets
+  翰斯小舖: /shop
   自由之路: /Freedom
+  Cheatsheets: /Cheatsheets
   Archives: /archives
   Projects: /projects
-  翰斯小舖: /shop
+
 rss: /atom.xml
 
 # Content
