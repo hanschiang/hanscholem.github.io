@@ -1,11 +1,12 @@
 # Header
 menu:
   Home: /
-  About-Me: /About-Me
+  作者: /About-Me
   Cheatsheets: /Cheatsheets
-  Freedom: /Freedom
+  自由之路: /Freedom
   Archives: /archives
   Projects: /projects
+  翰斯小舖: /shop
 rss: /atom.xml
 
 # Content

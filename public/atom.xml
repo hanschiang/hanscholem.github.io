@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-08-15T02:24:29.000Z</updated>
+  <updated>2016-08-15T02:30:27.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -20,11 +20,12 @@
     <link href="http://hanscholem.github.io/2016/08/15/test-momento-sync/"/>
     <id>http://hanscholem.github.io/2016/08/15/test-momento-sync/</id>
     <published>2016-08-15T02:12:09.000Z</published>
-    <updated>2016-08-15T02:24:29.000Z</updated>
+    <updated>2016-08-15T02:30:27.000Z</updated>
     
     <content type="html">&lt;p&gt;確認一下 momento 的同步方式。昨晚測試了 medium 同步到 momento 上，發現 momento 的設定不會進行「全文同步」，似乎只會同步文章的「第一段」，只同步第一個段落。可以理解可能是不想同步太大量的資料。 反過來說，也是符合西方人的習慣，在第一段就把文章內容寫了個摘要。 momento 對 medium 的設定比較好，點入可以連結到原文，但是 atom/rss feed 好像就沒辦法連結到原文，需要再測試。&lt;/p&gt;
 &lt;p&gt;這是第二段，測試用。&lt;/p&gt;
 &lt;p&gt;這是第三段，測試用。&lt;/p&gt;
+&lt;h3 id=&quot;測試結果&quot;&gt;&lt;a href=&quot;#測試結果&quot; class=&quot;headerlink&quot; title=&quot;測試結果&quot;&gt;&lt;/a&gt;測試結果&lt;/h3&gt;&lt;p&gt;結果不只是只節錄第一段，好像還有字數限制。看起來得測試第二次了。&lt;/p&gt;
 </content>
     
     <summary type="html">
