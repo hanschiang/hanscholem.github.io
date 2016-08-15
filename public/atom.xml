@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-08-12T03:20:10.000Z</updated>
+  <updated>2016-08-15T02:24:29.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test-momento-sync</title>
+    <link href="http://hanscholem.github.io/2016/08/15/test-momento-sync/"/>
+    <id>http://hanscholem.github.io/2016/08/15/test-momento-sync/</id>
+    <published>2016-08-15T02:12:09.000Z</published>
+    <updated>2016-08-15T02:24:29.000Z</updated>
+    
+    <content type="html">&lt;p&gt;確認一下 momento 的同步方式。昨晚測試了 medium 同步到 momento 上，發現 momento 的設定不會進行「全文同步」，似乎只會同步文章的「第一段」，只同步第一個段落。可以理解可能是不想同步太大量的資料。 反過來說，也是符合西方人的習慣，在第一段就把文章內容寫了個摘要。 momento 對 medium 的設定比較好，點入可以連結到原文，但是 atom/rss feed 好像就沒辦法連結到原文，需要再測試。&lt;/p&gt;
+&lt;p&gt;這是第二段，測試用。&lt;/p&gt;
+&lt;p&gt;這是第三段，測試用。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;確認一下 momento 的同步方式。昨晚測試了 medium 同步到 momento 上，發現 momento 的設定不會進行「全文同步」，似乎只會同步文章的「第一段」，只同步第一個段落。可以理解可能是不想同步太大量的資料。 反過來說，也是符合西方人的習慣，在第一段就把文
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+      <category term="hexo 功能測試" scheme="http://hanscholem.github.io/tags/hexo-%E5%8A%9F%E8%83%BD%E6%B8%AC%E8%A9%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>第二週：〈付費就是撿便宜〉筆記摘要</title>
@@ -552,28 +577,6 @@
     
     
       <category term="閱讀筆記" scheme="http://hanscholem.github.io/tags/%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>fb sync test</title>
-    <link href="http://hanscholem.github.io/2016/08/11/fb-sync-test/"/>
-    <id>http://hanscholem.github.io/2016/08/11/fb-sync-test/</id>
-    <published>2016-08-11T01:55:26.000Z</published>
-    <updated>2016-08-11T01:55:45.000Z</updated>
-    
-    <content type="html">&lt;p&gt;facebook sync test.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;facebook sync test.&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
-    
     
   </entry>
   

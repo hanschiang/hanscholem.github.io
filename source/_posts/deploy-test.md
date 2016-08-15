@@ -2,7 +2,7 @@
 title: deploy test
 date: 2016-07-08 23:39:07
 categories: 雜記
-tags:
+tags: hexo 功能測試
 ---
 
 目標：在不同的電腦也可以 update 這個 blog。

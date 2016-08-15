@@ -2,7 +2,7 @@
 title: deploy test 2
 date: 2016-07-09 02:01:07
 categories: 雜記
-tags:
+tags: hexo 功能測試
 ---
 
 - Mac ，branch 測試 2 。

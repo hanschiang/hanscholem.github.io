@@ -2,7 +2,7 @@
 title: atom sync test
 date: 2016-07-09 16:08:20
 categories: 雜記
-tags:
+tags: hexo 功能測試
 ---
 
 - atom 同步測試。
