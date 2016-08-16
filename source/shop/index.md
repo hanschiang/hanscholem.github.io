@@ -11,7 +11,7 @@ date: 2016-08-15 10:57:30
 
 服務項目 | 金額 | 連結 | 備註
 ---- | ---- | ---- | ----
-隨意打賞 | 隨意 | [感謝打賞](https://qr.allpay.com.tw/XZ3iY)。 | 無。
+試賣期間 | 隨意 | [歡迎試用](https://qr.allpay.com.tw/3Xxw8)。 | 普件代訂。
 代訂普件 | 100 | [可以等。](https://qr.allpay.com.tw/a6ovR) | 無。
 代訂速件 | 200 | [馬上做。](https://qr.allpay.com.tw/buagP) | 收件即做。
 
