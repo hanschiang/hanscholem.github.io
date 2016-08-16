@@ -11,9 +11,12 @@ date: 2016-08-15 10:57:30
 
 服務項目 | 金額 | 連結 | 備註
 ---- | ---- | ---- | ----
-試賣期間 | 隨意 | [歡迎試用](https://qr.allpay.com.tw/3Xxw8)。 | 普件代訂。
+隨意打賞 | 隨意 | [打賞](https://qr.allpay.com.tw/3Xxw8)。 | 您的鼓勵是我繼續的動力。
+試賣特價 | 50 | [歡迎試用](https://qr.allpay.com.tw/u6JZq)。 | 普件。
 代訂普件 | 100 | [可以等。](https://qr.allpay.com.tw/a6ovR) | 無。
 代訂速件 | 200 | [馬上做。](https://qr.allpay.com.tw/buagP) | 收件即做。
+
+
 
 注意事項：
 1. 「商品明細」請填入你想買的項目名稱。
