@@ -19,7 +19,7 @@ date: 2016-08-15 10:57:30
 代訂速件 | 200 | [馬上做。](https://qr.allpay.com.tw/buagP) | 收件即做。
 
 
-![翰斯小舖二維碼](https://c4.staticflickr.com/9/8432/28438902243_1aee9c556a_n.jpg)
+![翰斯小舖 Line@ 二維碼](https://c4.staticflickr.com/9/8432/28438902243_1aee9c556a_n.jpg)
 
 用 Line 掃上方二維碼或者點擊加[翰斯小舖 Line@](http://line.me/ti/p/@tox3338f)。（有點像 Line 上的微信商店）
 
