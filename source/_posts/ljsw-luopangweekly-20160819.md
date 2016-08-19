@@ -5,6 +5,8 @@ categories: 雜記
 tags: 羅輯思維, 閱讀筆記
 ---
 
+[影片出處](http://v.youku.com/v_show/id_XMTY4OTY3NjU3Ng==.html?from=y1.2-2.4.1)
+
 ### 提要
 
 - **刻意練習**
