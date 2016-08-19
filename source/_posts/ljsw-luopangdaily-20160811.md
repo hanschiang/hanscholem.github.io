@@ -2,7 +2,7 @@
 title: ljsw-luopangdaily-20160811
 date: 2016-08-11 10:09:29
 categories: 雜記
-tags: 閱讀筆記
+tags: 羅輯思維, 閱讀筆記
 ---
 
 ![前幾天其實用過這張，也是想到類似的事。](https://c5.staticflickr.com/9/8623/28861798876_3423fa4a31.jpg)
