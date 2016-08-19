@@ -5,7 +5,9 @@ categories: 雜記
 tags: 羅輯思維, 閱讀筆記
 ---
 
-![ 2007 年，學校籃球場](https://c5.staticflickr.com/9/8566/29057746796_118e8451b9_n.jpg)
+![ 2007 年，學校籃球場](https://c5.staticflickr.com/9/8566/29057746796_118e8451b9.jpg)
+
+
 
 [影片出處](http://v.youku.com/v_show/id_XMTY4OTY3NjU3Ng==.html?from=y1.2-2.4.1)
 
