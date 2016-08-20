@@ -7,4 +7,4 @@ tags:
 
 
 
-### [打賞作者](https://qr.allpay.com.tw/9PsNA)
+### [打賞作者](https://web.pay2go.com/EPG/hanstore/Vj2pyh)

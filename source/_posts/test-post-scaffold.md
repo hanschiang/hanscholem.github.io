@@ -8,4 +8,4 @@ tags: hexo 功能測試
 網誌格式設定測試。
 
 
-### [打賞作者](https://qr.allpay.com.tw/9PsNA)
+### [打賞作者](https://web.pay2go.com/EPG/hanstore/Vj2pyh)
