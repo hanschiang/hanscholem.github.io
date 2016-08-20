@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-08-20T08:27:14.000Z</updated>
+  <updated>2016-08-20T08:41:43.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test-post-scaffold</title>
+    <title>一個厚顏無恥要賞賜的概念</title>
     <link href="http://hanscholem.github.io/2016/08/20/test-post-scaffold/"/>
     <id>http://hanscholem.github.io/2016/08/20/test-post-scaffold/</id>
     <published>2016-08-20T07:14:53.000Z</published>
-    <updated>2016-08-20T08:27:14.000Z</updated>
+    <updated>2016-08-20T08:41:43.000Z</updated>
     
     <content type="html">&lt;p&gt;網誌格式設定測試。&lt;/p&gt;
 &lt;h3 id=&quot;打賞作者&quot;&gt;&lt;a href=&quot;#打賞作者&quot; class=&quot;headerlink&quot; title=&quot;打賞作者&quot;&gt;&lt;/a&gt;打賞作者&lt;/h3&gt;&lt;ul&gt;
