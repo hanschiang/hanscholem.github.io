@@ -15,10 +15,8 @@ date: 2016-08-15 10:57:30
 
 服務項目 | 收費金額 | 付款連結 | 備註
 ---- | ---- | ---- | ----
-純推不下 | 隨意 | [打賞](https://qr.allpay.com.tw/3Xxw8)。 | 無
-試賣特價 | 50 | [歡迎試用](https://qr.allpay.com.tw/u6JZq)。 | 普件。
-代訂普件 | 100 | [可以等。](https://qr.allpay.com.tw/a6ovR) | 無。
-代訂速件 | 200 | [馬上做。](https://qr.allpay.com.tw/buagP) | 收件即做。
+純推不下 | 隨意 | [打賞](https://web.pay2go.com/EPG/hanstore/Vj2pyh)。 | 無
+試賣特價 | 50 | [歡迎試用](https://web.pay2go.com/EPG/hanstore/bqCkDB)。 | 普件。
 
 
 ### 注意事項：
