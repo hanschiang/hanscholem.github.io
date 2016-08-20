@@ -8,4 +8,8 @@ tags: hexo 功能測試
 網誌格式設定測試。
 
 
-### [打賞作者](https://web.pay2go.com/EPG/hanstore/Vj2pyh)
+### 打賞作者
+
+- [50 NTD](https://web.pay2go.com/EPG/hanstore/Vj2pyh)
+- [100 NTD](https://web.pay2go.com/EPG/hanstore/fxld2f)
+- [200 NTD](https://web.pay2go.com/EPG/hanstore/Ib7F62)
