@@ -16,7 +16,7 @@ date: 2016-08-15 10:57:30
 服務項目 | 收費金額 | 付款連結 | 備註
 ---- | ---- | ---- | ----
 純推不下 | 隨意 | [打賞](https://web.pay2go.com/EPG/hanstore/Vj2pyh)。 | 無
-試賣特價 | 50 | [歡迎試用](https://web.pay2go.com/EPG/hanstore/bqCkDB)。 | 普件。
+試賣特價 | 50 | [歡迎試用](https://web.pay2go.com/EPG/hanstore/E5exY3)。 | 普件。
 
 
 ### 注意事項：
