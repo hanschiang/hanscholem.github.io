@@ -1,8 +1,8 @@
 ---
 title: 第一週：「你擁有的」最寶貴的財富是什麼？
 date: 2016-08-06 11:01:53
-categories: 我的通往財富自由之路
-tags: 閱讀筆記
+categories: 閱讀筆記
+tags: 我的通往財富自由之路
 ---
 
 ![對的 Focus](https://c2.staticflickr.com/9/8386/28192822153_6b8928fd4c_z.jpg)

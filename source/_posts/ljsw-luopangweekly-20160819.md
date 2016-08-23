@@ -1,8 +1,8 @@
 ---
 title: 羅輯思維 Ep. 183 〈怎麼樣成為一個高手〉筆記
 date: 2016-08-19 14:21:11
-categories: 雜記
-tags: 羅輯思維, 閱讀筆記
+categories: 閱讀筆記
+tags: 羅輯思維
 ---
 
 ![ 2007 年，學校籃球場](https://c5.staticflickr.com/9/8566/29057746796_118e8451b9.jpg)

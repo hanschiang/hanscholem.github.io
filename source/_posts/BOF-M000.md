@@ -1,8 +1,8 @@
 ---
 title: 檔案命名規則
 date: 2016-08-03 20:55:41
-categories: 我的通往財富自由之路
-tags:
+categories: 閱讀筆記
+tags: 我的通往財富自由之路
 ---
 
 ### blog 檔案命名原則
