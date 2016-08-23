@@ -20,7 +20,7 @@ widgets:
 - recent_posts
 - tagcloud
 - category
-- tag
+# - tag
 - archive
 
 # display widgets at the bottom of index pages (pagination == 2)
