@@ -1,8 +1,8 @@
 ---
 title: You Are Not A Gadget
 date: 2016-07-26 00:28:42
-categories: 我的通往財富自由之路
-tags:
+categories: 閱讀筆記
+tags: 我的通往財富自由之路
 ---
 
 ![齒輪，其實 Gadget 不是這個意思](https://c7.staticflickr.com/9/8738/28511854126_7bb51d0f4f.jpg)
