@@ -9,7 +9,7 @@ date: 2016-08-15 10:57:30
 
 服務項目 | 收費金額 | 備註
 ---- | ---- | ----
-簡體書諮詢 | 50~200 NTD | [fb私訊。](https://www.facebook.com/MenWhyHans/)
+簡體書諮詢 | 150 NTD | [fb私訊。](https://www.facebook.com/MenWhyHans/)
 
 
 ### 雜記：
