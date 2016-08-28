@@ -20,11 +20,11 @@ sidebar: right
 widgets:
 - tweet
 - recent_posts
-- tagcloud
 - category
+# - tagcloud
 # - tag
 - archive
-- links
+# - links
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
