@@ -18,11 +18,13 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
+- tweet
 - recent_posts
 - tagcloud
 - category
 # - tag
 - archive
+- links
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
