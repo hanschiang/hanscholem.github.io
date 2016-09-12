@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-09-09T10:36:24.000Z</updated>
+  <updated>2016-09-12T19:59:06.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Old and New</title>
+    <link href="http://hanscholem.github.io/2016/09/12/20160912-Old-and-New/"/>
+    <id>http://hanscholem.github.io/2016/09/12/20160912-Old-and-New/</id>
+    <published>2016-09-12T00:25:44.000Z</published>
+    <updated>2016-09-12T19:59:06.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://c6.staticflickr.com/9/8330/29538357021_23c313ee04.jpg&quot; alt=&quot;我的老機器，MD&quot;&gt;&lt;/p&gt;
+&lt;p&gt;世界變化很快，我已經 30 歲了，還沒在這個世界上建立讓自己好好活下去的穩固的基礎。可能也因為個性的關係，一切都還在混亂之中。有時會陷入一種無謂的懷舊狀態之中，但其實無論如何也只是半調子，譬如有 MD 但是可能沒有適合的耳機，甚至我根本沒有去研究過什麼機器配什麼耳機是適合的。懶惰到最後大概就會變成只是習慣用 iPhone 隨機附贈的耳機聽 iTunes 付費買的音樂，正好是 Apple 公司希望你做的事情：他們提供你一個 Package 你只要照單全收就好了，就像去一家 menu 詳細的餐廳但是總是懶得看菜單而只會點特定套餐。最近加入了一個 facebook 上面的社團， &lt;a href=&quot;https://www.facebook.com/groups/sonywalkman/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CD隨身聽 x MD x 卡帶 交流分享社&lt;/a&gt; ，版友分享頻繁，有陣子覺得有點干擾，但實在也是佩服這些愛好者⋯⋯有些分享有些收藏真的是充滿了愛。&lt;/p&gt;
+&lt;p&gt;把我的 MD 拿出來曬曬。發現自己去年仍然試著選了一片喜歡聽的音樂。今年我的電腦的光碟機也壞了，要再幹這種事情得連電腦的維護或者更新都要考慮進去。隨意在 Youtube 上搜尋，發現也有其他愛好者持續在使用 MD 。其實還蠻神奇的。&lt;/p&gt;
+&lt;p&gt;我的念頭需要再打磨打磨，這篇基本上也還是為了寫而寫⋯⋯沒什麼內容。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://c6.staticflickr.com/9/8330/29538357021_23c313ee04.jpg&quot; alt=&quot;我的老機器，MD&quot;&gt;&lt;/p&gt;
+&lt;p&gt;世界變化很快，我已經 30 歲了，還沒在這個世界上建立讓自己好好活下去的穩固的基礎
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20160909 Fri</title>
@@ -177,34 +202,6 @@
     
     
       <category term="羅輯思維" scheme="http://hanscholem.github.io/tags/%E7%BE%85%E8%BC%AF%E6%80%9D%E7%B6%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一個厚顏無恥要賞賜的概念</title>
-    <link href="http://hanscholem.github.io/2016/08/20/test-post-scaffold/"/>
-    <id>http://hanscholem.github.io/2016/08/20/test-post-scaffold/</id>
-    <published>2016-08-20T07:14:53.000Z</published>
-    <updated>2016-08-23T10:08:03.000Z</updated>
-    
-    <content type="html">&lt;p&gt;網誌格式設定測試。&lt;/p&gt;
-&lt;p&gt;測試結束，效果很糟，要再另外想想辦法。&lt;/p&gt;
-&lt;p&gt;小額付款的障礙，其實主要是在流程的繁雜。五十塊一百塊這種小金額，人家大概不是不願意給，主要會是不爽填一些無謂的資料。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;網誌格式設定測試。&lt;/p&gt;
-&lt;p&gt;測試結束，效果很糟，要再另外想想辦法。&lt;/p&gt;
-&lt;p&gt;小額付款的障礙，其實主要是在流程的繁雜。五十塊一百塊這種小金額，人家大概不是不願意給，主要會是不爽填一些無謂的資料。&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
-    
-    
-      <category term="hexo 功能測試" scheme="http://hanscholem.github.io/tags/hexo-%E5%8A%9F%E8%83%BD%E6%B8%AC%E8%A9%A6/"/>
     
   </entry>
   
