@@ -40,6 +40,12 @@ Youtube 上搜尋「 [sweeded](https://www.youtube.com/results?search_query=swee
 
 最近據說很好看的韓國殭屍火車片，在 facebook 上引起了一陣「台灣輸韓國」的哀號。我覺得其實重要的不是跟韓國輸贏，而可能是回頭想想在台灣能拍出什麼好看的故事。
 
+也剛好是 [前兩天看到蔡志浩寫](https://twitter.com/hao520/status/775608522767609856)
+
+>台灣人不能感受到人的有趣是因為我們太強調圓滑。到處都是圓滑的混蛋和圓滑的好人。不論你最後是混蛋還是好人，社會化的過程都會把你與眾不同之處磨掉。然後你就不有趣了。
+
+借他的話做一個小結。
+
 
 ### 附註與延伸閱讀：
 - 註 1 ：知名 Youtube 頻道 [How It Should Have Ended](https://www.youtube.com/user/HISHEdotcom) 有點這種感覺。
