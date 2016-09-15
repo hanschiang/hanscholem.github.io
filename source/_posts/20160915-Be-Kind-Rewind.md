@@ -16,7 +16,20 @@ tags:
 
 文題「 [Be Kind Rewind](https://en.wikipedia.org/wiki/Be_Kind_Rewind) 」是取自一部 2008 年的美國電影，只要提到錄影帶大概我就會想到這部。故事裡的老出租店的主要媒體是錄影帶，大多是一些老片，逐漸被大型連鎖 DVD 出租店的新片和方便取代，生意不好，原本的老房子市政府打算拆除進行都更。店主外出考察新時代的 DVD 出租店，請主角們顧店。主角們因故需要利用簡單的 VHS 錄影機和簡陋但是某方面來說有創意的方式重新拍攝店裡有的每一部片。這樣對於原版影片的「再製」反而受到小鎮居民的歡迎，一時轟動，想借閱的街坊們多到小出租店門庭若市大排長龍，收入攀升甚至整個鎮的居民都一起加入了「拍片」的行列。「我們演出我們想看的電影」，乃至「我們重新詮釋我們看過的電影（註 1 ）」，受歡迎到開始有鎮外居民聞風而來借閱，自然也就驚動了電影公司告他們侵權。在店內他們「再製」的電影都被銷毀之後，集鎮民之力，他們共同構思並且拍攝了一部觀於那個小鎮的電影，「再製」了他們的記憶，在市政府公告開拆的那晚，在老租片店，鎮民們一起看了那部電影。
 
-片中的「再製」（sweeded）的概念，在這個「錄影」這件事情隨手可做的今天，還是值得想一想？ Youtube 上搜尋「 [sweeded](https://www.youtube.com/results?search_query=sweeded) 」還找得到一些大概一年前拍攝的再製影片。但如果沒看過原片大概會看得一頭霧水。
+片中的「再製」（sweeded）的概念，在這個「錄影」這件事情隨手可做的今天，還是值得想一想？老出租店老闆 Mr. Fletcher 考察新型 DVD 出租店的一些筆記，雖然在這個串流影片的時代可能漸漸不適用，但僅附於下供參考。
+
+> Less choice...
+>
+> ...more copies of the same movie.
+>
+> Simplified categorization of genre.
+>
+> Noticeable outfit and big badge on employee.
+>
+> No specific knowledge required.
+
+
+Youtube 上搜尋「 [sweeded](https://www.youtube.com/results?search_query=sweeded) 」還找得到一些大概一年前拍攝的再製影片。但如果沒看過原片大概會看得一頭霧水。
 
 在《Be Kind Rewind》中威脅 VHS 存在的 DVD ，現在因為網路串流影片的發展，走在漸漸消失的路上了。但要像 VHS 一樣連播放器也停產，大概還要再 10 年吧 ，目前光碟類的影片還有遊戲機撐著，目前重要的遊戲機如 PS4 和 Xbox One 都還能播藍光片和 DVD ， DVD 的播放器停產的端倪大概可以拿遊戲機當作一個確認的標誌。
 
