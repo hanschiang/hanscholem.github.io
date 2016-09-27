@@ -11,6 +11,7 @@ date: 2016-07-09 16:30:44
 - interested_in = ["Javascript", "Python", "Ruby", "Rails"]
 - Github repo. : [hanscholem](https://github.com/hanscholem)
 - Facebook Page: [MWHans](https://www.facebook.com/MenWhyHans/)
+- 簡書: [雜文集](http://www.jianshu.com/users/f703ca1be064)
 
 To be continued...
 
