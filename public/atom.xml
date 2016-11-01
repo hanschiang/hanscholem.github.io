@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-11-01T03:01:48.000Z</updated>
+  <updated>2016-11-01T10:59:13.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Monday Night Magic Day 2</title>
+    <link href="http://hanscholem.github.io/2016/11/01/20161101/"/>
+    <id>http://hanscholem.github.io/2016/11/01/20161101/</id>
+    <published>2016-11-01T10:54:33.000Z</published>
+    <updated>2016-11-01T10:59:13.000Z</updated>
+    
+    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161101&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;為什麼會想要選擇 Podcast 這種形式，我想主要是因為只有聲音的話相對需要的器材比較少，我個人的話錄這個一分鐘的聲音，除了我自己的人工之外，實際上使用到的器材只有我的手機和我的電腦。 Podcast 是使用 SoundCloud 的服務。其實我對他們的服務設計並不是很滿意，但至少目前我只需要上傳我手機錄好的音檔，不太有另外的格式問題，嵌入網誌文章套件也還算方便，就暫時將就用。免費的用戶有總錄音長度的限制，這點等到我真的把他錄爆再說吧。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
+    
+    </summary>
+    
+      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Monday Night Magic</title>
@@ -129,37 +151,6 @@
     
       &lt;p&gt;&lt;em&gt;Poker 是撲克牌的一種玩法，翻譯成撲克少了點意思。看原文的話，大概可以理解成「東戳戳，西碰碰」引申為「試探」的意思。&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&quot;舊事重提&quot;&gt;&lt;a href=&quot;#舊事重提&quot; class=&quot;headerlink&quot; title=&quot;舊事重提&quot;&gt;&lt;
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>內容農場</title>
-    <link href="http://hanscholem.github.io/2016/09/18/20160917-Content-Farm/"/>
-    <id>http://hanscholem.github.io/2016/09/18/20160917-Content-Farm/</id>
-    <published>2016-09-18T01:59:09.000Z</published>
-    <updated>2016-09-18T18:18:47.000Z</updated>
-    
-    <content type="html">&lt;p&gt;每天都寫 blog 有點無以為繼，所以可能之後會內容農場一下，節選我當天看到覺得比較有趣的文章的連結。今天只附連結，有點偷懶⋯⋯這形式還要再研究一下。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.talkcomic.com/uncategorized/letterer.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;漫畫字體&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.thenewslens.com/article/48896&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;老武俠書店&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://anonuno.shop-pro.jp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;擺攤實用&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.bbc.com/zhongwen/trad/china/2016/09/160915_china_tiangong_no2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;中國天宮二號空間實驗室中秋夜成功發射&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.cmse.gov.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;中國載人航天工程網&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://m.appledaily.com.tw/realtimenews/article/new/20160918/950818/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;誰還記得隨機殺人案&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;每天都寫 blog 有點無以為繼，所以可能之後會內容農場一下，節選我當天看到覺得比較有趣的文章的連結。今天只附連結，有點偷懶⋯⋯這形式還要再研究一下。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.talkcomic.com/uncategorized/
     
     </summary>
     
