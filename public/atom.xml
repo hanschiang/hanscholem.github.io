@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Monday Night Magic</title>
+  <title>Hans the Golem</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-11-01T10:59:13.000Z</updated>
+  <updated>2016-11-02T14:20:03.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MNM-003 指定倖存者</title>
+    <link href="http://hanscholem.github.io/2016/11/02/20161102-MNM-Day-3/"/>
+    <id>http://hanscholem.github.io/2016/11/02/20161102-MNM-Day-3/</id>
+    <published>2016-11-02T13:44:51.000Z</published>
+    <updated>2016-11-02T14:20:03.000Z</updated>
+    
+    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161102&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;今天試著先把稿子寫好在唸，每想到沒有想像中順利。前幾天是寫好大綱，看大綱講，一邊講一邊把講的寫下來，修改稿子再一邊唸。作業方式可能要再研究一下。以前有人說「我手寫我口。」但現在我這代鍵盤人，大概都是「我手打我腦。」解果打出來的東西，反而沒辦法好好說出來⋯⋯也有可能是我自己有點障礙就是了。&lt;/p&gt;
+&lt;p&gt;今天介紹的是《 Designated Survivor 》這部美劇，這週剛上第一季第五集。這種企圖有點大的戲，通常爛尾可能也大，所以想看的人可能要想想⋯⋯我們精美的《 House of Cards 》後面兩季崩壞的狀況可以參考。&lt;/p&gt;
+&lt;p&gt;看這部戲，才五集，就能聯想到 USA 這個東西，其實是真的是很妙的國家。 Designated Survivor 的設計可能是經過總統被暗殺過的經驗，以及對於大規模毀滅性武器的準備所設計的⋯⋯想到這個戲劇的企劃案的人真的是天才⋯⋯即使是美國這種國家，制度設計上有設計了發生大災變的情況，但是實際上發生的時候會是什麼狀況？這部戲試圖想像那種情境。台灣呢？其實如果真的要做，可以選台灣的政府官員齊聚的時候，對台北進行大規模的導彈攻擊？台灣有能力防禦？如果台灣的正副總統及內閣官員和國會議員一夕之間全部身亡，那會是什麼光景？這部戲的一些情境，也許是台灣這種夾在中美兩大強權之間的衝突可能發生的地帶可以參考的。&lt;/p&gt;
+&lt;h3 id=&quot;延伸閱讀：&quot;&gt;&lt;a href=&quot;#延伸閱讀：&quot; class=&quot;headerlink&quot; title=&quot;延伸閱讀：&quot;&gt;&lt;/a&gt;延伸閱讀：&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%8C%87%E5%AE%9A%E5%B9%B8%E5%AD%98%E8%80%85&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;維基百科條目：指定倖存者&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%8C%87%E5%AE%9A%E5%80%96%E5%AD%98%E8%80%85_(%E9%9B%BB%E8%A6%96%E5%8A%87&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;維基百科條目：指定倖存者（電視劇）&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/zh-tw/%E7%BA%B8%E7%89%8C%E5%B1%8B&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;維基百科條目：紙牌屋（電視劇）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
+    
+    </summary>
+    
+      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Monday Night Magic Day 2</title>
@@ -106,51 +135,6 @@
     
       &lt;p&gt;最近看到了一個出版社的工作機會想去試試看。&lt;/p&gt;
 &lt;p&gt;在整理履歷的時候除了發現自己的人生很單薄之外，還發現自己一直處於某種幾年就會發生一次資料斷裂的狀態。一個人如何管理他自己的資料也許是很重要的人生技能⋯⋯這個部分，我成長的過程中一直不時會有想要拋棄一切重新來過的慾望，
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Poker 的故事</title>
-    <link href="http://hanscholem.github.io/2016/09/22/20160922-Poker/"/>
-    <id>http://hanscholem.github.io/2016/09/22/20160922-Poker/</id>
-    <published>2016-09-22T14:13:56.000Z</published>
-    <updated>2016-09-23T06:06:25.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;em&gt;Poker 是撲克牌的一種玩法，翻譯成撲克少了點意思。看原文的話，大概可以理解成「東戳戳，西碰碰」引申為「試探」的意思。&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;舊事重提&quot;&gt;&lt;a href=&quot;#舊事重提&quot; class=&quot;headerlink&quot; title=&quot;舊事重提&quot;&gt;&lt;/a&gt;舊事重提&lt;/h3&gt;&lt;p&gt;前幾天得到例會的直播，因為 &lt;a href=&quot;https://www.facebook.com/wegol&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;We-Go&lt;/a&gt; 的努力，羅輯思維的老闆們特別留了一段時間給台灣的使用者的個問題。有些同好質疑為何要特別回答台灣用戶的問題，脫不花提了兩年前《戰天京》團購的事情，羅輯思維作的第一本書，也是第一次實體商品和台灣使用者的接觸。想盡辦法加上因緣際會，發生了很多很有趣的事。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/6/5208/29561082680_6c48d9f9cf.jpg&quot; alt=&quot;2016/09/20 得到例會直播&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;姑且一試&quot;&gt;&lt;a href=&quot;#姑且一試&quot; class=&quot;headerlink&quot; title=&quot;姑且一試&quot;&gt;&lt;/a&gt;姑且一試&lt;/h3&gt;&lt;p&gt;我只是人在台灣比較早嘗試跟他們接觸而已。我做過的事情其實遲早都會有人做，遲早都會發生，只是我沒耐心等不知道什麼時候的別人做給我用，所以就自己動手試試，反正也不會少一塊肉。那時候關注羅輯思維，〈成大事者不糾結〉那期還蠻喜歡的，《戰天京》那本書還蠻想要的。那時也不知道該怎麼買，要用微信支付，我那時連微信支付是什麼都不知道，只是想說拜託客服看看能不能幫忙：「我找一些台灣的同好一起買，一起送過來。」大概就是這麼簡單的想法，那時也沒有想過「以後如果還想買該怎麼處理」之類的事。&lt;/p&gt;
-&lt;p&gt;抱著姑且一試的心情寄信給客服：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;羅輯思維的工作人員你好，&lt;/p&gt;
-&lt;p&gt;最新的一期羅輯思維影片提到戰天京這本書。&lt;br&gt;我很想找來讀，但是台灣的微信目前還沒辦法付費購物，你們可能也沒有預期送貨到台灣。&lt;/p&gt;
-&lt;p&gt;請問有可能有任何方式讓我可以購買此書？如果我們台灣的讀者一起訂購的話有可能一起送貨節省運費？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;結果回信的是脫不花⋯⋯（我無法形容我那時候的震驚）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;江承翰您好：&lt;/p&gt;
-&lt;p&gt;我们现在只通过微信支付，对于大陆以外的读者确实有一些不便，但是我们非常高兴地得知您喜欢这本书，这样好不好，您尽量寻找一下在台湾也关心罗辑思维或者这本书的朋友，如果有更普遍的需求，我们来想办法把书总到你们手上。跨过这么遥远的距离分享一本好书，实在是一件美好的事情。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;那時脫總說只要 10 人以上想要買，他們就想辦法把東西人肉扛到台灣。後來主要聯絡另一個羅輯思維的同事。聯絡聯繫的過程很有趣，也交了幾個朋友。後來湊了近 50 本的訂單，他們想辦法找人扛了過來⋯⋯而且是專人開車送到我家。我大概半個月之後才找到辦法把書錢給了他們。那時深感中國創業者做生意的氣魄。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://c6.staticflickr.com/9/8315/29866751485_dcb9eec6ed.jpg&quot; alt=&quot;五十幾本堆起來一面牆似的。&quot;&gt;&lt;/p&gt;
-&lt;p&gt;收到之後，寄書，我大概三百萬年沒去郵局，數十本書寫地址黏信封的重複動作之後讓我實在不得不佩服搞網拍的賣家的耐性。約網聚，見了許多不同行的人，大家閒聊，還蠻有趣，後來有些事情有點小小的合作，以及獲得一些好用的集運商的情報等等。&lt;/p&gt;
-&lt;h3 id=&quot;後續與後繼者&quot;&gt;&lt;a href=&quot;#後續與後繼者&quot; class=&quot;headerlink&quot; title=&quot;後續與後繼者&quot;&gt;&lt;/a&gt;後續與後繼者&lt;/h3&gt;&lt;p&gt;後來再辦了一兩次團購，覺得有必要花時間在搞定支付和物流。一度成功搞定微信支付，後來的協助購買書籍的工作輕鬆許多，物流的部分我只需要整理好訂購者的資料，在上海就會分寄給訂購者，在台灣的海關也不會遇到刁難。總之這些初期的交流大概在羅輯思維天貓店開了之後就逐漸謝幕。淘寶買東西對台灣朋友相對容易，即使不會使用淘寶，周遭有使用經驗的人也很多，在羅輯思維的物流商換成京東之前，一度方便到跟在台灣的網店購物的感覺毫無差別，下訂，三四天內黑貓宅即便送到你家。&lt;/p&gt;
-&lt;p&gt;前陣子（ 2016 年 8 月）台灣的 facebook 非官方討論區社團成員成長到 1.3 萬人，我丟給截圖給我的朋友看，引起了羅輯思維內部的注意，有些大咖（「大人物」的台灣俗說）如快刀來參與 fb 社團，後來他們為了我們這些海外用戶們還開發了 得到app 的 paypal 收費流程，一個月內做了出來；海外使用者少而且 paypal 抽成加上提領時的手續費之類，對他們來說根本是九牛一毛的收入。這個部分在我看來，仍然是跟最初送《戰天京》來台一樣，充滿某種熱情（當然也是他們決定技術上做得到啦）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/wegol&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;We-Go&lt;/a&gt; 是個非常有熱情的人，熱情到買了羅輯思維鐵桿會員的資格，服務台灣的羅輯思維同好。他也是個 Poker （試探者），時常替台灣同好向官方詢問（爭取？）一些可能的福利。這次令人感動的「交流」問答也是他問到的。我想道路都是這樣的人們打開的吧。整個十分有能量的感覺。&lt;/p&gt;
-&lt;p&gt;我得先休息處理我自己的人生課題了。(鞠躬)&lt;/p&gt;
-&lt;p&gt;紀念一下。感謝 &lt;a href=&quot;https://www.facebook.com/sillyduck.radiology&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;蔡依橙&lt;/a&gt; （「人稱蔡校長，是個社會活動家。」）建的羅輯思維社團。感謝 &lt;a href=&quot;https://www.facebook.com/wegol&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;We-Go&lt;/a&gt; 還有許多這兩年有幫忙過我的羅友，有些我沒 tag ，我記得，只是覺得你們可能想低調，哈哈。大恩不言謝，其實這段有點多寫了。&lt;/p&gt;
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/1tPWC193KdI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;em&gt;Poker 是撲克牌的一種玩法，翻譯成撲克少了點意思。看原文的話，大概可以理解成「東戳戳，西碰碰」引申為「試探」的意思。&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;舊事重提&quot;&gt;&lt;a href=&quot;#舊事重提&quot; class=&quot;headerlink&quot; title=&quot;舊事重提&quot;&gt;&lt;
     
     </summary>
     
