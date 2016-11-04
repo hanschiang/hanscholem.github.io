@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-11-04T16:10:32.000Z</updated>
+  <updated>2016-11-04T22:20:59.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20161105-MMM</title>
+    <link href="http://hanscholem.github.io/2016/11/05/20161105-MMM/"/>
+    <id>http://hanscholem.github.io/2016/11/05/20161105-MMM/</id>
+    <published>2016-11-04T22:15:20.000Z</published>
+    <updated>2016-11-04T22:20:59.000Z</updated>
+    
+    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161105&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Monday Night Magic 昨晚掉棒，午夜前都還沒完成發布錄音的工作，索性決定 11/05 開始改成早上 06:30 發布當天的語音。改成早上第一件事情就是完成當天的 60 秒的語音發布。昏昏沉沉矇混完今天的 60 秒，自娛地在想， Monday Night Magic 變成 Monday Morning Magic ⋯⋯那豈不是變成 3M 了？嗯，不是很好笑。總而言之，今天開始變成早上發，語音沒內容， 60 秒的夢話。明天早上試著改進。&lt;/p&gt;
+&lt;p&gt;SoundCloud 有點麻煩，感覺充斥著機器人，但是目前我沒有技術力去自建一個 Podcast ，所以暫時還是用 SoundCloud 。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
+    
+    </summary>
+    
+      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20161104</title>
@@ -98,30 +121,6 @@
     
     <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161101&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;為什麼會想要選擇 Podcast 這種形式，我想主要是因為只有聲音的話相對需要的器材比較少，我個人的話錄這個一分鐘的聲音，除了我自己的人工之外，實際上使用到的器材只有我的手機和我的電腦。 Podcast 是使用 SoundCloud 的服務。其實我對他們的服務設計並不是很滿意，但至少目前我只需要上傳我手機錄好的音檔，不太有另外的格式問題，嵌入網誌文章套件也還算方便，就暫時將就用。免費的用戶有總錄音長度的限制，這點等到我真的把他錄爆再說吧。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
-    
-    </summary>
-    
-      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Monday Night Magic</title>
-    <link href="http://hanscholem.github.io/2016/11/01/20161031-MNM/"/>
-    <id>http://hanscholem.github.io/2016/11/01/20161031-MNM/</id>
-    <published>2016-11-01T02:57:37.000Z</published>
-    <updated>2016-11-01T03:01:48.000Z</updated>
-    
-    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161031&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;昨晚嘗試自己錄製一分鐘的語音，即使是這樣像是唸稿的語音，也是錄了二十幾次。羅胖真的很厲害，每天都能堅持。&lt;/p&gt;
-&lt;p&gt;我也打算試著這樣做做看。即使可能沒什麼內容，而且只是山寨別人作法的事情，但也許就像中國的太空計畫和網路產業，在模仿（？）的過程中，總是能找到自己的路。&lt;/p&gt;
-&lt;p&gt;今晚要來做 MondayNightMagic 第二天的一分鐘，稍微有點大綱了，不知道會不會哪天榨乾自己到不知道要講什麼，即使是胡說八道。&lt;/p&gt;
 </content>
     
     <summary type="html">
