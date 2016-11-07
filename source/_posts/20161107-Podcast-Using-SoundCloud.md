@@ -41,15 +41,13 @@ SoundCloud 使用上很容易，就是註冊帳號，然後上傳你路的音頻
 
 當你已經準備好你的 SoundCloud 的 RSS 連結後，可以[向蘋果申請把你的 Podcast 放到 iTunes 平台上](https://podcastsconnect.apple.com/)，你必須有 iCloud 的 id 才能進行這個申請。
 
-![只需要填入 RSS 的連結](https://c4.staticflickr.com/6/5547/30747717211_4b844d8d37.jpg)
+申請只需要填入 SoundCloud 的設定畫面提供的 RSS 連結，建議該設定畫面的資訊要妥善填寫，申請完成後會直接變成 iTunes 上的資訊。填完後審查的部分據說工作天是 1 ~ 7 天不等。據說是會真的「有人」來聽你提供的音頻做審核，所以可能要先放一兩條東西上去。能在 iPhone 上搜尋到自己的 Podcast 的感覺還不錯，但就是要督促自己能確實每天（最還固定時段）產出內容就是了。
 
-申請只需要填入 SoundCloud 的設定畫面提供的 RSS 連結，建議該設定畫面的資訊要妥善填寫，申請完成後會直接變成 iTunes 上的資訊。填完後審查的部分據說工作天是 1 ~ 7 天不等。據說是會真的「有人」來聽你提供的音頻做審核，所以可能要先放一兩條東西上去。
+![只需要填入 RSS 的連結](https://c4.staticflickr.com/6/5547/30747717211_4b844d8d37.jpg)
 
 ![從 iPhone 上搜尋自己製作的 Podcast](https://c4.staticflickr.com/6/5692/30203140243_40eb4b434b.jpg)
 
 ![iPhone 內建的 Podcast app 可以直接按「訂閱」](https://c2.staticflickr.com/6/5484/30203071353_f1a6944113.jpg)
-
-能在 iPhone 上搜尋到自己的 Podcast 的感覺還不錯，但就是要督促自己能確實每天（最還固定時段）產出內容就是了。
 
 ### 小結
 
