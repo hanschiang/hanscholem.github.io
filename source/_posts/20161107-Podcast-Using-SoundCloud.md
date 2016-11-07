@@ -5,8 +5,7 @@ categories: MondayNightMagic
 tags:
 ---
 
-
-
+{% soundcloud https://soundcloud.com/hans-chiang/mnm-20161107 visual %}
 
 ### Why Podcasting
 
@@ -37,6 +36,10 @@ SoundCloud 使用上很容易，就是註冊帳號，然後上傳你路的音頻
 
 我選擇用 SoundCloud 來發佈只是因為在我的 blog 有很方便的插件，可以一行字完成文章中的嵌入。但對於不使用 SoundCloud 和 Apple 的產品的使用者來說，在 我的 SoundCloud 頁面上是看不到 RSS 訂閱的選項的。所以我不確定使用其他軟體或者 Android 手機的朋友要怎麼訂閱， 頁面的 RSS 連結在 SoundCloud 的設定頁面可以看到。
 
+```hexo 的 SoundCloud 插件
+{% soundcloud 語音網址 visual %}
+```
+
 - 我的 SoundCloud 頁面： https://soundcloud.com/hans-chiang
 - 我的 SoundCloud 的[ RSS 訂閱連結](http://feeds.soundcloud.com/users/soundcloud:users:265275180/sounds.rss)
 
@@ -61,8 +64,8 @@ SoundCloud 使用上很容易，就是註冊帳號，然後上傳你路的音頻
 
 ### 小結
 
-1. [註冊 SoundCloud 帳號](https://soundcloud.com/) （**中國目前會擋**）。
-2. 或者用 Google 搜尋關鍵字： [podcast, host](https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=podcast%20host) 找到自己適合的平台。
-3. 或者使用[喜馬拉雅](http://www.ximalaya.com/)（中國的音頻平台）。
-4. 如果想要放在 iTunes 上，先找到你的錄音平台提供的 RSS feed 。
-5. 持續產出。
+1. 設備需求：一台 iPhone 或者任何可以匯出錄音檔案的設備。
+2. [註冊 SoundCloud 帳號](https://soundcloud.com/) （**中國目前會擋**）。
+3. 上傳語音檔案到 SoundCloud 。
+3. 如果想要放在 iTunes 上，先找到你的錄音平台提供的 RSS feed 。
+4. 持續產出。
