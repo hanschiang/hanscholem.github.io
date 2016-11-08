@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-11-07T14:19:27.000Z</updated>
+  <updated>2016-11-08T15:51:22.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MNM-009</title>
+    <link href="http://hanscholem.github.io/2016/11/08/20161108/"/>
+    <id>http://hanscholem.github.io/2016/11/08/20161108/</id>
+    <published>2016-11-08T15:34:37.000Z</published>
+    <updated>2016-11-08T15:51:22.000Z</updated>
+    
+    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161108&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;今天簡介 Chris Hadfield 上校和他的書《太空人的地球生活指南》。&lt;/p&gt;
+&lt;h3 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; title=&quot;相關連結&quot;&gt;&lt;/a&gt;相關連結&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chris_Hadfield&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;維基百科條目： Chris Hadfield &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/ColChrisHadfield/videos&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; Chris Hadfield 的 Youtube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/canadianspaceagency&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;加拿大太空局的 Youtube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E8%88%AA%E5%A4%A9%E5%B1%80&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;維基百科條目：中國國家航天局&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;上校在國際太空站上翻唱 Space Oddity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/KaOC9danxNo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
+    
+    </summary>
+    
+      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>MNM-008 胡說和 podcast</title>
@@ -131,28 +161,6 @@
     <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161104&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;今天的製作掉棒了。把 blog 的發佈時間改成 11/04 23:59:59 完全是自欺欺人。&lt;/p&gt;
 &lt;p&gt;明天開始試著固定早上起來發佈。學羅胖訂 06:30 發⋯⋯我得先練習早起才行。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
-    
-    </summary>
-    
-      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>MNM-004</title>
-    <link href="http://hanscholem.github.io/2016/11/03/20161103/"/>
-    <id>http://hanscholem.github.io/2016/11/03/20161103/</id>
-    <published>2016-11-03T15:46:21.000Z</published>
-    <updated>2016-11-03T15:47:45.000Z</updated>
-    
-    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161103&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;今天無稿胡說，稍微反省前三的的內容，並且稍提接下來幾天預計說的項目。 23:47 ⋯⋯得考慮固定找一個比較適當的時間才行，今天這樣太驚險了。&lt;/p&gt;
 </content>
     
     <summary type="html">
