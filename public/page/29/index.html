@@ -59,17 +59,9 @@ ga('send', 'pageview');
         
           <a class="main-nav-link" href="/About-Me">作者</a>
         
-          <a class="main-nav-link" href="/shop">翰斯小舖</a>
-        
-          <a class="main-nav-link" href="/Freedom">自由之路</a>
-        
-          <a class="main-nav-link" href="https://yltwhans.herokuapp.com/index.php/Special:AllPages">台灣語料翰編</a>
-        
           <a class="main-nav-link" href="/Cheatsheets">Cheatsheets</a>
         
           <a class="main-nav-link" href="/archives">Archives</a>
-        
-          <a class="main-nav-link" href="/projects">Projects</a>
         
       </nav>
       <nav id="sub-nav">
@@ -87,10 +79,10 @@ ga('send', 'pageview');
       <div class="outer">
         <section id="main">
   
-    <article id="post-20160802-Tue" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-New-Blog-by-Hexo" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2016/08/02/20160802-Tue/" class="article-date">
-  <time datetime="2016-08-02T02:03:21.000Z" itemprop="datePublished">2016-08-02</time>
+    <a href="/2016/06/22/New-Blog-by-Hexo/" class="article-date">
+  <time datetime="2016-06-22T10:37:13.000Z" itemprop="datePublished">2016-06-22</time>
 </a>
     
   <div class="article-category">
@@ -105,7 +97,7 @@ ga('send', 'pageview');
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2016/08/02/20160802-Tue/">20160802 Tue</a>
+      <a class="article-title" href="/2016/06/22/New-Blog-by-Hexo/">20160622 用 Hexo 建立這個 blog</a>
     </h1>
   
 
@@ -113,30 +105,44 @@ ga('send', 'pageview');
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h3 id="20160802-Tue-晨間"><a href="#20160802-Tue-晨間" class="headerlink" title="20160802 Tue 晨間"></a>20160802 Tue 晨間</h3><ul>
-<li>晚睡晚起，需要改掉這個節奏。</li>
-<li>Arron Sorkin 的劇本課，李笑來的互動專欄，Rails自學，邏輯學讀書會⋯⋯我覺得我好像又給自己安排了太多有趣的事情，要節制一下，否則可能又會一事無成。</li>
+        <h2 id="平台遊牧民族"><a href="#平台遊牧民族" class="headerlink" title="平台遊牧民族"></a>平台遊牧民族</h2><p>已經不知道是自己的第幾個 blog 了。</p>
+<p>在李笑來先生的 <a href="http://xiaolai.li/2016/06/22/makecs-build-a-blog-with-hexo-on-github/" target="_blank" rel="external">Github 頁面</a>上看到一篇講用 <a href="https://hexo.io" target="_blank" rel="external">Hexo</a> 建立自己的 blog 。稍微用了一下，覺得操作感覺很像 octopress ，就是一個用 markdown 語法寫 blog 的工具。只是用的框架不同（不知道這樣說是否正確？ framework ？）。</p>
+<h2 id="目標？"><a href="#目標？" class="headerlink" title="目標？"></a>目標？</h2><p>李笑來先生在文末這樣寫：</p>
+<blockquote>
+<p>接下来你要做的是，以后经常写文章发表在网上 —— 衡量标准倒是有一个：<br>「尽量只写对别人有用的文章……」<br>毕竟这是发表在网上的基本意义之一。</p>
+</blockquote>
+<p>老實說我覺得並不容易，畢竟我是一個已經習慣在網路上寫廢文，無病生吟一二十年的人⋯⋯有點懷疑自己是不是真的有什麼對別人有用的東西可以分享？</p>
+<h2 id="備份"><a href="#備份" class="headerlink" title="備份"></a>備份</h2><ul>
+<li>hexo deploy 只是把資料夾裡的 public 的部分 deploy 到 Github 上，那其他 generate 之前的原始檔怎麼處理？</li>
+<li>參考 <a href="http://zhujiegao.com/2015/12/06/automatic-backup/" target="_blank" rel="external">http://zhujiegao.com/2015/12/06/automatic-backup/</a></li>
+<li>另建一個 repo: hexo_blog_backup 備份，簡明，好像有點蠢，似乎可以更簡潔？之前用 octopress 的時候是把原始檔備份在 source 這個 branch ⋯⋯半路出家， Github 的使用還不太懂。暫時先這樣做。</li>
+<li>用 shellscript 執行 hexo generate ，  hexo deploy 然後再執行備份到 hexo_blog_backup 的部分。</li>
+<li>「修改.gitignore文件（如果没有请手动创建一个），在里面加入<em>.log 和 public/ 以及.deploy</em>/。因为每次执行hexo generate命令时，上述目录都会被重写更新。因此忽略这两个目录下的文件更新，加快push速度。」</li>
 </ul>
-<h3 id="20160801-Mon-後記"><a href="#20160801-Mon-後記" class="headerlink" title="20160801 Mon 後記"></a>20160801 Mon 後記</h3><ul>
-<li>我單方面地和爸爸老闆決裂之後（這句話邏輯明顯有問題），今天（起？）不參與診所的公務。</li>
-<li>和老婆午飯外食。</li>
-<li>飯後去全聯買菜。</li>
-<li>下午玩 Mighty No. 9 打到魔王關，實在太難，查了攻略還是沒過，就先停下來。覺得有延續元祖洛克人的精神，但有些關卡實在是有點難。</li>
-<li>傍晚，用中午買的菜做了點簡單的晚餐，也做了一點想給老婆吃。應該是還不錯吃吧，雖然調味和想像中想做出來的還是有一點點差距，可能是醬油的味道的緣故，有待研究。</li>
-<li>李笑來先生的專欄正式出發，有點不知道要怎麼跟，於是把前幾篇都自己錄音念了一次。一字一句地念過之後，好像有稍微讀進去一點。</li>
-<li>老婆回來，一起吃了中午做的雞里肌肉。再加熱之後比中午剛煮好的硬，口感稍差了點，但味道還不錯。囑咐了一些明天想做的菜色（咖哩），請老婆幫忙準備一些用料。</li>
-<li>開車回羅東老家放。</li>
+<h2 id="用-Disqus-做留言功能"><a href="#用-Disqus-做留言功能" class="headerlink" title="用 Disqus 做留言功能"></a>用 Disqus 做留言功能</h2><ul>
+<li>掛 Disqus 。</li>
+<li>參考 <a href="http://morris821028.github.io/2014/04/12/web/hexo-comment/" target="_blank" rel="external">http://morris821028.github.io/2014/04/12/web/hexo-comment/</a></li>
 </ul>
-<p><img src="https://c3.staticflickr.com/9/8368/28680610266_64c51cc0c3_z.jpg" alt="中午做的雞里肌"></p>
+<h2 id="興趣之一：台灣製造的文具"><a href="#興趣之一：台灣製造的文具" class="headerlink" title="興趣之一：台灣製造的文具"></a>興趣之一：台灣製造的文具</h2><ul>
+<li>晚上出門購物，主要是買文具。</li>
+<li>值得記錄的台灣製造產品：週曆和方格本，九達三明治記事本。 JN-5082 系列。和柏格的 72K 上翻筆記本。</li>
+</ul>
+<p><img src="https://c8.staticflickr.com/8/7523/27772434991_020447a6dc_z.jpg" alt="九達三明治記事本。 JN-5082 系列。和柏格的 72K 上翻筆記本。"></p>
+<h2 id="待處理"><a href="#待處理" class="headerlink" title="待處理"></a>待處理</h2><ul>
+<li>所以每天寫？還是想到有重要的東西才寫？還是不管怎樣先每天寫然後再慢慢產生重要的東西？</li>
+</ul>
+<p>暫且先記這些，之後想到再補。</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2016/08/02/20160802-Tue/" data-id="cisi6spv6001n894a32sea4gl" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2016/06/22/New-Blog-by-Hexo/" data-id="civg3zsgo004kqxobrim7gjwm" class="article-share-link">Share</a>
       
-        <a href="http://hanscholem.github.io/2016/08/02/20160802-Tue/#disqus_thread" class="article-comment-link">留言</a>
+        <a href="http://hanscholem.github.io/2016/06/22/New-Blog-by-Hexo/#disqus_thread" class="article-comment-link">留言</a>
       
       
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/羅輯思維/">羅輯思維</a></li></ul>
+
     </footer>
   </div>
   
@@ -147,7 +153,7 @@ ga('send', 'pageview');
 
 
   <nav id="page-nav">
-    <a class="extend prev" rel="prev" href="/page/28/">&laquo;上一頁</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/27/">27</a><a class="page-number" href="/page/28/">28</a><span class="page-number current">29</span><a class="page-number" href="/page/30/">30</a><a class="page-number" href="/page/31/">31</a><span class="space">&hellip;</span><a class="page-number" href="/page/64/">64</a><a class="extend next" rel="next" href="/page/30/">下一頁&raquo;</a>
+    <a class="extend prev" rel="prev" href="/page/28/">&laquo;上一頁</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/27/">27</a><a class="page-number" href="/page/28/">28</a><span class="page-number current">29</span>
   </nav>
 
 </section>
@@ -157,7 +163,7 @@ ga('send', 'pageview');
     <div class="widget-wrap">
   <h3 class="widget-title">Recent Tweets</h3>
   <div class="widget">
-    <a class="twitter-timeline" href="https://twitter.com/evilchiang" data-tweet-limit="1">Tweets by evilchiang</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/jiangchenghans" data-tweet-limit="1">Tweets by evilchiang</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
@@ -169,23 +175,23 @@ ga('send', 'pageview');
       <ul>
         
           <li>
-            <a href="/2016/08/30/ljsw-dedao-paypal/">得到 app 海外用戶 paypal 付款</a>
+            <a href="/2016/11/13/20161109/">DT in The House</a>
           </li>
         
           <li>
-            <a href="/2016/08/30/BOF-X005-1/">〈遇到貴人的科學方法〉摘抄</a>
+            <a href="/2016/11/08/20161108/">MNM-009 太空人的地球生活指南</a>
           </li>
         
           <li>
-            <a href="/2016/08/25/ljsw-luopangweekly-20160825/">羅輯思維 Ep. 184 〈什麼是戰略？〉筆記</a>
+            <a href="/2016/11/07/20161107-Podcast-Using-SoundCloud/">MNM-008 胡說和 podcast</a>
           </li>
         
           <li>
-            <a href="/2016/08/20/test-post-scaffold/">一個厚顏無恥要賞賜的概念</a>
+            <a href="/2016/11/06/20161106/">MNM-007</a>
           </li>
         
           <li>
-            <a href="/2016/08/19/ljsw-luopangweekly-20160819/">羅輯思維 Ep. 183 〈怎麼樣成為一個高手〉筆記</a>
+            <a href="/2016/11/05/20161105-MMM/">MMM-006</a>
           </li>
         
       </ul>
@@ -197,7 +203,7 @@ ga('send', 'pageview');
   <div class="widget-wrap">
     <h3 class="widget-title">分類</h3>
     <div class="widget">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/網路服務/">網路服務</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/閱讀筆記/">閱讀筆記</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/雜記/">雜記</a></li></ul>
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/MondayNightMagic/">MondayNightMagic</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/網路服務/">網路服務</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/閱讀清單/">閱讀清單</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/閱讀筆記/">閱讀筆記</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/雜記/">雜記</a></li></ul>
     </div>
   </div>
 
@@ -207,7 +213,7 @@ ga('send', 'pageview');
   <div class="widget-wrap">
     <h3 class="widget-title">彙整</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">八月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">七月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">六月 2016</a></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">十一月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">九月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">八月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">七月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">六月 2016</a></li></ul>
     </div>
   </div>
 
@@ -232,17 +238,9 @@ ga('send', 'pageview');
   
     <a href="/About-Me" class="mobile-nav-link">作者</a>
   
-    <a href="/shop" class="mobile-nav-link">翰斯小舖</a>
-  
-    <a href="/Freedom" class="mobile-nav-link">自由之路</a>
-  
-    <a href="https://yltwhans.herokuapp.com/index.php/Special:AllPages" class="mobile-nav-link">台灣語料翰編</a>
-  
     <a href="/Cheatsheets" class="mobile-nav-link">Cheatsheets</a>
   
     <a href="/archives" class="mobile-nav-link">Archives</a>
-  
-    <a href="/projects" class="mobile-nav-link">Projects</a>
   
 </nav>
     
