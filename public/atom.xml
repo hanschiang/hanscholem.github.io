@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-11-13T03:56:00.000Z</updated>
+  <updated>2016-11-14T17:19:17.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20161115-1</title>
+    <link href="http://hanscholem.github.io/2016/11/15/20161115-1/"/>
+    <id>http://hanscholem.github.io/2016/11/15/20161115-1/</id>
+    <published>2016-11-14T17:10:21.000Z</published>
+    <updated>2016-11-14T17:19:17.000Z</updated>
+    
+    <content type="html">&lt;p&gt;hexo math 測試&lt;/p&gt;
+&lt;p&gt;$$\frac{\partial u}{\partial t}&lt;br&gt;= h^2 \left( \frac{\partial^2 u}{\partial x^2} +&lt;br&gt;\frac{\partial^2 u}{\partial y^2} +&lt;br&gt;\frac{\partial^2 u}{\partial z^2}\right)$$&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;hexo math 測試&lt;/p&gt;
+&lt;p&gt;$$\frac{\partial u}{\partial t}&lt;br&gt;= h^2 \left( \frac{\partial^2 u}{\partial x^2} +&lt;br&gt;\frac{\partial^2 u}{\partial y
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>DT in The House</title>
@@ -138,29 +161,6 @@
 &lt;li&gt;&lt;a href=&quot;http://www.books.com.tw/products/0010691303&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;打包去火星：NASA太空人瘋狂實境秀&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.books.com.tw/products/0010637546&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;太空人的地球生活指南&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
-    
-    </summary>
-    
-      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>MMM-006</title>
-    <link href="http://hanscholem.github.io/2016/11/05/20161105-MMM/"/>
-    <id>http://hanscholem.github.io/2016/11/05/20161105-MMM/</id>
-    <published>2016-11-04T22:15:20.000Z</published>
-    <updated>2016-11-07T08:16:56.000Z</updated>
-    
-    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161105&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Monday Night Magic 昨晚掉棒，午夜前都還沒完成發布錄音的工作，索性決定 11/05 開始改成早上 06:30 發布當天的語音。改成早上第一件事情就是完成當天的 60 秒的語音發布。昏昏沉沉矇混完今天的 60 秒，自娛地在想， Monday Night Magic 變成 Monday Morning Magic ⋯⋯那豈不是變成 3M 了？嗯，不是很好笑。總而言之，今天開始變成早上發，語音沒內容， 60 秒的夢話。明天早上試著改進。&lt;/p&gt;
-&lt;p&gt;SoundCloud 有點麻煩，感覺充斥著機器人，但是目前我沒有技術力去自建一個 Podcast ，所以暫時還是用 SoundCloud 。&lt;/p&gt;
 </content>
     
     <summary type="html">
