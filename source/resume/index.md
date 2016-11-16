@@ -3,13 +3,12 @@ title: 履歷
 date: 2016-11-01 10:47:26
 ---
 
-![大頭照](https://c4.staticflickr.com/9/8266/29893763371_2c6b664b5c_q.jpg)
+![](https://c4.staticflickr.com/9/8266/29893763371_2c6b664b5c_q.jpg)
 
 ## 基本資料
 
 - 姓　　名：江承翰
 - 電子郵件：jiangchenghans@gmail.com
-- 手　　機：0933771717
 - 1986 年生，男，宜蘭人。結婚後搬到新店。
 
 ## 學經歷
