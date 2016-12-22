@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2016-11-15T17:57:08.000Z</updated>
+  <updated>2016-12-22T15:49:11.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20161222 note</title>
+    <link href="http://hanscholem.github.io/2016/12/22/20161222-note/"/>
+    <id>http://hanscholem.github.io/2016/12/22/20161222-note/</id>
+    <published>2016-12-22T02:21:22.000Z</published>
+    <updated>2016-12-22T15:49:11.000Z</updated>
+    
+    <content type="html">&lt;p&gt;前天，週二傍晚確定被錄取，一個我想做的工作。月初面試，到確定獲得 offer 大概兩個星期，對一個待業中的人來說有點煎熬（這時要點播 Tizzy Bac 的&lt;a href=&quot;https://www.youtube.com/watch?v=eQP3wLnpje8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;〈想要的得不到〉&lt;/a&gt;）。&lt;/p&gt;
+&lt;p&gt;晚上去 &lt;a href=&quot;https://www.facebook.com/N9N9maker/?fref=ts&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;N9N9&lt;/a&gt; 參加了一個線下的羅輯思維的聚會（&lt;a href=&quot;https://www.facebook.com/%E5%8F%B0%E7%81%A3%E7%BE%85%E5%8F%8B%E6%9C%83-123578454397164/?fref=ts&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;台灣羅友會&lt;/a&gt;），開始新的工作之前去打個招呼，他們是在台灣每週固定有聚會的羅輯思維愛好者。聽他們談話會覺得自己實在是離「人才」這兩個字太遠了。&lt;/p&gt;
+&lt;p&gt;但我需要一份工作，一份收入，一直窩在家裡，事情也不會變得更好。得走出去才行。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前天，週二傍晚確定被錄取，一個我想做的工作。月初面試，到確定獲得 offer 大概兩個星期，對一個待業中的人來說有點煎熬（這時要點播 Tizzy Bac 的&lt;a href=&quot;https://www.youtube.com/watch?v=eQP3wLnpje8&quot; targe
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>活路與尋找自我</title>
@@ -106,58 +129,6 @@
 &lt;li&gt;上校在國際太空站上翻唱 Space Oddity&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/KaOC9danxNo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fh
-    
-    </summary>
-    
-      <category term="MondayNightMagic" scheme="http://hanscholem.github.io/categories/MondayNightMagic/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>MNM-008 胡說和 podcast</title>
-    <link href="http://hanscholem.github.io/2016/11/07/20161107-Podcast-Using-SoundCloud/"/>
-    <id>http://hanscholem.github.io/2016/11/07/20161107-Podcast-Using-SoundCloud/</id>
-    <published>2016-11-07T05:22:01.000Z</published>
-    <updated>2016-11-07T14:19:27.000Z</updated>
-    
-    <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;160&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fhans-chiang%2Fmnm-20161107&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;h3 id=&quot;Why-Podcasting&quot;&gt;&lt;a href=&quot;#Why-Podcasting&quot; class=&quot;headerlink&quot; title=&quot;Why Podcasting&quot;&gt;&lt;/a&gt;Why Podcasting&lt;/h3&gt;&lt;p&gt;Podcast 其實就是「廣播」這個東西在高速網路普及之後，把「用聲音傳播訊息」這件事情變成一個一個的電子檔，然後一般是用 RSS 來訂閱。&lt;/p&gt;
-&lt;p&gt;推薦 Podcast ： &lt;a href=&quot;http://www.npr.org/sections/money/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Planet Money&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我個人喜歡聽一些 podcast ，但是直到最近才真的稍微研究怎麼做一個 podcast 在 iTunes 上出現。 podcast 算是一個有點像僵屍的形式，最早是因為 iPod 的出現，網路定期發送音檔的服務才漸漸被稱為 podcast 。但是就像其他很快被新奇的新服務浪潮淹沒的網路服務，這其實不是很主流的東西，至少在台灣不是一個話題。&lt;/p&gt;
-&lt;p&gt;會想讓他在 iTunes 上出現，只是因為覺得有點懷舊，畢竟 iTunes 這個平台只有蘋果的內建的 app 能讀取或者搜尋，就發布的廣度來說是有限制。 Apple 會繼續維持這個部分也是某種歷史的因素？總之，我只是因為覺得東西能放在 iTunes 上被搜尋到很不錯。&lt;/p&gt;
-&lt;h3 id=&quot;使用-SoundCloud-發佈-Podcast&quot;&gt;&lt;a href=&quot;#使用-SoundCloud-發佈-Podcast&quot; class=&quot;headerlink&quot; title=&quot;使用 SoundCloud 發佈 Podcast&quot;&gt;&lt;/a&gt;使用 SoundCloud 發佈 Podcast&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://c2.staticflickr.com/6/5638/30835436625_9e94777e99.jpg&quot; alt=&quot;SoundCloud 首頁&quot;&gt;&lt;/p&gt;
-&lt;p&gt;使用步驟：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://soundcloud.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;註冊 SoundCloud 帳號&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;上傳你錄好的音檔（免費用戶只有 180 分鐘長度）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;注意事項：經測試，中國使用者無法看到 SoundCloud 的內容。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;SoundCloud 使用上很容易，就是註冊帳號，然後上傳你路的音頻。可惜的是他們移除了 iPhone 的 SoundCloud 官方 app 直接上傳錄音的功能，目前我是使用電腦上傳。 Android 好像官方的 App 可以直接上傳語音。 iPhone 可以利用第三方的 app ： AudioCopy 。&lt;/p&gt;
-&lt;p&gt;我覺得&lt;a href=&quot;http://www.ximalaya.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;喜馬拉雅&lt;/a&gt;這個中國產的 app 是很直接「學習」了 SoundCloud 最早的構想，但是因為中國政府的要求，喜馬拉雅的音頻上傳之後都會有一小段時間必須等待經過「審核」才會真正發佈。除了廣告很多這點有點煩之外，我覺得喜馬拉雅也是操作相對簡單的平台。&lt;/p&gt;
-&lt;p&gt;說實話， SoundCloud 對我來說是一個管理上有點問題的平台，上面非常多機器人，沒事會亂轉錄你的音頻或者是按讚，但是點進去看就知道那個帳號不是人類。我使用的原因是因為我不用花時間力氣在轉檔和串連相關服務。網路上有許多其他服務可以使用，可以用 Google 搜尋關鍵字： &lt;a href=&quot;https://www.google.com.tw/webhp?sourceid=chrome-instant&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=podcast%20host&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;podcast, host&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;從 SoundCloud 的設定畫面可以取出 RSS feed 的網址，建議設定頁面的一些站台資訊好好填寫。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://c5.staticflickr.com/6/5609/30534239900_3ab49e5fcf.jpg&quot; alt=&quot;SoundCloud 的設定畫面&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;iTunes-的連結申請&quot;&gt;&lt;a href=&quot;#iTunes-的連結申請&quot; class=&quot;headerlink&quot; title=&quot;iTunes 的連結申請&quot;&gt;&lt;/a&gt;iTunes 的連結申請&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://c4.staticflickr.com/6/5547/30747717211_4b844d8d37.jpg&quot; alt=&quot;只需要填入 RSS 的連結&quot;&gt;&lt;/p&gt;
-&lt;p&gt;當你已經準備好你的 SoundCloud 的 RSS 連結後，可以&lt;a href=&quot;https://podcastsconnect.apple.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;向蘋果申請把你的 Podcast 放到 iTunes 平台上&lt;/a&gt;，你必須有 iCloud 的 id 才能進行這個申請。&lt;/p&gt;
-&lt;p&gt;申請只需要填入 SoundCloud 的設定畫面提供的 RSS 連結，建議該設定畫面的資訊要妥善填寫，申請完成後會直接變成 iTunes 上的資訊。填完後審查的部分據說工作天是 1 ~ 7 天不等。據說是會真的「有人」來聽你提供的音頻做審核，所以可能要先放一兩條東西上去。能在 iPhone 上搜尋到自己的 Podcast 的感覺還不錯，但就是要督促自己能確實每天（最還固定時段）產出內容就是了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://c4.staticflickr.com/6/5692/30203140243_40eb4b434b.jpg&quot; alt=&quot;從 iPhone 上搜尋自己製作的 Podcast&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;小結&quot;&gt;&lt;a href=&quot;#小結&quot; class=&quot;headerlink&quot; title=&quot;小結&quot;&gt;&lt;/a&gt;小結&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;設備需求：一台 iPhone 或者任何可以匯出錄音檔案的設備。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://soundcloud.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;註冊 SoundCloud 帳號&lt;/a&gt; （&lt;strong&gt;中國目前會擋&lt;/strong&gt;）。&lt;/li&gt;
-&lt;li&gt;上傳語音檔案到 SoundCloud 。&lt;/li&gt;
-&lt;li&gt;如果想要放在 iTunes 上，先找到你的錄音平台提供的 RSS feed 。&lt;/li&gt;
-&lt;li&gt;持續產出。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;連結&quot;&gt;&lt;a href=&quot;#連結&quot; class=&quot;headerlink&quot; title=&quot;連結&quot;&gt;&lt;/a&gt;連結&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;我的 SoundCloud 頁面： &lt;a href=&quot;https://soundcloud.com/hans-chiang&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://soundcloud.com/hans-chiang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;我的 SoundCloud 的&lt;a href=&quot;http://feeds.soundcloud.com/users/soundcloud:users:265275180/sounds.rss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; RSS 訂閱連結&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     
     <summary type="html">
