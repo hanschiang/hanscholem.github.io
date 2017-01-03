@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-01-03T00:32:10.000Z</updated>
+  <updated>2017-01-03T01:33:15.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日札 20170103A</title>
+    <link href="http://hanscholem.github.io/2017/01/03/20170103A/"/>
+    <id>http://hanscholem.github.io/2017/01/03/20170103A/</id>
+    <published>2017-01-03T01:30:22.000Z</published>
+    <updated>2017-01-03T01:33:15.000Z</updated>
+    
+    <content type="html">&lt;p&gt;要出門上班了，其實這是一篇測試連線用的文。測試 IFTTT 是不是能夠測到「日札」的關鍵字然後轉錄到 fb 上。過完 2016 到了 2017 ，且戰且走。想恢復寫 blog 而且要每天上傳，即使可能只是一些雜記。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;要出門上班了，其實這是一篇測試連線用的文。測試 IFTTT 是不是能夠測到「日札」的關鍵字然後轉錄到 fb 上。過完 2016 到了 2017 ，且戰且走。想恢復寫 blog 而且要每天上傳，即使可能只是一些雜記。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="日記" scheme="http://hanscholem.github.io/categories/%E6%97%A5%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20170102 Mon</title>
@@ -124,29 +146,6 @@
     <summary type="html">
     
       &lt;p&gt;其實我從來沒買過 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%BC%8F%E5%BD%95%E9%9F%B3%E5%B8%A6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;錄音帶&lt;/a&gt; 格式的
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20161222 note</title>
-    <link href="http://hanscholem.github.io/2016/12/22/20161222-note/"/>
-    <id>http://hanscholem.github.io/2016/12/22/20161222-note/</id>
-    <published>2016-12-22T02:21:22.000Z</published>
-    <updated>2016-12-22T15:49:11.000Z</updated>
-    
-    <content type="html">&lt;p&gt;前天，週二傍晚確定被錄取，一個我想做的工作。月初面試，到確定獲得 offer 大概兩個星期，對一個待業中的人來說有點煎熬（這時要點播 Tizzy Bac 的&lt;a href=&quot;https://www.youtube.com/watch?v=eQP3wLnpje8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;〈想要的得不到〉&lt;/a&gt;）。&lt;/p&gt;
-&lt;p&gt;晚上去 &lt;a href=&quot;https://www.facebook.com/N9N9maker/?fref=ts&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;N9N9&lt;/a&gt; 參加了一個線下的羅輯思維的聚會（&lt;a href=&quot;https://www.facebook.com/%E5%8F%B0%E7%81%A3%E7%BE%85%E5%8F%8B%E6%9C%83-123578454397164/?fref=ts&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;台灣羅友會&lt;/a&gt;），開始新的工作之前去打個招呼，他們是在台灣每週固定有聚會的羅輯思維愛好者。聽他們談話會覺得自己實在是離「人才」這兩個字太遠了。&lt;/p&gt;
-&lt;p&gt;但我需要一份工作，一份收入，一直窩在家裡，事情也不會變得更好。得走出去才行。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;前天，週二傍晚確定被錄取，一個我想做的工作。月初面試，到確定獲得 offer 大概兩個星期，對一個待業中的人來說有點煎熬（這時要點播 Tizzy Bac 的&lt;a href=&quot;https://www.youtube.com/watch?v=eQP3wLnpje8&quot; targe
     
     </summary>
     
