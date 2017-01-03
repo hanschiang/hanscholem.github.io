@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-01-03T01:33:15.000Z</updated>
+  <updated>2017-01-03T01:39:02.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20170103A2</title>
+    <link href="http://hanscholem.github.io/2017/01/03/20170103A2/"/>
+    <id>http://hanscholem.github.io/2017/01/03/20170103A2/</id>
+    <published>2017-01-03T01:38:03.000Z</published>
+    <updated>2017-01-03T01:39:02.000Z</updated>
+    
+    <content type="html">&lt;p&gt;仍然是功能測試。似乎不是標題關鍵字，有待研究。暫時還是直接有新 blog 文就直接轉錄到 facebook 吧。雖然應該都是些雜記。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;仍然是功能測試。似乎不是標題關鍵字，有待研究。暫時還是直接有新 blog 文就直接轉錄到 facebook 吧。雖然應該都是些雜記。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="日記" scheme="http://hanscholem.github.io/categories/%E6%97%A5%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日札 20170103A</title>
@@ -126,30 +148,6 @@
     <summary type="html">
     
     </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20161223 A</title>
-    <link href="http://hanscholem.github.io/2016/12/23/20161223-A/"/>
-    <id>http://hanscholem.github.io/2016/12/23/20161223-A/</id>
-    <published>2016-12-22T23:58:43.000Z</published>
-    <updated>2016-12-23T01:29:05.000Z</updated>
-    
-    <content type="html">&lt;p&gt;其實我從來沒買過 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%BC%8F%E5%BD%95%E9%9F%B3%E5%B8%A6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;錄音帶&lt;/a&gt; 格式的音樂專輯，但是還是蠻喜歡以前因為格式限制而出現的 A-side 和 B-side 的印象。之後在部落格裡寫雜記預計這樣應用。早上一大早起來，寫的是 A-side 。一天要結束的時候再寫一次，是 B-side 。理論上，一天會發出兩篇 blog 。寫多寫少，都要發。短期目標， 2017 年不間斷。長期目標也許支持三個月之後再來想吧，自發性的東西，我之前的紀錄太容易半途而廢。&lt;/p&gt;
-&lt;p&gt;大概 2007 還 2008 年的時候決定開始寫日記，嘗試做到不間斷每天寫，大概持續了五六年。 2013 年我媽過世， 2014 從原本工程師的工作離職，回家裡幫忙也待了快 3 年，在我的能力範圍內做了一些事情。 2016 年結婚，搬到新店。在台北找工作，很幸運地獲得了可能是想做的工作的職缺，年底上工。&lt;/p&gt;
-&lt;p&gt;在找工作的時候，也許有點是想轉移一下找不到工作的焦慮，所以又開始碰 TRPG （ Tabletop Role-Playing Game ，桌上角色扮演遊戲）。這次似乎頗有心得，也開始試著當 GM （ Game Master ，遊戲主持人），找到了一個我覺得蠻適合我的系統，還不錯。&lt;/p&gt;
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/WLG3vKms_TM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;其實我從來沒買過 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%BC%8F%E5%BD%95%E9%9F%B3%E5%B8%A6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;錄音帶&lt;/a&gt; 格式的
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
     
     
   </entry>
