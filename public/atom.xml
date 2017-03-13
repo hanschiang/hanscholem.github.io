@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-01-03T01:39:02.000Z</updated>
+  <updated>2017-03-13T18:07:09.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>split</title>
+    <link href="http://hanscholem.github.io/2017/03/07/split/"/>
+    <id>http://hanscholem.github.io/2017/03/07/split/</id>
+    <published>2017-03-06T17:27:34.000Z</published>
+    <updated>2017-03-13T18:07:09.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Split-Condition&quot;&gt;&lt;a href=&quot;#Split-Condition&quot; class=&quot;headerlink&quot; title=&quot;Split Condition&quot;&gt;&lt;/a&gt;Split Condition&lt;/h2&gt;&lt;p&gt;以前在當製成工程師的時候，我們會說 split condition ，大概就是挑一些變數，去撒不同的工作條件，找出最好的參數。但這種撒實驗條件的做法，恰恰是為了找出方向，讓選項越來越少，理論上來說，會找到最有效率的工作方法。&lt;/p&gt;
+&lt;h2 id=&quot;網路平台流浪者&quot;&gt;&lt;a href=&quot;#網路平台流浪者&quot; class=&quot;headerlink&quot; title=&quot;網路平台流浪者&quot;&gt;&lt;/a&gt;網路平台流浪者&lt;/h2&gt;&lt;p&gt;目前看起來，我用比較久的平台大概只剩 ptt2 和 facebook 。其他的不是隨著時間而消逝（譬如無名小站）或者就是自己沒有好好經營、維持。現在這個 hexo 的 blog 也差不多是這個意思。我都已經有點不知道自己到底毀滅、建立幾個 blog 了。似乎沒有累積出什麼。今年（ 2017 ）可能要想想怎麼做比較好。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Split-Condition&quot;&gt;&lt;a href=&quot;#Split-Condition&quot; class=&quot;headerlink&quot; title=&quot;Split Condition&quot;&gt;&lt;/a&gt;Split Condition&lt;/h2&gt;&lt;p&gt;以前在當製成工程師的時候，我們會說 
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20170103A2</title>
@@ -132,22 +154,6 @@
     </summary>
     
       <category term="日記" scheme="http://hanscholem.github.io/categories/%E6%97%A5%E8%A8%98/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20161223 B</title>
-    <link href="http://hanscholem.github.io/2016/12/24/20161223-B/"/>
-    <id>http://hanscholem.github.io/2016/12/24/20161223-B/</id>
-    <published>2016-12-23T16:45:01.000Z</published>
-    <updated>2016-12-23T16:45:01.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
     
     
   </entry>
