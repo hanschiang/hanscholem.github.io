@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-04-02T15:11:40.000Z</updated>
+  <updated>2017-04-02T15:13:11.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20170402 test2</title>
+    <link href="http://hanscholem.github.io/2017/04/02/20170402-test2/"/>
+    <id>http://hanscholem.github.io/2017/04/02/20170402-test2/</id>
+    <published>2017-04-02T15:15:00.000Z</published>
+    <updated>2017-04-02T15:13:11.000Z</updated>
+    
+    <content type="html">&lt;p&gt;test2&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;test2&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>20170402 test</title>
@@ -138,28 +158,6 @@
     </summary>
     
       <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20170325 雜</title>
-    <link href="http://hanscholem.github.io/2017/03/25/20170325/"/>
-    <id>http://hanscholem.github.io/2017/03/25/20170325/</id>
-    <published>2017-03-25T13:31:48.000Z</published>
-    <updated>2017-03-25T17:53:20.000Z</updated>
-    
-    <content type="html">&lt;p&gt;在台北工作要滿三個月，好像狀況不是很好。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在台北工作要滿三個月，好像狀況不是很好。&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
     
     
   </entry>
