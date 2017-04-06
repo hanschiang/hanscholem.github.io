@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-04-06T17:12:23.000Z</updated>
+  <updated>2017-04-06T17:22:02.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://hanscholem.github.io/2017/04/07/20170407/"/>
     <id>http://hanscholem.github.io/2017/04/07/20170407/</id>
     <published>2017-04-06T17:08:52.000Z</published>
-    <updated>2017-04-06T17:12:23.000Z</updated>
+    <updated>2017-04-06T17:22:02.000Z</updated>
     
     <content type="html">&lt;hr&gt;
 &lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2809/33024933754_e455e6aa65_o.jpg&quot; alt=&quot;戀夏五百海報，去 Wikipedia 找&quot;&gt;&lt;/p&gt;
@@ -51,6 +51,8 @@
       <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
     
+      <category term="電影" scheme="http://hanscholem.github.io/tags/%E9%9B%BB%E5%BD%B1/"/>
+    
   </entry>
   
   <entry>
@@ -58,7 +60,7 @@
     <link href="http://hanscholem.github.io/2017/04/06/20170406/"/>
     <id>http://hanscholem.github.io/2017/04/06/20170406/</id>
     <published>2017-04-06T03:37:03.000Z</published>
-    <updated>2017-04-06T03:45:16.000Z</updated>
+    <updated>2017-04-06T17:21:56.000Z</updated>
     
     <content type="html">&lt;hr&gt;
 &lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/4/3941/33053480943_9f9389cac4_o.jpg&quot; alt=&quot;The Holiday 海報，取自 Wikipedia 。&quot;&gt;&lt;/p&gt;
@@ -90,6 +92,8 @@
     
       <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
+    
+      <category term="電影" scheme="http://hanscholem.github.io/tags/%E9%9B%BB%E5%BD%B1/"/>
     
   </entry>
   
