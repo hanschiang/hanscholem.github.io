@@ -1,5 +1,5 @@
 ---
-title: friendlogs
+title: 一起寫
 date: 2017-04-10 17:09:27
 ---
 
