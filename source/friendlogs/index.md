@@ -15,3 +15,4 @@ date: 2017-04-10 17:09:27
 - [喬伊蘇的幸福魚缸](http://joyce-forever.blogspot.tw/)
 - [陳志龍的醫二三事](http://zhilone.blogspot.tw)
 - [熱寫企劃](blog.zealplanner.com)
+- [譚小由](http://www.jianshu.com/u/d4a96376c328)
