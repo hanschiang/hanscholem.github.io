@@ -1,7 +1,7 @@
 ---
 title: 得到 app 海外用戶 paypal 付款
 date: 2016-08-30 22:47:49
-categories: 網路服務
+categories: 雜記
 tags: 羅輯思維
 ---
 

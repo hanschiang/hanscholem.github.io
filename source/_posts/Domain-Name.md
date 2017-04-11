@@ -2,7 +2,7 @@
 title: Domain Name
 date: 2016-07-07 15:25:49
 categories: 雜記
-tags:
+tags: hexo 功能測試
 ---
 
 - 昨晚[ Wayneh ](http://wayneh.tw/)建議我去弄個網域名稱，深夜覺得人生沒有前途，來做點沒做過的事情，於是信用卡刷了八百塊買了一個網域一年。
