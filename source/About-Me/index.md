@@ -25,5 +25,4 @@ date: 2016-07-09 16:30:44
 - interested_in = ["Javascript", "Python", "Ruby", "Rails"]
 - hobby = ["Magic: the Gathering, Since 1997", "動漫", "日劇", "美劇"]
 - Github_repo = [hanscholem](https://github.com/hanscholem)
-- Facebook_Page = [MWHans](https://www.facebook.com/MenWhyHans/)
 - [應徵用履歷](http://hanscholem.tw/resume/) = "其實也就是把下面這些亂寫的東西砍掉而已。"
