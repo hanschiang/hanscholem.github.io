@@ -20,7 +20,6 @@ date: 2016-07-09 16:30:44
 
 ## Basic Properties
 
-- Hans_Chiang = 江承翰
 - why_hanscholem = "因為小時候喜歡 Diablo 2 遊戲招喚出來的 Golem 。把 G 改成 Ch 想說是我的姓氏的英文拼音的開頭⋯⋯。"
 - recently_self_learning = ["Rails", "html", "css"]
 - interested_in = ["Javascript", "Python", "Ruby", "Rails"]
