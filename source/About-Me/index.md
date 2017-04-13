@@ -18,11 +18,8 @@ date: 2016-07-09 16:30:44
 - 精材科技 研發部門 製程工程師（ 2010.07 ～ 2014.02 ）
 - 東興婦產科診所 人資（ 2014.03 ～ 2016.08 ）
 
-## Basic Properties
+## 一些雜事
 
-- why_hanscholem = "因為小時候喜歡 Diablo 2 遊戲招喚出來的 Golem 。把 G 改成 Ch 想說是我的姓氏的英文拼音的開頭⋯⋯。"
-- recently_self_learning = ["Rails", "html", "css"]
-- interested_in = ["Javascript", "Python", "Ruby", "Rails"]
-- hobby = ["Magic: the Gathering, Since 1997", "動漫", "日劇", "美劇"]
-- Github_repo = [hanscholem](https://github.com/hanscholem)
-- [應徵用履歷](http://hanscholem.tw/resume/) = "其實也就是把下面這些亂寫的東西砍掉而已。"
+- 取 hanscholem 是因為小時候喜歡 Diablo 2 遊戲招喚出來的 Golem 。把 G 改成 Ch 想說是我的姓氏的英文拼音的開頭⋯⋯。
+- 想自學寫點簡單的程式，似乎時常半途而廢。
+- 之前[應徵用履歷](http://hanscholem.tw/resume/)，其實也就是把下面這些亂寫的東西砍掉而已。
