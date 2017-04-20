@@ -554,8 +554,6 @@ a.article-title:hover {
   color: #258fb8;
 }
 .article-entry {
-  text-decoration: none;
-  font-size: 1.5em;
   color: #555;
   padding: 0 20px;
 }
