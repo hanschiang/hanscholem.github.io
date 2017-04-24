@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-04-21T04:28:14.000Z</updated>
+  <updated>2017-04-21T04:53:57.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://hanscholem.github.io/2017/04/21/20170420/"/>
     <id>http://hanscholem.github.io/2017/04/21/20170420/</id>
     <published>2017-04-21T03:52:10.000Z</published>
-    <updated>2017-04-21T04:28:14.000Z</updated>
+    <updated>2017-04-21T04:53:57.000Z</updated>
     
     <content type="html">&lt;hr&gt;
 &lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2889/33784908390_c3db69e871_o.png&quot; alt=&quot;Markdown 語法，是蠻不錯的寫文件工具。&quot;&gt;&lt;/p&gt;
@@ -65,6 +65,8 @@
 &lt;p&gt;常看一些普通話節目，他們說「套路」，普通話的語境裡，往往隱含著「騙人」的意思，但就字面上來看的話，我看到這個用詞的第一個印象是有點像「拳法」總之是覺得是在描述中國武術之類。最樸實無善惡意的解法大概是「固定的模式」，崇洋一點一點的話就會說是 know-how 或者 SOP 。我有時候真的很佩服普通話使用者對於外文「中文化」的堅持。這篇大概就是想寫寫我這三週到底給自己套了什麼路。&lt;/p&gt;
     
     </summary>
+    
+      <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
     
   </entry>
