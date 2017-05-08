@@ -11,10 +11,3 @@ tags:
 每天寫 blog ： /276
 
 ---
-
-
-
----
-### 相關連結
-
-- [漢斯高崙臉書專頁](https://www.facebook.com/hanscholem/)
