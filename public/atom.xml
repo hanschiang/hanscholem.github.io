@@ -4,9 +4,9 @@
   <subtitle>漢斯。高崙</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hanscholem.tw/"/>
+  <link href="http://hanscholem.github.io/"/>
   <updated>2017-05-28T16:35:29.238Z</updated>
-  <id>http://hanscholem.tw/</id>
+  <id>http://hanscholem.github.io/</id>
   
   <author>
     <name>Hans Chiang（江承翰）</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>欠文很多</title>
-    <link href="http://hanscholem.tw/2017/05/29/20170529tp/"/>
-    <id>http://hanscholem.tw/2017/05/29/20170529tp/</id>
+    <link href="http://hanscholem.github.io/2017/05/29/20170529tp/"/>
+    <id>http://hanscholem.github.io/2017/05/29/20170529tp/</id>
     <published>2017-05-28T16:29:04.000Z</published>
     <updated>2017-05-28T16:35:29.238Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>20170509 看牙醫</title>
-    <link href="http://hanscholem.tw/2017/05/15/20170509/"/>
-    <id>http://hanscholem.tw/2017/05/15/20170509/</id>
+    <link href="http://hanscholem.github.io/2017/05/15/20170509/"/>
+    <id>http://hanscholem.github.io/2017/05/15/20170509/</id>
     <published>2017-05-14T17:24:34.000Z</published>
     <updated>2017-05-28T15:56:38.525Z</updated>
     
@@ -61,15 +61,15 @@
     
     </summary>
     
-      <category term="2017" scheme="http://hanscholem.tw/categories/2017/"/>
+      <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
     
   </entry>
   
   <entry>
     <title>20170508 臨，模仿，基本功</title>
-    <link href="http://hanscholem.tw/2017/05/13/20170508/"/>
-    <id>http://hanscholem.tw/2017/05/13/20170508/</id>
+    <link href="http://hanscholem.github.io/2017/05/13/20170508/"/>
+    <id>http://hanscholem.github.io/2017/05/13/20170508/</id>
     <published>2017-05-12T19:01:52.000Z</published>
     <updated>2017-05-28T15:56:38.525Z</updated>
     
@@ -98,15 +98,15 @@
     
     </summary>
     
-      <category term="2017" scheme="http://hanscholem.tw/categories/2017/"/>
+      <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
     
   </entry>
   
   <entry>
     <title>20170507 步行</title>
-    <link href="http://hanscholem.tw/2017/05/13/20170507/"/>
-    <id>http://hanscholem.tw/2017/05/13/20170507/</id>
+    <link href="http://hanscholem.github.io/2017/05/13/20170507/"/>
+    <id>http://hanscholem.github.io/2017/05/13/20170507/</id>
     <published>2017-05-12T18:34:25.000Z</published>
     <updated>2017-05-28T15:56:38.525Z</updated>
     
@@ -140,15 +140,15 @@
     
     </summary>
     
-      <category term="2017" scheme="http://hanscholem.tw/categories/2017/"/>
+      <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
     
   </entry>
   
   <entry>
     <title>20170506 簡體書與簡體字</title>
-    <link href="http://hanscholem.tw/2017/05/13/20170506/"/>
-    <id>http://hanscholem.tw/2017/05/13/20170506/</id>
+    <link href="http://hanscholem.github.io/2017/05/13/20170506/"/>
+    <id>http://hanscholem.github.io/2017/05/13/20170506/</id>
     <published>2017-05-12T18:07:57.000Z</published>
     <updated>2017-05-28T15:56:38.525Z</updated>
     
@@ -179,7 +179,7 @@
     
     </summary>
     
-      <category term="2017" scheme="http://hanscholem.tw/categories/2017/"/>
+      <category term="2017" scheme="http://hanscholem.github.io/categories/2017/"/>
     
     
   </entry>
