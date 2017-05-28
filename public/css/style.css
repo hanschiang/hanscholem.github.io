@@ -507,7 +507,7 @@ body {
   color: #777;
 }
 .article {
-  margin: 50px 0;
+  margin: 100px 0;
 }
 .article-inner {
   overflow: hidden;
@@ -531,7 +531,7 @@ body {
   margin-left: 8px;
 }
 .article-category:before {
-  content: "\1200";
+  content: "\2022";
 }
 .article-category-link {
   margin: 0 12px 1em;
@@ -755,7 +755,7 @@ a.article-title:hover {
 }
 @media screen and (min-width: 768px) {
   #article-nav {
-    margin: 50px 0;
+    margin: 100px 0;
   }
   #article-nav:before {
     width: 8px;
@@ -780,7 +780,7 @@ a.article-title:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  margin-top: 50px;
+  margin-top: 100px;
   text-align: center;
   display: block;
 }
@@ -957,13 +957,13 @@ a.article-title:hover {
   border: 1px solid #ddd;
   -webkit-border-radius: 3px;
   border-radius: 3px;
-  margin: 50px 0;
+  margin: 100px 0;
 }
 #comments a {
   color: #258fb8;
 }
 .archives-wrap {
-  margin: 50px 0;
+  margin: 100px 0;
 }
 .archives:before,
 .archives:after {
@@ -1030,7 +1030,7 @@ a.article-title:hover {
   display: block;
 }
 #page-nav {
-  margin: 50px auto;
+  margin: 100px auto;
   background: #fff;
   -webkit-box-shadow: 1px 2px 3px #ddd;
   box-shadow: 1px 2px 3px #ddd;
@@ -1306,7 +1306,7 @@ pre .javascript .function {
   }
 }
 .widget-wrap {
-  margin: 50px 0;
+  margin: 100px 0;
 }
 .widget {
   color: #777;
