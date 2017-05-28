@@ -75,7 +75,7 @@ deploy:
   repo: git@github.com:hanscholem/hanscholem.github.io.git
   branch: master
   message: hexo deploy
-  name: hanscholem
+  name: jchans
   email: jiangchenghans@gmail.com
 
 # Feed by hexo-generator-feed
