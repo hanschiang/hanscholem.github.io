@@ -507,7 +507,7 @@ body {
   color: #777;
 }
 .article {
-  margin: 50px 20;
+  margin: 50px 0;
 }
 .article-inner {
   overflow: hidden;
@@ -531,7 +531,7 @@ body {
   margin-left: 8px;
 }
 .article-category:before {
-  content: "\2022";
+  content: "\1200";
 }
 .article-category-link {
   margin: 0 12px 1em;
