@@ -1,7 +1,7 @@
 ---
 title: 世間無魯
 date: 2017-03-31 13:59:48
-categories: 2017
+categories: 雜記
 tags:
 ---
 
