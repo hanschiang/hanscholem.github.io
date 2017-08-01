@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-07-28T04:32:20.000Z</updated>
+  <updated>2017-08-01T17:04:19.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>胡說骰筆記</title>
+    <link href="http://hanscholem.github.io/2017/08/01/20170801/"/>
+    <id>http://hanscholem.github.io/2017/08/01/20170801/</id>
+    <published>2017-08-01T11:23:59.000Z</published>
+    <updated>2017-08-01T17:04:19.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4313/36142475132_b859f8383c.jpg&quot; alt=&quot;完全不是台灣的街景，某次跑團後我的塗鴉&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;歪題&quot;&gt;&lt;a href=&quot;#歪題&quot; class=&quot;headerlink&quot; title=&quot;歪題&quot;&gt;&lt;/a&gt;歪題&lt;/h3&gt;&lt;p&gt;今天其實想介紹的是一套叫做「 &lt;a href=&quot;http://www.evilhat.com/home/fate-core/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fate&lt;/a&gt; 」的「 &lt;a href=&quot;https://en.wikipedia.org/wiki/Role-playing_game&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RPG （角色扮演遊戲）&lt;/a&gt; 」系統，適合玩家們用自己有興趣的世界觀或者故事架構來說故事。譬如說我們可能一群人很喜歡星際大戰的故事，但是在續集電影上映之前，我們可能依照星際大戰的世界觀調整 Fate 系統裡的一些遊戲規則然後即可用來扮演星際大戰世界觀裡的人物進而玩出一些或長或短的外傳故事，自創的。&lt;/p&gt;
+&lt;p&gt;關於&lt;strong&gt;胡說骰&lt;/strong&gt;： Fate 其實是一個叫做 &lt;a href=&quot;https://en.wikipedia.org/wiki/Fudge_(role-playing_game_system&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FUDGE&lt;/a&gt;) 的系統衍生出來的，雖然後來 Fate 系統的出版公司 Evil Hat 稱呼他們用的骰子為「 Fate Dice 」，但其實一般都還是稱為 FUDGE Dice （胡說骰）。&lt;/p&gt;
+&lt;p&gt;無論是『 Fate 』還是『 RPG 』這兩個詞在台灣的語境裡因為歷史因素，提到這兩個詞的時候都會強烈地連結到別的東西，所以題目盡量找了比較接近我想介紹的東西的詞。至於 Fate 跟 RPG 下文稍微跟大家介紹、分辨一下。&lt;/p&gt;
+&lt;h3 id=&quot;RPG-→-TRPG&quot;&gt;&lt;a href=&quot;#RPG-→-TRPG&quot; class=&quot;headerlink&quot; title=&quot;RPG → TRPG&quot;&gt;&lt;/a&gt;RPG → TRPG&lt;/h3&gt;&lt;p&gt;在中文的語境尤其是台灣講的中文的語境裡，拜早期日本電玩深入人心所賜，提到『 RPG 』這幾個字的時候會想到的可能是早期日本電玩諸如《太空戰士》或者《勇者鬥惡龍》系列的印象，但 Role Playing System 其實是源自歐美的一種桌上遊戲形式，也如字面說的，是一種「角色扮演」（扮演你的角色）的遊戲，日式RPG 電玩可能的確抓到了角色扮演遊戲裡最受人歡迎的一些元素，奇異的怪物、絢麗的魔法、精緻的裝備等等，但是在「角色扮演」這件事情上早期的 RPG電玩 是捨棄的，基本上還是大多是寫定的劇本，玩家們只是在練攻打怪的過程中把故事跑一次而已。電玩後來漸漸發展出多結局或者多線式劇情，但「玩家」做的比較多是「選擇」，但是不太需要「扮演」。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4328/36309006555_07616b496e.jpg&quot; alt=&quot;《太空戰士 III》戰鬥畫面&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;角色&lt;/strong&gt;， RPG ， Role Playing Game，在不熟悉這個遊戲的人旁觀起來，可能只會看到一群人圍著桌子，拿著一些紙筆和骰子在耍猴戲（扮演），某方面來說蠻像扮家家酒，有些玩家會選擇扮演個性與自己相近的角色，有些玩家會嘗試扮演自己不熟悉的角色類型（譬如我身為一個熱血白癡類型的人會試著去扮演冷面殺手之類的）。但無論如何，那種「演戲」或者「扮演」虛構的角色的性質，我認為才是角色扮演遊戲的重點。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;故事&lt;/strong&gt;，通常每個 RPG 系統，都有相應的模組：故事、世界觀、既有角色等等，但也有純粹提供遊戲規（一些判定的方式）則但是讓玩家們自己決定世界觀和故事的遊戲系統，今天想談的 Fate 是後者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;骰子與規則&lt;/strong&gt;，與一般電玩不太一樣的事情是， RPG的玩家扮演他們的角色，自由度非常的高，但是每個系統有每個系統的世界觀與規則，在玩家想要作一些角色與環境衝突的狀況的時候，這時依照規則，需要用骰子做檢定。由 GM （ Game Master ）也就是遊戲主持人決定事件與玩家的反應需要檢定與否。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GM（遊戲主持人）&lt;/strong&gt;，負責主持遊戲，協助玩家創造角色，營造氣氛，扮演 NPC （ Non-Player Character ），判斷事件是否需要檢定等等。&lt;/p&gt;
+&lt;p&gt;簡而言之，角色扮演遊戲大概是，聚會，創造角色， GM 帶大家一起進行一個故事的過程。在台灣為了跟一般電玩的 RPG遊戲 這個類別作區隔，愛好者們會稱之為「 TRPG 」（Tabletop Role Playing Game），但是在歐美通常都逕稱「 RPG 」就是了。&lt;/p&gt;
+&lt;p&gt;最近一部美劇《怪奇物語》開場，有一個&lt;a href=&quot;https://www.youtube.com/watch?v=v8bLAFfnoDM#t=1m48s&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;主角們玩 TRPG 的段落&lt;/a&gt;很傳神地表現了 TRPG 進行中的情境。其實早期的 TRPG 系統可能一般小學到國中之間年紀的學生就能進行遊戲，但是這幾年一些傳統的系統譬如 DnD 變得比較複雜，我懷疑小朋友能玩得起來？也許英文母語的學生有辦法吧。&lt;/p&gt;
+&lt;h3 id=&quot;Fate-RPG-System&quot;&gt;&lt;a href=&quot;#Fate-RPG-System&quot; class=&quot;headerlink&quot; title=&quot;Fate RPG System&quot;&gt;&lt;/a&gt;Fate RPG System&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4323/36272632736_a3acb6a7ea_o.png&quot; alt=&quot;Fate 衍生作品授權用圖&quot;&gt;&lt;/p&gt;
+&lt;p&gt;在台灣跟人講說我在玩「 Fate 的 RPG 」，大概兩成不知道你在說什麼，剩下的八成是想到《 Fate/stay night 》相關的產品，尤其最近剛好流行的手機遊戲也有《 Fate/Grand Order 》這個東西（常見的簡寫有 Fate/GO 或者 FGO 之類），所以 Fate 這個詞在台灣乃至中文使用者的圈子裡都幾乎是跟「女性亞瑟王Saber醬」畫上等號的。&lt;/p&gt;
+&lt;p&gt;我這裡說的「 Fate 系統 」指的是一個泛用型的遊戲規則，雖然製作公司也有出版一些模組（故事），但是它的開發一開始就是為了讓玩家們可以自由地帶入各種世界觀去體驗各種故事裡的角色扮演。&lt;a href=&quot;https://www.kickstarter.com/projects/evilhat/fate-core&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;加上超級成功的 Kickstarter 募款結果（目標 3,000USD 結果目到了 433,365USD ）&lt;/a&gt;，最後整個遊戲的三本重要的規則書都變成開放授權，免費下載，自由使用改作乃至商業用，許多有創意的玩家們紛紛在網路上製作自己喜歡的世界觀的模組版本（我有看過比較有趣的是「忍者龜」、「變形金剛」、「星際大戰」等等）。&lt;/p&gt;
+&lt;p&gt;Fate 是從 FUDGE 這個以「胡說」為名的系統變化而來，但基本上保留了「胡說」（給玩家自由？）的性質，加上 Fate Point （類似萬能貨幣？）的設計，讓玩家對於遊戲的掌握程度比起其他 RPG 系統高出許多，所以在 Fate 裡玩家們扮演的都是能力強大的人士。翻江倒海不說，只差一點就可以單手劈開泰山之類的。&lt;/p&gt;
+&lt;p&gt;是個需要有一點想像力的遊戲。可能適合喜歡說故事的人們，可能比較篇科幻 and/or 奇幻故事。&lt;/p&gt;
+&lt;p&gt;最早的時候是想找個能把台灣歷史的一些故事拿來當模組的泛用系統，但是後來不知怎地完成「奇幻台北」之類的故事（「巫師神探」的過度簡單揣摩版），那是另外一個故事了。&lt;/p&gt;
+&lt;h2 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; title=&quot;相關連結&quot;&gt;&lt;/a&gt;相關連結&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/hanscholem/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hanscholem的臉書專頁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://slyflourish.com/dungeons_of_fate.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sly Flourish: Dungeons of Fate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/faterpg/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FATE 正體中文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.evilhat.com/home/fate-core/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fate Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4313/36142475132_b859f8383c.jpg&quot; alt=&quot;完全不是台灣的街景，某次跑團後我的塗鴉&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;歪題&quot;&gt;&lt;a href=&quot;#歪題&quot; class=
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+      <category term="TRPG" scheme="http://hanscholem.github.io/tags/TRPG/"/>
+    
+  </entry>
   
   <entry>
     <title>《青梅竹馬》觀影筆記</title>
@@ -230,36 +277,6 @@
     
       &lt;ul&gt;
 &lt;li&gt;七月一日， 2017 下半年。&lt;/li&gt;
-&lt;/ul&gt;
-
-    
-    </summary>
-    
-      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20170621</title>
-    <link href="http://hanscholem.github.io/2017/06/21/20170621/"/>
-    <id>http://hanscholem.github.io/2017/06/21/20170621/</id>
-    <published>2017-06-21T05:33:06.000Z</published>
-    <updated>2017-06-21T09:02:36.000Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;混亂必須中止。&lt;/li&gt;
-&lt;li&gt;我其實知道我自己要什麼。&lt;/li&gt;
-&lt;li&gt;必須把時間力氣等等資源，花在真正應該投入的東西上。&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;混亂必須中止。&lt;/li&gt;
-&lt;li&gt;我其實知道我自己要什麼。&lt;/li&gt;
-&lt;li&gt;必須把時間力氣等等資源，花在真正應該投入的東西上。&lt;/li&gt;
 &lt;/ul&gt;
 
     
