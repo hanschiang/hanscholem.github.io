@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2017-11-18T05:13:21.000Z</updated>
+  <updated>2017-11-18T05:18:26.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -20,13 +20,14 @@
     <link href="http://hanscholem.github.io/2017/11/18/fae-ct/"/>
     <id>http://hanscholem.github.io/2017/11/18/fae-ct/</id>
     <published>2017-11-18T05:10:00.000Z</published>
-    <updated>2017-11-18T05:13:21.000Z</updated>
+    <updated>2017-11-18T05:18:26.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;關於-命運快速版（-Fate-Accelerated-）&quot;&gt;&lt;a href=&quot;#關於-命運快速版（-Fate-Accelerated-）&quot; class=&quot;headerlink&quot; title=&quot;關於 命運快速版（ Fate Accelerated ）&quot;&gt;&lt;/a&gt;關於 命運快速版（ Fate Accelerated ）&lt;/h1&gt;&lt;p&gt;命運快速版（ Fate Accelerated ）是 Evil Hat 公司出版的一個輕量泛用 TRPG 系統，可以讓人們在短時間內開始一段冒險。&lt;/p&gt;
 &lt;p&gt;這份文件的目的是把 Kika Asylum 的 FAE 正體中文翻譯製作成電子書以及能印成 pdf 的小冊兩種版本。&lt;/p&gt;
 &lt;p&gt;這是一份還在編輯中的文件，若有發現問題，請不吝告訴我們，謝謝您。&lt;/p&gt;
 &lt;p&gt;我們的 discord 頻道「 Call of TRPG 」： &lt;a href=&quot;https://discord.gg/jD5SPhz&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://discord.gg/jD5SPhz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This work is based on Fate Core System and Fate Accelerated Edition (found at &lt;a href=&quot;http://www.faterpg.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.faterpg.com/&lt;/a&gt;), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;).&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;待處理&quot;&gt;&lt;a href=&quot;#待處理&quot; class=&quot;headerlink&quot; title=&quot;待處理&quot;&gt;&lt;/a&gt;待處理&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;文字搬運（ver.1 done）&lt;/li&gt;
 &lt;li&gt;製作 hans 註解版？&lt;/li&gt;
@@ -979,7 +980,11 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;關於-命運快速版（-Fate-Accelerated-）&quot;&gt;&lt;a href=&quot;#關於-命運快速版（-Fate-Accelerated-）&quot; class=&quot;headerlink&quot; title=&quot;關於 命運快速版（ Fate Accelerated ）&quot;&gt;&lt;/a&gt;關於
+      &lt;h1 id=&quot;關於-命運快速版（-Fate-Accelerated-）&quot;&gt;&lt;a href=&quot;#關於-命運快速版（-Fate-Accelerated-）&quot; class=&quot;headerlink&quot; title=&quot;關於 命運快速版（ Fate Accelerated ）&quot;&gt;&lt;/a&gt;關於 命運快速版（ Fate Accelerated ）&lt;/h1&gt;&lt;p&gt;命運快速版（ Fate Accelerated ）是 Evil Hat 公司出版的一個輕量泛用 TRPG 系統，可以讓人們在短時間內開始一段冒險。&lt;/p&gt;
+&lt;p&gt;這份文件的目的是把 Kika Asylum 的 FAE 正體中文翻譯製作成電子書以及能印成 pdf 的小冊兩種版本。&lt;/p&gt;
+&lt;p&gt;這是一份還在編輯中的文件，若有發現問題，請不吝告訴我們，謝謝您。&lt;/p&gt;
+&lt;p&gt;我們的 discord 頻道「 Call of TRPG 」： &lt;a href=&quot;https://discord.gg/jD5SPhz&quot;&gt;https://discord.gg/jD5SPhz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This work is based on Fate Core System and Fate Accelerated Edition (found at &lt;a href=&quot;http://www.faterpg.com/&quot;&gt;http://www.faterpg.com/&lt;/a&gt;), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;).&lt;/p&gt;
     
     </summary>
     
