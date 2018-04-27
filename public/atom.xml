@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2018-02-28T06:02:41.000Z</updated>
+  <updated>2018-04-27T03:06:50.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20180427 筆記</title>
+    <link href="http://hanscholem.github.io/2018/04/27/20180427/"/>
+    <id>http://hanscholem.github.io/2018/04/27/20180427/</id>
+    <published>2018-04-27T03:03:06.000Z</published>
+    <updated>2018-04-27T03:06:50.000Z</updated>
+    
+    <content type="html">&lt;p&gt;最近在看 Unity 的 Tutorial… 官方的 Space Shooter 的影片似乎是舊版的 Unity ，所以有些寫法有變。&lt;/p&gt;
+&lt;p&gt;把練習的 code 貼一下免得忘記。在 PlayerController 這裡遇到的版本差異。&lt;/p&gt;
+&lt;p&gt;Space Shooter 這個 Tutorial Project 裡的 rigidbody 要用 GetComponent 去取用。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;9&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;10&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;11&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;12&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;13&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;14&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;15&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;16&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;17&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;18&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;19&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;20&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;21&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;22&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;23&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;24&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;25&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;26&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;27&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;28&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;29&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;30&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;31&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;32&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;33&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;34&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;35&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;36&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;37&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;38&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;39&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;40&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;41&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;42&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;43&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;using System.Collections;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;using System.Collections.Generic;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;using UnityEngine;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;[System.Serializable]&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;public class Boundary&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	public float xMin, xMax, zMin, zMax;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;public class PlayerController : MonoBehaviour&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	public Rigidbody rigidbody;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	public float speed;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	public float tilt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	public Boundary boundary;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	void Start ()&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		rigidbody = GetComponent&amp;lt;Rigidbody&amp;gt;();&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	void FixedUpdate ()&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		float moveHorizontal = Input.GetAxis (&amp;quot;Horizontal&amp;quot;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		float moveVertical = Input.GetAxis (&amp;quot;Vertical&amp;quot;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		rigidbody.velocity = movement * speed;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		rigidbody.position = new Vector3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		(&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;			Mathf.Clamp (rigidbody.position.x, boundary.xMin, boundary.xMax),&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;			0.0f,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;			Mathf.Clamp (rigidbody.position.z, boundary.zMin, boundary.zMax)&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		rigidbody.rotation = Quaternion.Euler (0.0f, 0.0f, rigidbody.velocity.x * -tilt);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在看 Unity 的 Tutorial… 官方的 Space Shooter 的影片似乎是舊版的 Unity ，所以有些寫法有變。&lt;/p&gt;
+&lt;p&gt;把練習的 code 貼一下免得忘記。在 PlayerController 這裡遇到的版本差異。&lt;/p&gt;
+&lt;p&gt;Space S
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20180228</title>
@@ -1064,30 +1090,6 @@
 &lt;li&gt;不要太容易放棄、逃避。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; 
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>20170815 面對失業</title>
-    <link href="http://hanscholem.github.io/2017/08/15/20170815/"/>
-    <id>http://hanscholem.github.io/2017/08/15/20170815/</id>
-    <published>2017-08-15T08:46:43.000Z</published>
-    <updated>2017-08-15T08:47:48.000Z</updated>
-    
-    <content type="html">&lt;p&gt;紀錄一下，今天完成了失業補助第一次的申請。算是真的面對失業了吧。下一步還是沒啥想法，總之紀錄一下。&lt;/p&gt;
-&lt;h2 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; title=&quot;相關連結&quot;&gt;&lt;/a&gt;相關連結&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/hanscholem/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;漢斯。高崙&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;紀錄一下，今天完成了失業補助第一次的申請。算是真的面對失業了吧。下一步還是沒啥想法，總之紀錄一下。&lt;/p&gt;
-&lt;h2 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; title=&quot;相關連結&quot;&gt;&lt;/a&gt;相關連結&lt;/h2&gt;&lt;ul&gt;
-&lt;li
     
     </summary>
     
