@@ -115,11 +115,12 @@ ga('send', 'pageview');
 <p>把練習的 code 貼一下免得忘記。在 PlayerController 這裡遇到的版本差異。</p>
 <p>Space Shooter 這個 Tutorial Project 裡的 rigidbody 要用 GetComponent 去取用。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div></pre></td><td class="code"><pre><div class="line">using System.Collections;</div><div class="line">using System.Collections.Generic;</div><div class="line">using UnityEngine;</div><div class="line"></div><div class="line"></div><div class="line">[System.Serializable]</div><div class="line"></div><div class="line">public class Boundary</div><div class="line">&#123;</div><div class="line">	public float xMin, xMax, zMin, zMax;</div><div class="line">&#125;</div><div class="line"></div><div class="line">public class PlayerController : MonoBehaviour</div><div class="line">&#123;</div><div class="line"></div><div class="line">	public Rigidbody rigidbody;</div><div class="line">	public float speed;</div><div class="line">	public float tilt;</div><div class="line">	public Boundary boundary;</div><div class="line"></div><div class="line">	void Start ()</div><div class="line">	&#123;</div><div class="line">		rigidbody = GetComponent&lt;Rigidbody&gt;();</div><div class="line">	&#125;</div><div class="line"></div><div class="line">	void FixedUpdate ()</div><div class="line">	&#123;</div><div class="line">		float moveHorizontal = Input.GetAxis (&quot;Horizontal&quot;);</div><div class="line">		float moveVertical = Input.GetAxis (&quot;Vertical&quot;);</div><div class="line"></div><div class="line">		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);</div><div class="line">		rigidbody.velocity = movement * speed;</div><div class="line"></div><div class="line">		rigidbody.position = new Vector3</div><div class="line">		(</div><div class="line">			Mathf.Clamp (rigidbody.position.x, boundary.xMin, boundary.xMax),</div><div class="line">			0.0f,</div><div class="line">			Mathf.Clamp (rigidbody.position.z, boundary.zMin, boundary.zMax)</div><div class="line">		);</div><div class="line"></div><div class="line">		rigidbody.rotation = Quaternion.Euler (0.0f, 0.0f, rigidbody.velocity.x * -tilt);</div><div class="line">	&#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h3 id="雷射子彈的-code"><a href="#雷射子彈的-code" class="headerlink" title="雷射子彈的 code"></a>雷射子彈的 code</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">using System.Collections;</div><div class="line">using System.Collections.Generic;</div><div class="line">using UnityEngine;</div><div class="line"></div><div class="line">public class Mover : MonoBehaviour</div><div class="line">&#123;</div><div class="line">	public Rigidbody rigidbody;</div><div class="line">	public float speed;</div><div class="line"></div><div class="line">	void Start()</div><div class="line">	&#123;</div><div class="line">		rigidbody = GetComponent&lt;Rigidbody&gt;();</div><div class="line">		rigidbody.velocity = transform.forward * speed;</div><div class="line">	&#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2018/04/27/20180427/" data-id="cjghdm480006pzz6fetkvcucw" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2018/04/27/20180427/" data-id="cjghgi5io006vcb6f1j12a9o6" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2018/04/27/20180427/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -163,7 +164,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2018/02/28/20180228/" data-id="cjghdm483006xzz6fmd7j5oxs" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2018/02/28/20180228/" data-id="cjghgi5in006scb6f5vsuifdj" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2018/02/28/20180228/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -208,7 +209,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2018/01/20/2018-New-Year/" data-id="cjghdm47z006jzz6fmbj94eje" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2018/01/20/2018-New-Year/" data-id="cjghgi5im006qcb6f7c66f8xm" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2018/01/20/2018-New-Year/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -255,7 +256,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/11/18/trpg-fae-ct/" data-id="cjghdm49n00apzz6fzc58iqz8" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/11/18/trpg-fae-ct/" data-id="cjghgi5ku00atcb6fbrk54v1u" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/11/18/trpg-fae-ct/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -303,7 +304,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/08/24/20170824/" data-id="cjghdm482006tzz6fmwbhvitu" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/08/24/20170824/" data-id="cjghgi5im006ocb6fuyvacrs5" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/08/24/20170824/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -345,7 +346,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/08/15/20170815/" data-id="cjghdm481006rzz6folfuyz1l" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/08/15/20170815/" data-id="cjghgi5il006mcb6fl7o3q88t" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/08/15/20170815/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -388,7 +389,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/08/07/20170807/" data-id="cjghdm480006mzz6fztcqi3f6" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/08/07/20170807/" data-id="cjghgi5ij006jcb6frbjk1cvz" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/08/07/20170807/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -438,7 +439,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/08/01/20170801/" data-id="cjghdm47y006hzz6fl0p73kbq" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/08/01/20170801/" data-id="cjghgi5ii006gcb6fanoiny1l" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/08/01/20170801/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -492,7 +493,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/07/27/20170727/" data-id="cjghdm47x006czz6fm0bmjii6" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/07/27/20170727/" data-id="cjghgi5ii006ecb6fsf5gervd" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/07/27/20170727/#disqus_thread" class="article-comment-link">留言</a>
       
@@ -579,7 +580,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hanscholem.github.io/2017/07/25/20170725de/" data-id="cjghdm47x006ezz6f547efej3" class="article-share-link">Share</a>
+      <a data-url="http://hanscholem.github.io/2017/07/25/20170725de/" data-id="cjghgi5ih006ccb6f7uo2ovhl" class="article-share-link">Share</a>
       
         <a href="http://hanscholem.github.io/2017/07/25/20170725de/#disqus_thread" class="article-comment-link">留言</a>
       
