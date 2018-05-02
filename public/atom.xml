@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanscholem.github.io/"/>
-  <updated>2018-04-27T04:27:50.000Z</updated>
+  <updated>2018-05-02T01:30:47.000Z</updated>
   <id>http://hanscholem.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20180502</title>
+    <link href="http://hanscholem.github.io/2018/05/02/20180502/"/>
+    <id>http://hanscholem.github.io/2018/05/02/20180502/</id>
+    <published>2018-05-02T01:30:18.000Z</published>
+    <updated>2018-05-02T01:30:47.000Z</updated>
+    
+    <content type="html">&lt;p&gt;五月了… &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;五月了… &lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="雜記" scheme="http://hanscholem.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>20180427 筆記</title>
@@ -1063,37 +1085,6 @@
     
     
       <category term="TRPG" scheme="http://hanscholem.github.io/tags/TRPG/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20170824</title>
-    <link href="http://hanscholem.github.io/2017/08/24/20170824/"/>
-    <id>http://hanscholem.github.io/2017/08/24/20170824/</id>
-    <published>2017-08-24T12:38:37.000Z</published>
-    <updated>2017-08-24T12:39:52.000Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;不知道是不是把自己又丟回了原本的泥沼裡。&lt;/li&gt;
-&lt;li&gt;但是也許好好解決一些事情，會比較容易。&lt;/li&gt;
-&lt;li&gt;不要太容易放棄、逃避。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; title=&quot;相關連結&quot;&gt;&lt;/a&gt;相關連結&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/hanscholem/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;漢斯。高崙&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;不知道是不是把自己又丟回了原本的泥沼裡。&lt;/li&gt;
-&lt;li&gt;但是也許好好解決一些事情，會比較容易。&lt;/li&gt;
-&lt;li&gt;不要太容易放棄、逃避。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;相關連結&quot;&gt;&lt;a href=&quot;#相關連結&quot; class=&quot;headerlink&quot; 
-    
-    </summary>
-    
     
   </entry>
   
